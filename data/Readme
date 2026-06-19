@@ -1,0 +1,15 @@
+# Data
+
+## Benchmark: `legalrag_qa_benchmark.csv`
+242 complexity-annotated Kazakh legal QA questions
+(182 answerable + 60 unanswerable). Columns: question, gold_answer,
+gold_chunk_id, complexity, answerability, question_type, domain.
+
+## Corpus: LegalRAG (Hugging Face)
+56,916 structure-aware chunks from 5,603 legal documents.
+https://huggingface.co/datasets/Arailym-tleubayeva/LegalRAG
+
+Columns: doc_id, date, section_title, source, chunk_id, text,
+words, char_len, word_len, normalized_text.
+
+**Note:** BM25 retrieval uses the `text` column. License: CC BY 4.0.
