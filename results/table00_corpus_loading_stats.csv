@@ -1,0 +1,10 @@
+﻿Statistic,Value
+HF corpus id,Arailym-tleubayeva/LegalRAG
+Split,train
+Rows / chunks,56916
+Chunk id column,chunk_id
+Document id column,doc_id
+Source column,source
+Text column,text
+Normalized text column,normalized_text
+Gold chunk coverage,182/182 (100.0%)

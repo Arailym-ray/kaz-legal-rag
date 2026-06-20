@@ -1,0 +1,1453 @@
+﻿system,setting,row_id,answerability,failed,abstained,gen_len,EM,F1,chrf,rouge_l
+KazLLM-1.0-8B,LLM-only,0,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,1,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,2,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,3,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,4,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,5,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,6,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,7,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,8,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,9,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,10,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,11,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,12,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,13,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,14,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,15,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,16,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,17,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,18,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,19,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,20,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,21,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,22,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,23,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,24,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,25,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,26,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,27,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,28,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,29,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,30,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,31,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,32,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,33,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,34,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,35,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,36,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,37,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,38,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,39,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,40,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,41,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,42,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,43,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,44,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,45,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,46,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,47,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,48,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,49,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,50,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,51,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,52,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,53,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,54,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,55,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,56,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,57,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,58,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,59,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,60,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,61,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,62,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,63,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,64,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,65,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,66,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,67,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,68,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,69,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,70,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,71,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,72,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,73,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,74,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,75,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,76,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,77,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,78,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,79,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,80,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,81,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,82,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,83,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,84,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,85,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,86,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,87,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,88,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,89,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,90,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,91,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,92,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,93,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,94,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,95,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,96,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,97,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,98,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,99,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,100,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,101,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,102,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,103,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,104,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,105,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,106,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,107,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,108,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,109,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,110,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,111,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,112,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,113,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,114,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,115,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,116,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,117,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,118,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,119,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,120,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,121,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,122,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,123,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,124,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,125,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,126,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,127,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,128,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,129,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,130,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,131,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,132,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,133,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,134,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,135,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,136,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,137,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,138,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,139,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,140,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,141,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,142,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,143,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,144,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,145,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,146,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,147,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,148,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,149,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,150,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,151,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,152,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,153,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,154,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,155,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,156,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,157,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,158,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,159,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,160,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,161,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,162,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,163,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,164,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,165,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,166,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,167,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,168,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,169,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,170,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,171,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,172,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,173,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,174,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,175,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,176,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,177,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,178,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,179,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,180,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,181,answerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,182,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,183,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,184,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,185,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,186,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,187,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,188,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,189,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,190,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,191,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,192,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,193,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,194,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,195,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,196,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,197,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,198,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,199,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,200,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,201,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,202,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,203,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,204,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,205,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,206,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,207,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,208,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,209,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,210,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,211,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,212,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,213,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,214,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,215,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,216,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,217,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,218,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,219,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,220,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,221,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,222,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,223,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,224,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,225,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,226,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,227,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,228,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,229,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,230,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,231,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,232,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,233,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,234,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,235,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,236,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,237,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,238,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,239,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,240,unanswerable,1,1,53,,,,
+KazLLM-1.0-8B,LLM-only,241,unanswerable,1,1,53,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,0,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,1,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,2,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,3,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,4,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,5,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,6,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,7,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,8,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,9,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,10,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,11,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,12,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,13,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,14,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,15,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,16,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,17,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,18,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,19,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,20,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,21,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,22,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,23,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,24,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,25,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,26,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,27,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,28,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,29,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,30,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,31,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,32,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,33,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,34,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,35,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,36,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,37,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,38,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,39,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,40,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,41,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,42,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,43,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,44,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,45,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,46,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,47,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,48,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,49,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,50,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,51,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,52,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,53,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,54,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,55,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,56,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,57,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,58,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,59,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,60,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,61,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,62,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,63,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,64,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,65,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,66,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,67,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,68,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,69,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,70,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,71,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,72,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,73,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,74,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,75,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,76,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,77,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,78,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,79,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,80,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,81,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,82,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,83,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,84,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,85,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,86,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,87,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,88,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,89,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,90,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,91,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,92,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,93,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,94,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,95,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,96,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,97,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,98,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,99,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,100,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,101,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,102,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,103,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,104,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,105,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,106,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,107,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,108,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,109,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,110,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,111,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,112,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,113,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,114,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,115,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,116,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,117,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,118,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,119,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,120,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,121,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,122,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,123,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,124,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,125,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,126,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,127,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,128,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,129,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,130,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,131,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,132,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,133,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,134,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,135,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,136,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,137,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,138,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,139,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,140,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,141,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,142,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,143,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,144,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,145,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,146,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,147,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,148,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,149,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,150,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,151,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,152,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,153,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,154,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,155,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,156,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,157,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,158,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,159,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,160,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,161,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,162,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,163,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,164,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,165,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,166,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,167,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,168,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,169,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,170,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,171,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,172,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,173,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,174,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,175,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,176,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,177,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,178,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,179,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,180,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,181,answerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,182,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,183,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,184,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,185,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,186,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,187,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,188,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,189,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,190,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,191,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,192,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,193,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,194,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,195,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,196,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,197,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,198,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,199,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,200,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,201,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,202,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,203,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,204,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,205,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,206,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,207,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,208,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,209,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,210,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,211,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,212,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,213,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,214,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,215,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,216,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,217,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,218,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,219,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,220,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,221,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,222,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,223,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,224,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,225,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,226,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,227,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,228,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,229,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,230,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,231,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,232,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,233,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,234,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,235,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,236,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,237,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,238,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,239,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,240,unanswerable,1,0,12,,,,
+Hermes-3-Llama-3.1-8B,LLM-only,241,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,0,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,1,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,2,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,3,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,4,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,5,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,6,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,7,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,8,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,9,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,10,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,11,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,12,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,13,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,14,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,15,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,16,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,17,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,18,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,19,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,20,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,21,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,22,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,23,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,24,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,25,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,26,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,27,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,28,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,29,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,30,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,31,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,32,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,33,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,34,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,35,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,36,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,37,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,38,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,39,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,40,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,41,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,42,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,43,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,44,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,45,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,46,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,47,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,48,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,49,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,50,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,51,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,52,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,53,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,54,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,55,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,56,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,57,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,58,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,59,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,60,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,61,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,62,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,63,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,64,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,65,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,66,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,67,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,68,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,69,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,70,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,71,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,72,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,73,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,74,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,75,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,76,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,77,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,78,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,79,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,80,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,81,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,82,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,83,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,84,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,85,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,86,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,87,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,88,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,89,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,90,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,91,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,92,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,93,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,94,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,95,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,96,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,97,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,98,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,99,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,100,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,101,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,102,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,103,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,104,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,105,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,106,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,107,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,108,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,109,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,110,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,111,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,112,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,113,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,114,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,115,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,116,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,117,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,118,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,119,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,120,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,121,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,122,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,123,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,124,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,125,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,126,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,127,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,128,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,129,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,130,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,131,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,132,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,133,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,134,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,135,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,136,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,137,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,138,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,139,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,140,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,141,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,142,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,143,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,144,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,145,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,146,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,147,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,148,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,149,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,150,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,151,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,152,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,153,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,154,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,155,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,156,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,157,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,158,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,159,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,160,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,161,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,162,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,163,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,164,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,165,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,166,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,167,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,168,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,169,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,170,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,171,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,172,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,173,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,174,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,175,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,176,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,177,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,178,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,179,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,180,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,181,answerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,182,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,183,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,184,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,185,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,186,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,187,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,188,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,189,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,190,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,191,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,192,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,193,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,194,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,195,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,196,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,197,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,198,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,199,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,200,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,201,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,202,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,203,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,204,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,205,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,206,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,207,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,208,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,209,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,210,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,211,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,212,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,213,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,214,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,215,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,216,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,217,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,218,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,219,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,220,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,221,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,222,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,223,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,224,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,225,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,226,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,227,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,228,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,229,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,230,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,231,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,232,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,233,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,234,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,235,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,236,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,237,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,238,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,239,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,240,unanswerable,1,0,12,,,,
+Qwen2.5-7B,LLM-only,241,unanswerable,1,0,12,,,,
+GPT-4.1 (LLM-only),LLM-only,0,answerable,0,0,32,0.0,0.2325581395348837,,0.2325581395348837
+GPT-4.1 (LLM-only),LLM-only,1,answerable,0,0,127,0.0,0.10596026490066225,,0.09271523178807947
+GPT-4.1 (LLM-only),LLM-only,2,answerable,0,0,158,0.0,0.07777777777777778,,0.06666666666666667
+GPT-4.1 (LLM-only),LLM-only,3,answerable,0,0,58,0.0,0.2898550724637681,,0.2898550724637681
+GPT-4.1 (LLM-only),LLM-only,4,answerable,0,0,130,0.0,0.10596026490066225,,0.10596026490066225
+GPT-4.1 (LLM-only),LLM-only,5,answerable,0,0,70,0.0,0.2580645161290323,,0.2150537634408602
+GPT-4.1 (LLM-only),LLM-only,6,answerable,0,0,46,0.0,0.3225806451612903,,0.25806451612903225
+GPT-4.1 (LLM-only),LLM-only,7,answerable,0,0,75,0.0,0.19780219780219782,,0.19780219780219782
+GPT-4.1 (LLM-only),LLM-only,8,answerable,0,0,124,0.0,0.0821917808219178,,0.0547945205479452
+GPT-4.1 (LLM-only),LLM-only,9,answerable,0,1,124,0.0,0.08633093525179855,,0.05755395683453237
+GPT-4.1 (LLM-only),LLM-only,10,answerable,0,0,27,0.0,0.0625,,0.0625
+GPT-4.1 (LLM-only),LLM-only,11,answerable,0,0,48,0.0,0.09375,,0.09375
+GPT-4.1 (LLM-only),LLM-only,12,answerable,0,0,71,0.0,0.04761904761904762,,0.04761904761904762
+GPT-4.1 (LLM-only),LLM-only,13,answerable,0,0,104,0.0,0.08547008547008547,,0.08547008547008547
+GPT-4.1 (LLM-only),LLM-only,14,answerable,0,0,84,0.0,0.19819819819819817,,0.14414414414414414
+GPT-4.1 (LLM-only),LLM-only,15,answerable,0,0,174,0.0,0.13725490196078433,,0.10784313725490197
+GPT-4.1 (LLM-only),LLM-only,16,answerable,0,0,61,0.0,0.0625,,0.03125
+GPT-4.1 (LLM-only),LLM-only,17,answerable,0,0,141,0.0,0.12738853503184713,,0.11464968152866241
+GPT-4.1 (LLM-only),LLM-only,18,answerable,0,0,109,0.0,0.17647058823529413,,0.14705882352941177
+GPT-4.1 (LLM-only),LLM-only,19,answerable,0,0,92,0.0,0.2542372881355932,,0.22033898305084745
+GPT-4.1 (LLM-only),LLM-only,20,answerable,0,0,155,0.0,0.15999999999999998,,0.14857142857142858
+GPT-4.1 (LLM-only),LLM-only,21,answerable,0,1,42,0.0,0.15384615384615385,,0.15384615384615385
+GPT-4.1 (LLM-only),LLM-only,22,answerable,0,0,106,0.0,0.05172413793103448,,0.05172413793103448
+GPT-4.1 (LLM-only),LLM-only,23,answerable,0,0,66,0.0,0.2682926829268293,,0.24390243902439024
+GPT-4.1 (LLM-only),LLM-only,24,answerable,0,1,57,0.0,0.1764705882352941,,0.1764705882352941
+GPT-4.1 (LLM-only),LLM-only,25,answerable,0,0,148,0.0,0.1090909090909091,,0.08484848484848484
+GPT-4.1 (LLM-only),LLM-only,26,answerable,0,0,154,0.0,0.03680981595092024,,0.03680981595092024
+GPT-4.1 (LLM-only),LLM-only,27,answerable,0,0,91,0.0,0.15841584158415845,,0.15841584158415845
+GPT-4.1 (LLM-only),LLM-only,28,answerable,0,0,112,0.0,0.10526315789473684,,0.09022556390977443
+GPT-4.1 (LLM-only),LLM-only,29,answerable,0,1,72,0.0,0.025974025974025972,,0.025974025974025972
+GPT-4.1 (LLM-only),LLM-only,30,answerable,0,0,81,0.0,0.1149425287356322,,0.1149425287356322
+GPT-4.1 (LLM-only),LLM-only,31,answerable,0,0,28,0.0,0.4,,0.4
+GPT-4.1 (LLM-only),LLM-only,32,answerable,0,0,60,0.0,0.17647058823529416,,0.14705882352941174
+GPT-4.1 (LLM-only),LLM-only,33,answerable,0,0,66,0.0,0.0,,0.0
+GPT-4.1 (LLM-only),LLM-only,34,answerable,0,0,134,0.0,0.24390243902439024,,0.21951219512195122
+GPT-4.1 (LLM-only),LLM-only,35,answerable,0,0,51,0.0,0.10169491525423728,,0.10169491525423728
+GPT-4.1 (LLM-only),LLM-only,36,answerable,0,0,39,0.0,0.1,,0.06666666666666667
+GPT-4.1 (LLM-only),LLM-only,37,answerable,0,0,69,0.0,0.15584415584415584,,0.15584415584415584
+GPT-4.1 (LLM-only),LLM-only,38,answerable,0,0,12,0.0,0.26666666666666666,,0.26666666666666666
+GPT-4.1 (LLM-only),LLM-only,39,answerable,0,0,31,0.0,0.38095238095238093,,0.2857142857142857
+GPT-4.1 (LLM-only),LLM-only,40,answerable,0,0,67,0.0,0.1842105263157895,,0.1842105263157895
+GPT-4.1 (LLM-only),LLM-only,41,answerable,0,0,101,0.0,0.10810810810810811,,0.10810810810810811
+GPT-4.1 (LLM-only),LLM-only,42,answerable,0,1,51,0.0,0.0,,0.0
+GPT-4.1 (LLM-only),LLM-only,43,answerable,0,0,181,0.0,0.042105263157894736,,0.042105263157894736
+GPT-4.1 (LLM-only),LLM-only,44,answerable,0,0,102,0.0,0.055045871559633024,,0.03669724770642201
+GPT-4.1 (LLM-only),LLM-only,45,answerable,0,0,106,0.0,0.16,,0.096
+GPT-4.1 (LLM-only),LLM-only,46,answerable,0,0,70,0.0,0.14285714285714285,,0.14285714285714285
+GPT-4.1 (LLM-only),LLM-only,47,answerable,0,1,54,0.0,0.09999999999999999,,0.09999999999999999
+GPT-4.1 (LLM-only),LLM-only,48,answerable,0,0,55,0.0,0.07017543859649122,,0.07017543859649122
+GPT-4.1 (LLM-only),LLM-only,49,answerable,0,0,42,0.0,0.3076923076923077,,0.2692307692307692
+GPT-4.1 (LLM-only),LLM-only,50,answerable,0,1,47,0.0,0.0,,0.0
+GPT-4.1 (LLM-only),LLM-only,51,answerable,0,0,176,0.0,0.06965174129353233,,0.04975124378109452
+GPT-4.1 (LLM-only),LLM-only,52,answerable,0,1,56,0.0,0.05797101449275363,,0.05797101449275363
+GPT-4.1 (LLM-only),LLM-only,53,answerable,0,0,79,0.0,0.21359223300970873,,0.1553398058252427
+GPT-4.1 (LLM-only),LLM-only,54,answerable,0,0,172,0.0,0.0546448087431694,,0.03278688524590164
+GPT-4.1 (LLM-only),LLM-only,55,answerable,0,0,87,0.0,0.1616161616161616,,0.1616161616161616
+GPT-4.1 (LLM-only),LLM-only,56,answerable,0,0,111,0.0,0.0,,0.0
+GPT-4.1 (LLM-only),LLM-only,57,answerable,0,0,186,0.0,0.09852216748768473,,0.08866995073891626
+GPT-4.1 (LLM-only),LLM-only,58,answerable,0,0,50,0.0,0.09375,,0.09375
+GPT-4.1 (LLM-only),LLM-only,59,answerable,0,0,81,0.0,0.15555555555555556,,0.15555555555555556
+GPT-4.1 (LLM-only),LLM-only,60,answerable,0,1,47,0.0,0.0,,0.0
+GPT-4.1 (LLM-only),LLM-only,61,answerable,0,0,11,0.0,0.28571428571428575,,0.28571428571428575
+GPT-4.1 (LLM-only),LLM-only,62,answerable,0,0,197,0.0,0.15315315315315314,,0.14414414414414414
+GPT-4.1 (LLM-only),LLM-only,63,answerable,0,1,42,0.0,0.0,,0.0
+GPT-4.1 (LLM-only),LLM-only,64,answerable,0,0,184,0.0,0.11055276381909547,,0.10050251256281406
+GPT-4.1 (LLM-only),LLM-only,65,answerable,0,0,206,0.0,0.13100436681222707,,0.11353711790393015
+GPT-4.1 (LLM-only),LLM-only,66,answerable,0,1,65,0.0,0.05194805194805195,,0.05194805194805195
+GPT-4.1 (LLM-only),LLM-only,67,answerable,0,0,12,0.0,0.09523809523809525,,0.09523809523809525
+GPT-4.1 (LLM-only),LLM-only,68,answerable,0,0,124,0.0,0.07894736842105263,,0.06578947368421052
+GPT-4.1 (LLM-only),LLM-only,69,answerable,0,0,94,0.0,0.11428571428571427,,0.11428571428571427
+GPT-4.1 (LLM-only),LLM-only,70,answerable,0,0,76,0.0,0.16666666666666666,,0.12962962962962962
+GPT-4.1 (LLM-only),LLM-only,71,answerable,0,0,124,0.0,0.11920529801324503,,0.09271523178807946
+GPT-4.1 (LLM-only),LLM-only,72,answerable,0,0,55,0.0,0.1875,,0.1875
+GPT-4.1 (LLM-only),LLM-only,73,answerable,0,1,114,0.0,0.06756756756756756,,0.06756756756756756
+GPT-4.1 (LLM-only),LLM-only,74,answerable,0,0,104,0.0,0.19580419580419578,,0.15384615384615383
+GPT-4.1 (LLM-only),LLM-only,75,answerable,0,1,112,0.0,0.06666666666666667,,0.06666666666666667
+GPT-4.1 (LLM-only),LLM-only,76,answerable,0,0,64,0.0,0.41739130434782606,,0.2782608695652174
+GPT-4.1 (LLM-only),LLM-only,77,answerable,0,1,46,0.0,0.18867924528301885,,0.18867924528301885
+GPT-4.1 (LLM-only),LLM-only,78,answerable,0,0,96,0.0,0.03809523809523809,,0.019047619047619046
+GPT-4.1 (LLM-only),LLM-only,79,answerable,0,0,56,0.0,0.2857142857142857,,0.2285714285714286
+GPT-4.1 (LLM-only),LLM-only,80,answerable,0,0,185,0.0,0.0970873786407767,,0.07766990291262135
+GPT-4.1 (LLM-only),LLM-only,81,answerable,0,0,155,0.0,0.09411764705882353,,0.08235294117647057
+GPT-4.1 (LLM-only),LLM-only,82,answerable,0,0,110,0.0,0.08264462809917356,,0.04958677685950413
+GPT-4.1 (LLM-only),LLM-only,83,answerable,0,0,68,0.0,0.13333333333333333,,0.13333333333333333
+GPT-4.1 (LLM-only),LLM-only,84,answerable,0,0,81,0.0,0.06666666666666667,,0.06666666666666667
+GPT-4.1 (LLM-only),LLM-only,85,answerable,0,0,55,0.0,0.0909090909090909,,0.0909090909090909
+GPT-4.1 (LLM-only),LLM-only,86,answerable,0,0,49,0.0,0.12698412698412698,,0.09523809523809523
+GPT-4.1 (LLM-only),LLM-only,87,answerable,0,0,184,0.0,0.10576923076923078,,0.07692307692307691
+GPT-4.1 (LLM-only),LLM-only,88,answerable,0,1,152,0.0,0.02484472049689441,,0.02484472049689441
+GPT-4.1 (LLM-only),LLM-only,89,answerable,0,0,84,0.0,0.125,,0.10416666666666666
+GPT-4.1 (LLM-only),LLM-only,90,answerable,0,0,111,0.0,0.11666666666666665,,0.1
+GPT-4.1 (LLM-only),LLM-only,91,answerable,0,0,33,0.0,0.3111111111111111,,0.2222222222222222
+GPT-4.1 (LLM-only),LLM-only,92,answerable,0,0,76,0.0,0.08602150537634408,,0.08602150537634408
+GPT-4.1 (LLM-only),LLM-only,93,answerable,0,0,193,0.0,0.06730769230769229,,0.057692307692307696
+GPT-4.1 (LLM-only),LLM-only,94,answerable,0,0,173,0.0,0.09900990099009901,,0.0693069306930693
+GPT-4.1 (LLM-only),LLM-only,95,answerable,0,0,86,0.0,0.19230769230769232,,0.1730769230769231
+GPT-4.1 (LLM-only),LLM-only,96,answerable,0,1,59,0.0,0.0,,0.0
+GPT-4.1 (LLM-only),LLM-only,97,answerable,0,0,70,0.0,0.07317073170731707,,0.07317073170731707
+GPT-4.1 (LLM-only),LLM-only,98,answerable,0,0,119,0.0,0.0746268656716418,,0.0746268656716418
+GPT-4.1 (LLM-only),LLM-only,99,answerable,0,0,59,0.0,0.3142857142857143,,0.2857142857142857
+GPT-4.1 (LLM-only),LLM-only,100,answerable,0,0,132,0.0,0.13513513513513511,,0.13513513513513511
+GPT-4.1 (LLM-only),LLM-only,101,answerable,0,0,68,0.0,0.1111111111111111,,0.1111111111111111
+GPT-4.1 (LLM-only),LLM-only,102,answerable,0,0,125,0.0,0.04580152671755725,,0.04580152671755725
+GPT-4.1 (LLM-only),LLM-only,103,answerable,0,0,72,0.0,0.04761904761904762,,0.04761904761904762
+GPT-4.1 (LLM-only),LLM-only,104,answerable,0,0,82,0.0,0.04444444444444444,,0.04444444444444444
+GPT-4.1 (LLM-only),LLM-only,105,answerable,0,0,193,0.0,0.029850746268656716,,0.029850746268656716
+GPT-4.1 (LLM-only),LLM-only,106,answerable,0,0,85,0.0,0.09433962264150943,,0.09433962264150943
+GPT-4.1 (LLM-only),LLM-only,107,answerable,0,0,189,0.0,0.11162790697674418,,0.07441860465116279
+GPT-4.1 (LLM-only),LLM-only,108,answerable,0,1,46,0.0,0.06896551724137931,,0.06896551724137931
+GPT-4.1 (LLM-only),LLM-only,109,answerable,0,0,136,0.0,0.09271523178807946,,0.06622516556291391
+GPT-4.1 (LLM-only),LLM-only,110,answerable,0,0,130,0.0,0.04477611940298507,,0.029850746268656723
+GPT-4.1 (LLM-only),LLM-only,111,answerable,0,0,18,0.0,0.5714285714285714,,0.5714285714285714
+GPT-4.1 (LLM-only),LLM-only,112,answerable,0,0,65,0.0,0.2469135802469136,,0.19753086419753088
+GPT-4.1 (LLM-only),LLM-only,113,answerable,0,0,190,0.0,0.039999999999999994,,0.030000000000000002
+GPT-4.1 (LLM-only),LLM-only,114,answerable,0,0,162,0.0,0.06521739130434782,,0.04347826086956521
+GPT-4.1 (LLM-only),LLM-only,115,answerable,0,0,43,0.0,0.19607843137254904,,0.19607843137254904
+GPT-4.1 (LLM-only),LLM-only,116,answerable,0,0,67,0.0,0.16216216216216214,,0.16216216216216214
+GPT-4.1 (LLM-only),LLM-only,117,answerable,0,0,32,0.0,0.45454545454545453,,0.45454545454545453
+GPT-4.1 (LLM-only),LLM-only,118,answerable,0,0,79,0.0,0.048192771084337345,,0.048192771084337345
+GPT-4.1 (LLM-only),LLM-only,119,answerable,0,0,141,0.0,0.08641975308641975,,0.07407407407407407
+GPT-4.1 (LLM-only),LLM-only,120,answerable,0,0,164,0.0,0.08648648648648649,,0.0756756756756757
+GPT-4.1 (LLM-only),LLM-only,121,answerable,0,1,115,0.0,0.01639344262295082,,0.01639344262295082
+GPT-4.1 (LLM-only),LLM-only,122,answerable,0,0,160,0.0,0.05917159763313609,,0.05917159763313609
+GPT-4.1 (LLM-only),LLM-only,123,answerable,0,0,142,0.0,0.038216560509554146,,0.038216560509554146
+GPT-4.1 (LLM-only),LLM-only,124,answerable,0,0,42,0.0,0.21428571428571427,,0.17857142857142858
+GPT-4.1 (LLM-only),LLM-only,125,answerable,0,1,64,0.0,0.16,,0.1333333333333333
+GPT-4.1 (LLM-only),LLM-only,126,answerable,0,0,140,0.0,0.02564102564102564,,0.02564102564102564
+GPT-4.1 (LLM-only),LLM-only,127,answerable,0,0,14,0.0,0.36363636363636365,,0.36363636363636365
+GPT-4.1 (LLM-only),LLM-only,128,answerable,0,0,49,0.0,0.037735849056603765,,0.037735849056603765
+GPT-4.1 (LLM-only),LLM-only,129,answerable,0,0,74,0.0,0.07058823529411765,,0.07058823529411765
+GPT-4.1 (LLM-only),LLM-only,130,answerable,0,0,136,0.0,0.0425531914893617,,0.0425531914893617
+GPT-4.1 (LLM-only),LLM-only,131,answerable,0,0,80,0.0,0.20833333333333334,,0.18749999999999997
+GPT-4.1 (LLM-only),LLM-only,132,answerable,0,0,145,0.0,0.09523809523809523,,0.07142857142857142
+GPT-4.1 (LLM-only),LLM-only,133,answerable,0,0,91,0.0,0.0,,0.0
+GPT-4.1 (LLM-only),LLM-only,134,answerable,0,0,143,0.0,0.205607476635514,,0.13084112149532712
+GPT-4.1 (LLM-only),LLM-only,135,answerable,0,0,48,0.0,0.21428571428571427,,0.14285714285714288
+GPT-4.1 (LLM-only),LLM-only,136,answerable,0,0,170,0.0,0.0,,0.0
+GPT-4.1 (LLM-only),LLM-only,137,answerable,0,0,144,0.0,0.1358024691358025,,0.12345679012345681
+GPT-4.1 (LLM-only),LLM-only,138,answerable,0,0,99,0.0,0.13675213675213677,,0.13675213675213677
+GPT-4.1 (LLM-only),LLM-only,139,answerable,0,1,75,0.0,0.04878048780487805,,0.024390243902439025
+GPT-4.1 (LLM-only),LLM-only,140,answerable,0,0,113,0.0,0.19696969696969696,,0.1212121212121212
+GPT-4.1 (LLM-only),LLM-only,141,answerable,0,0,67,0.0,0.02898550724637681,,0.02898550724637681
+GPT-4.1 (LLM-only),LLM-only,142,answerable,0,1,56,0.0,0.029411764705882353,,0.029411764705882353
+GPT-4.1 (LLM-only),LLM-only,143,answerable,0,0,107,0.0,0.13445378151260504,,0.13445378151260504
+GPT-4.1 (LLM-only),LLM-only,144,answerable,0,0,60,0.0,0.3013698630136986,,0.273972602739726
+GPT-4.1 (LLM-only),LLM-only,145,answerable,0,1,61,0.0,0.0273972602739726,,0.0273972602739726
+GPT-4.1 (LLM-only),LLM-only,146,answerable,0,0,160,0.0,0.08791208791208792,,0.05494505494505494
+GPT-4.1 (LLM-only),LLM-only,147,answerable,0,0,82,0.0,0.20408163265306123,,0.12244897959183672
+GPT-4.1 (LLM-only),LLM-only,148,answerable,0,0,202,0.0,0.0909090909090909,,0.0909090909090909
+GPT-4.1 (LLM-only),LLM-only,149,answerable,0,0,55,0.0,0.2153846153846154,,0.2153846153846154
+GPT-4.1 (LLM-only),LLM-only,150,answerable,0,0,172,0.0,0.06557377049180328,,0.0546448087431694
+GPT-4.1 (LLM-only),LLM-only,151,answerable,0,0,45,0.0,0.23529411764705882,,0.23529411764705882
+GPT-4.1 (LLM-only),LLM-only,152,answerable,0,0,20,0.0,0.6666666666666667,,0.6666666666666667
+GPT-4.1 (LLM-only),LLM-only,153,answerable,0,0,30,0.0,0.4897959183673469,,0.4897959183673469
+GPT-4.1 (LLM-only),LLM-only,154,answerable,0,0,83,0.0,0.23157894736842105,,0.23157894736842105
+GPT-4.1 (LLM-only),LLM-only,155,answerable,0,0,68,0.0,0.16666666666666669,,0.16666666666666669
+GPT-4.1 (LLM-only),LLM-only,156,answerable,0,0,115,0.0,0.16296296296296295,,0.14814814814814817
+GPT-4.1 (LLM-only),LLM-only,157,answerable,0,0,196,0.0,0.10138248847926266,,0.07373271889400922
+GPT-4.1 (LLM-only),LLM-only,158,answerable,0,0,35,0.0,0.10256410256410256,,0.10256410256410256
+GPT-4.1 (LLM-only),LLM-only,159,answerable,0,0,77,0.0,0.19999999999999998,,0.13333333333333333
+GPT-4.1 (LLM-only),LLM-only,160,answerable,0,0,81,0.0,0.15217391304347824,,0.15217391304347824
+GPT-4.1 (LLM-only),LLM-only,161,answerable,0,0,38,0.0,0.13636363636363635,,0.13636363636363635
+GPT-4.1 (LLM-only),LLM-only,162,answerable,0,0,65,0.0,0.05714285714285715,,0.05714285714285715
+GPT-4.1 (LLM-only),LLM-only,163,answerable,0,0,56,0.0,0.21212121212121213,,0.21212121212121213
+GPT-4.1 (LLM-only),LLM-only,164,answerable,0,0,204,0.0,0.11666666666666667,,0.09166666666666667
+GPT-4.1 (LLM-only),LLM-only,165,answerable,0,0,172,0.0,0.19138755980861244,,0.16267942583732056
+GPT-4.1 (LLM-only),LLM-only,166,answerable,0,0,89,0.0,0.21428571428571427,,0.19642857142857142
+GPT-4.1 (LLM-only),LLM-only,167,answerable,0,0,93,0.0,0.20370370370370372,,0.20370370370370372
+GPT-4.1 (LLM-only),LLM-only,168,answerable,0,0,61,0.0,0.13333333333333333,,0.08888888888888889
+GPT-4.1 (LLM-only),LLM-only,169,answerable,0,0,45,0.0,0.20338983050847456,,0.20338983050847456
+GPT-4.1 (LLM-only),LLM-only,170,answerable,0,0,114,0.0,0.14705882352941174,,0.14705882352941174
+GPT-4.1 (LLM-only),LLM-only,171,answerable,0,1,40,0.0,0.03921568627450981,,0.03921568627450981
+GPT-4.1 (LLM-only),LLM-only,172,answerable,0,0,110,0.0,0.16923076923076924,,0.13846153846153847
+GPT-4.1 (LLM-only),LLM-only,173,answerable,0,0,113,0.0,0.12213740458015265,,0.10687022900763359
+GPT-4.1 (LLM-only),LLM-only,174,answerable,0,1,24,0.0,0.0,,0.0
+GPT-4.1 (LLM-only),LLM-only,175,answerable,0,1,62,0.0,0.08080808080808081,,0.060606060606060594
+GPT-4.1 (LLM-only),LLM-only,176,answerable,0,0,167,0.0,0.08000000000000002,,0.05
+GPT-4.1 (LLM-only),LLM-only,177,answerable,0,0,48,0.0,0.33333333333333337,,0.3
+GPT-4.1 (LLM-only),LLM-only,178,answerable,0,0,70,0.0,0.10989010989010987,,0.08791208791208792
+GPT-4.1 (LLM-only),LLM-only,179,answerable,0,0,170,0.0,0.09574468085106383,,0.09574468085106383
+GPT-4.1 (LLM-only),LLM-only,180,answerable,0,1,40,0.0,0.0,,0.0
+GPT-4.1 (LLM-only),LLM-only,181,answerable,0,0,111,0.0,0.1487603305785124,,0.13223140495867766
+GPT-4.1 (LLM-only),LLM-only,182,unanswerable,0,1,62,,,,
+GPT-4.1 (LLM-only),LLM-only,183,unanswerable,0,1,20,,,,
+GPT-4.1 (LLM-only),LLM-only,184,unanswerable,0,1,29,,,,
+GPT-4.1 (LLM-only),LLM-only,185,unanswerable,0,1,39,,,,
+GPT-4.1 (LLM-only),LLM-only,186,unanswerable,0,1,77,,,,
+GPT-4.1 (LLM-only),LLM-only,187,unanswerable,0,1,25,,,,
+GPT-4.1 (LLM-only),LLM-only,188,unanswerable,0,1,43,,,,
+GPT-4.1 (LLM-only),LLM-only,189,unanswerable,0,1,50,,,,
+GPT-4.1 (LLM-only),LLM-only,190,unanswerable,0,0,42,,,,
+GPT-4.1 (LLM-only),LLM-only,191,unanswerable,0,1,70,,,,
+GPT-4.1 (LLM-only),LLM-only,192,unanswerable,0,1,21,,,,
+GPT-4.1 (LLM-only),LLM-only,193,unanswerable,0,1,43,,,,
+GPT-4.1 (LLM-only),LLM-only,194,unanswerable,0,1,43,,,,
+GPT-4.1 (LLM-only),LLM-only,195,unanswerable,0,1,57,,,,
+GPT-4.1 (LLM-only),LLM-only,196,unanswerable,0,0,35,,,,
+GPT-4.1 (LLM-only),LLM-only,197,unanswerable,0,1,76,,,,
+GPT-4.1 (LLM-only),LLM-only,198,unanswerable,0,1,21,,,,
+GPT-4.1 (LLM-only),LLM-only,199,unanswerable,0,1,43,,,,
+GPT-4.1 (LLM-only),LLM-only,200,unanswerable,0,1,55,,,,
+GPT-4.1 (LLM-only),LLM-only,201,unanswerable,0,0,35,,,,
+GPT-4.1 (LLM-only),LLM-only,202,unanswerable,0,0,35,,,,
+GPT-4.1 (LLM-only),LLM-only,203,unanswerable,0,1,69,,,,
+GPT-4.1 (LLM-only),LLM-only,204,unanswerable,0,1,21,,,,
+GPT-4.1 (LLM-only),LLM-only,205,unanswerable,0,1,22,,,,
+GPT-4.1 (LLM-only),LLM-only,206,unanswerable,0,1,53,,,,
+GPT-4.1 (LLM-only),LLM-only,207,unanswerable,0,0,35,,,,
+GPT-4.1 (LLM-only),LLM-only,208,unanswerable,0,1,69,,,,
+GPT-4.1 (LLM-only),LLM-only,209,unanswerable,0,1,23,,,,
+GPT-4.1 (LLM-only),LLM-only,210,unanswerable,0,1,22,,,,
+GPT-4.1 (LLM-only),LLM-only,211,unanswerable,0,1,26,,,,
+GPT-4.1 (LLM-only),LLM-only,212,unanswerable,0,1,54,,,,
+GPT-4.1 (LLM-only),LLM-only,213,unanswerable,0,0,37,,,,
+GPT-4.1 (LLM-only),LLM-only,214,unanswerable,0,1,81,,,,
+GPT-4.1 (LLM-only),LLM-only,215,unanswerable,0,1,21,,,,
+GPT-4.1 (LLM-only),LLM-only,216,unanswerable,0,1,51,,,,
+GPT-4.1 (LLM-only),LLM-only,217,unanswerable,0,1,26,,,,
+GPT-4.1 (LLM-only),LLM-only,218,unanswerable,0,1,22,,,,
+GPT-4.1 (LLM-only),LLM-only,219,unanswerable,0,1,52,,,,
+GPT-4.1 (LLM-only),LLM-only,220,unanswerable,0,0,39,,,,
+GPT-4.1 (LLM-only),LLM-only,221,unanswerable,0,1,70,,,,
+GPT-4.1 (LLM-only),LLM-only,222,unanswerable,0,1,19,,,,
+GPT-4.1 (LLM-only),LLM-only,223,unanswerable,0,1,73,,,,
+GPT-4.1 (LLM-only),LLM-only,224,unanswerable,0,0,39,,,,
+GPT-4.1 (LLM-only),LLM-only,225,unanswerable,0,1,54,,,,
+GPT-4.1 (LLM-only),LLM-only,226,unanswerable,0,1,45,,,,
+GPT-4.1 (LLM-only),LLM-only,227,unanswerable,0,1,21,,,,
+GPT-4.1 (LLM-only),LLM-only,228,unanswerable,0,1,70,,,,
+GPT-4.1 (LLM-only),LLM-only,229,unanswerable,0,0,35,,,,
+GPT-4.1 (LLM-only),LLM-only,230,unanswerable,0,1,39,,,,
+GPT-4.1 (LLM-only),LLM-only,231,unanswerable,0,0,39,,,,
+GPT-4.1 (LLM-only),LLM-only,232,unanswerable,0,1,44,,,,
+GPT-4.1 (LLM-only),LLM-only,233,unanswerable,0,1,54,,,,
+GPT-4.1 (LLM-only),LLM-only,234,unanswerable,0,1,26,,,,
+GPT-4.1 (LLM-only),LLM-only,235,unanswerable,0,1,67,,,,
+GPT-4.1 (LLM-only),LLM-only,236,unanswerable,0,1,53,,,,
+GPT-4.1 (LLM-only),LLM-only,237,unanswerable,0,0,35,,,,
+GPT-4.1 (LLM-only),LLM-only,238,unanswerable,0,1,22,,,,
+GPT-4.1 (LLM-only),LLM-only,239,unanswerable,0,1,26,,,,
+GPT-4.1 (LLM-only),LLM-only,240,unanswerable,0,1,71,,,,
+GPT-4.1 (LLM-only),LLM-only,241,unanswerable,0,0,43,,,,
+GPT-4.1 (RAG KZ),RAG,0,answerable,0,0,67,0.0,0.2564102564102564,,0.17948717948717952
+GPT-4.1 (RAG KZ),RAG,1,answerable,0,0,193,0.0,0.15668202764976957,,0.11981566820276499
+GPT-4.1 (RAG KZ),RAG,2,answerable,0,0,99,0.0,0.2975206611570248,,0.24793388429752067
+GPT-4.1 (RAG KZ),RAG,3,answerable,0,1,60,0.0,0.16901408450704225,,0.16901408450704225
+GPT-4.1 (RAG KZ),RAG,4,answerable,0,0,201,0.0,0.14414414414414414,,0.13513513513513511
+GPT-4.1 (RAG KZ),RAG,5,answerable,0,0,99,0.0,0.32786885245901637,,0.2786885245901639
+GPT-4.1 (RAG KZ),RAG,6,answerable,0,1,67,0.0,0.12048192771084336,,0.12048192771084336
+GPT-4.1 (RAG KZ),RAG,7,answerable,0,0,144,0.0,0.13750000000000004,,0.125
+GPT-4.1 (RAG KZ),RAG,8,answerable,0,0,71,0.0,0.2795698924731183,,0.25806451612903225
+GPT-4.1 (RAG KZ),RAG,9,answerable,0,0,71,0.0,0.3023255813953489,,0.3023255813953489
+GPT-4.1 (RAG KZ),RAG,10,answerable,0,0,49,0.0,0.1851851851851852,,0.1851851851851852
+GPT-4.1 (RAG KZ),RAG,11,answerable,0,0,38,0.0,0.5925925925925926,,0.5925925925925926
+GPT-4.1 (RAG KZ),RAG,12,answerable,0,0,136,0.0,0.17449664429530198,,0.17449664429530198
+GPT-4.1 (RAG KZ),RAG,13,answerable,0,0,78,0.0,0.2857142857142857,,0.2857142857142857
+GPT-4.1 (RAG KZ),RAG,14,answerable,0,0,126,0.0,0.2483660130718954,,0.2483660130718954
+GPT-4.1 (RAG KZ),RAG,15,answerable,0,0,96,0.0,0.15873015873015875,,0.12698412698412698
+GPT-4.1 (RAG KZ),RAG,16,answerable,0,0,40,0.0,0.13953488372093023,,0.13953488372093023
+GPT-4.1 (RAG KZ),RAG,17,answerable,0,0,212,0.0,0.13157894736842107,,0.12280701754385966
+GPT-4.1 (RAG KZ),RAG,18,answerable,0,0,140,0.0,0.19161676646706585,,0.16766467065868265
+GPT-4.1 (RAG KZ),RAG,19,answerable,0,0,104,0.0,0.4,,0.38461538461538464
+GPT-4.1 (RAG KZ),RAG,20,answerable,0,0,189,0.0,0.15311004784688995,,0.13397129186602869
+GPT-4.1 (RAG KZ),RAG,21,answerable,0,0,12,0.0,0.9090909090909091,,0.9090909090909091
+GPT-4.1 (RAG KZ),RAG,22,answerable,0,1,63,0.0,0.0821917808219178,,0.0821917808219178
+GPT-4.1 (RAG KZ),RAG,23,answerable,0,0,65,0.0,0.29629629629629634,,0.29629629629629634
+GPT-4.1 (RAG KZ),RAG,24,answerable,0,0,13,0.0,0.9166666666666666,,0.9166666666666666
+GPT-4.1 (RAG KZ),RAG,25,answerable,0,0,146,0.0,0.18404907975460122,,0.18404907975460122
+GPT-4.1 (RAG KZ),RAG,26,answerable,0,0,179,0.0,0.021276595744680854,,0.021276595744680854
+GPT-4.1 (RAG KZ),RAG,27,answerable,0,0,110,0.0,0.15,,0.15
+GPT-4.1 (RAG KZ),RAG,28,answerable,0,0,91,0.0,0.3035714285714286,,0.25
+GPT-4.1 (RAG KZ),RAG,29,answerable,0,0,88,0.0,0.1075268817204301,,0.1075268817204301
+GPT-4.1 (RAG KZ),RAG,30,answerable,0,0,25,0.0,0.3870967741935484,,0.3870967741935484
+GPT-4.1 (RAG KZ),RAG,31,answerable,0,0,71,0.0,0.4086021505376344,,0.3010752688172043
+GPT-4.1 (RAG KZ),RAG,32,answerable,0,0,72,0.0,0.075,,0.049999999999999996
+GPT-4.1 (RAG KZ),RAG,33,answerable,0,1,55,0.0,0.0,,0.0
+GPT-4.1 (RAG KZ),RAG,34,answerable,0,0,82,0.0,0.26785714285714285,,0.26785714285714285
+GPT-4.1 (RAG KZ),RAG,35,answerable,0,0,93,0.0,0.15841584158415845,,0.15841584158415845
+GPT-4.1 (RAG KZ),RAG,36,answerable,0,0,50,0.0,0.1408450704225352,,0.11267605633802817
+GPT-4.1 (RAG KZ),RAG,37,answerable,0,0,76,0.0,0.1904761904761905,,0.1904761904761905
+GPT-4.1 (RAG KZ),RAG,38,answerable,0,0,14,0.0,0.23529411764705882,,0.23529411764705882
+GPT-4.1 (RAG KZ),RAG,39,answerable,0,0,47,0.0,0.3793103448275862,,0.24137931034482757
+GPT-4.1 (RAG KZ),RAG,40,answerable,0,0,113,0.0,0.016393442622950817,,0.016393442622950817
+GPT-4.1 (RAG KZ),RAG,41,answerable,0,0,14,0.0,0.8333333333333333,,0.8333333333333333
+GPT-4.1 (RAG KZ),RAG,42,answerable,0,0,52,0.0,0.3939393939393939,,0.3939393939393939
+GPT-4.1 (RAG KZ),RAG,43,answerable,0,0,203,0.0,0.08490566037735849,,0.08490566037735849
+GPT-4.1 (RAG KZ),RAG,44,answerable,0,0,72,0.0,0.17721518987341772,,0.1518987341772152
+GPT-4.1 (RAG KZ),RAG,45,answerable,0,0,63,0.0,0.43902439024390244,,0.4146341463414634
+GPT-4.1 (RAG KZ),RAG,46,answerable,0,0,96,0.0,0.21818181818181817,,0.18181818181818182
+GPT-4.1 (RAG KZ),RAG,47,answerable,0,0,94,0.0,0.12,,0.09999999999999999
+GPT-4.1 (RAG KZ),RAG,48,answerable,0,0,78,0.0,0.05,,0.05
+GPT-4.1 (RAG KZ),RAG,49,answerable,0,0,142,0.0,0.13157894736842107,,0.13157894736842107
+GPT-4.1 (RAG KZ),RAG,50,answerable,0,0,45,0.0,0.125,,0.08333333333333334
+GPT-4.1 (RAG KZ),RAG,51,answerable,0,0,174,0.0,0.21105527638190955,,0.20100502512562812
+GPT-4.1 (RAG KZ),RAG,52,answerable,0,0,17,0.0,0.6666666666666667,,0.6666666666666667
+GPT-4.1 (RAG KZ),RAG,53,answerable,0,0,99,0.0,0.2601626016260163,,0.22764227642276422
+GPT-4.1 (RAG KZ),RAG,54,answerable,0,0,38,0.0,0.32653061224489793,,0.24489795918367344
+GPT-4.1 (RAG KZ),RAG,55,answerable,0,0,61,0.0,0.3013698630136986,,0.3013698630136986
+GPT-4.1 (RAG KZ),RAG,56,answerable,0,0,32,0.0,0.11764705882352941,,0.11764705882352941
+GPT-4.1 (RAG KZ),RAG,57,answerable,0,0,35,0.0,0.5,,0.5
+GPT-4.1 (RAG KZ),RAG,58,answerable,0,0,37,0.0,0.5490196078431372,,0.5490196078431372
+GPT-4.1 (RAG KZ),RAG,59,answerable,0,0,60,0.0,0.2608695652173913,,0.2608695652173913
+GPT-4.1 (RAG KZ),RAG,60,answerable,0,1,78,0.0,0.0,,0.0
+GPT-4.1 (RAG KZ),RAG,61,answerable,0,0,29,0.0,0.1875,,0.1875
+GPT-4.1 (RAG KZ),RAG,62,answerable,0,0,188,0.0,0.215962441314554,,0.18779342723004697
+GPT-4.1 (RAG KZ),RAG,63,answerable,0,0,107,0.0,0.15517241379310345,,0.15517241379310345
+GPT-4.1 (RAG KZ),RAG,64,answerable,0,0,112,0.0,0.23622047244094488,,0.23622047244094488
+GPT-4.1 (RAG KZ),RAG,65,answerable,0,0,155,0.0,0.2584269662921348,,0.2584269662921348
+GPT-4.1 (RAG KZ),RAG,66,answerable,0,0,202,0.0,0.11214953271028036,,0.11214953271028036
+GPT-4.1 (RAG KZ),RAG,67,answerable,0,0,105,0.0,0.15789473684210528,,0.15789473684210528
+GPT-4.1 (RAG KZ),RAG,68,answerable,0,0,84,0.0,0.3392857142857143,,0.26785714285714285
+GPT-4.1 (RAG KZ),RAG,69,answerable,0,0,12,0.0,0.9565217391304348,,0.9565217391304348
+GPT-4.1 (RAG KZ),RAG,70,answerable,0,0,81,0.0,0.5486725663716814,,0.5486725663716814
+GPT-4.1 (RAG KZ),RAG,71,answerable,0,0,174,0.0,0.23880597014925373,,0.208955223880597
+GPT-4.1 (RAG KZ),RAG,72,answerable,0,0,30,0.0,0.4615384615384615,,0.4615384615384615
+GPT-4.1 (RAG KZ),RAG,73,answerable,0,0,14,0.0,0.125,,0.125
+GPT-4.1 (RAG KZ),RAG,74,answerable,0,0,92,0.0,0.4732824427480916,,0.4580152671755725
+GPT-4.1 (RAG KZ),RAG,75,answerable,0,0,64,0.0,0.16666666666666666,,0.16666666666666666
+GPT-4.1 (RAG KZ),RAG,76,answerable,0,0,124,0.0,0.17142857142857143,,0.1257142857142857
+GPT-4.1 (RAG KZ),RAG,77,answerable,0,0,12,0.0,0.7368421052631579,,0.7368421052631579
+GPT-4.1 (RAG KZ),RAG,78,answerable,0,0,61,0.0,0.2571428571428572,,0.2571428571428572
+GPT-4.1 (RAG KZ),RAG,79,answerable,0,0,73,0.0,0.29885057471264365,,0.2528735632183908
+GPT-4.1 (RAG KZ),RAG,80,answerable,0,0,191,0.0,0.11320754716981134,,0.09433962264150943
+GPT-4.1 (RAG KZ),RAG,81,answerable,0,0,139,0.0,0.16883116883116883,,0.14285714285714285
+GPT-4.1 (RAG KZ),RAG,82,answerable,0,0,46,0.0,0.3859649122807018,,0.3859649122807018
+GPT-4.1 (RAG KZ),RAG,83,answerable,0,0,172,0.0,0.0782122905027933,,0.0782122905027933
+GPT-4.1 (RAG KZ),RAG,84,answerable,0,0,106,0.0,0.08695652173913045,,0.06956521739130435
+GPT-4.1 (RAG KZ),RAG,85,answerable,0,0,50,0.0,0.36065573770491804,,0.32786885245901637
+GPT-4.1 (RAG KZ),RAG,86,answerable,0,0,69,0.0,0.2891566265060241,,0.2650602409638554
+GPT-4.1 (RAG KZ),RAG,87,answerable,0,0,188,0.0,0.169811320754717,,0.1320754716981132
+GPT-4.1 (RAG KZ),RAG,88,answerable,0,0,122,0.0,0.015267175572519085,,0.015267175572519085
+GPT-4.1 (RAG KZ),RAG,89,answerable,0,0,59,0.0,0.22535211267605634,,0.19718309859154928
+GPT-4.1 (RAG KZ),RAG,90,answerable,0,0,104,0.0,0.12389380530973451,,0.12389380530973451
+GPT-4.1 (RAG KZ),RAG,91,answerable,0,0,60,0.0,0.33333333333333337,,0.33333333333333337
+GPT-4.1 (RAG KZ),RAG,92,answerable,0,0,63,0.0,0.37499999999999994,,0.37499999999999994
+GPT-4.1 (RAG KZ),RAG,93,answerable,0,1,59,0.0,0.4054054054054054,,0.4054054054054054
+GPT-4.1 (RAG KZ),RAG,94,answerable,0,0,182,0.0,0.27488151658767773,,0.27488151658767773
+GPT-4.1 (RAG KZ),RAG,95,answerable,0,0,145,0.0,0.22085889570552147,,0.22085889570552147
+GPT-4.1 (RAG KZ),RAG,96,answerable,0,0,58,0.0,0.09836065573770492,,0.09836065573770492
+GPT-4.1 (RAG KZ),RAG,97,answerable,0,0,33,0.0,0.5333333333333333,,0.5333333333333333
+GPT-4.1 (RAG KZ),RAG,98,answerable,0,0,183,0.0,0.1111111111111111,,0.1111111111111111
+GPT-4.1 (RAG KZ),RAG,99,answerable,0,0,33,0.0,0.36363636363636365,,0.36363636363636365
+GPT-4.1 (RAG KZ),RAG,100,answerable,0,0,114,0.0,0.24615384615384614,,0.2153846153846154
+GPT-4.1 (RAG KZ),RAG,101,answerable,0,1,62,0.0,0.0,,0.0
+GPT-4.1 (RAG KZ),RAG,102,answerable,0,0,68,0.0,0.1621621621621622,,0.1621621621621622
+GPT-4.1 (RAG KZ),RAG,103,answerable,0,0,49,0.0,0.39344262295081966,,0.36065573770491804
+GPT-4.1 (RAG KZ),RAG,104,answerable,0,0,211,0.0,0.045662100456620995,,0.03652968036529681
+GPT-4.1 (RAG KZ),RAG,105,answerable,0,0,35,0.0,0.23255813953488372,,0.23255813953488372
+GPT-4.1 (RAG KZ),RAG,106,answerable,0,0,102,0.0,0.11382113821138212,,0.0975609756097561
+GPT-4.1 (RAG KZ),RAG,107,answerable,0,0,141,0.0,0.27544910179640725,,0.25149700598802394
+GPT-4.1 (RAG KZ),RAG,108,answerable,0,0,16,0.0,0.8571428571428571,,0.8571428571428571
+GPT-4.1 (RAG KZ),RAG,109,answerable,0,0,184,0.0,0.11055276381909547,,0.10050251256281406
+GPT-4.1 (RAG KZ),RAG,110,answerable,0,0,96,0.0,0.07999999999999999,,0.07999999999999999
+GPT-4.1 (RAG KZ),RAG,111,answerable,0,0,71,0.0,0.2469135802469136,,0.2469135802469136
+GPT-4.1 (RAG KZ),RAG,112,answerable,0,0,102,0.0,0.18644067796610167,,0.18644067796610167
+GPT-4.1 (RAG KZ),RAG,113,answerable,0,0,70,0.0,0.25,,0.25
+GPT-4.1 (RAG KZ),RAG,114,answerable,0,0,210,0.0,0.1724137931034483,,0.16379310344827586
+GPT-4.1 (RAG KZ),RAG,115,answerable,0,0,18,0.0,0.5384615384615385,,0.5384615384615385
+GPT-4.1 (RAG KZ),RAG,116,answerable,0,0,119,0.0,0.1111111111111111,,0.1111111111111111
+GPT-4.1 (RAG KZ),RAG,117,answerable,0,0,71,0.0,0.2891566265060241,,0.2891566265060241
+GPT-4.1 (RAG KZ),RAG,118,answerable,0,0,15,0.0,0.4210526315789474,,0.4210526315789474
+GPT-4.1 (RAG KZ),RAG,119,answerable,0,0,76,0.0,0.3505154639175258,,0.32989690721649484
+GPT-4.1 (RAG KZ),RAG,120,answerable,0,0,210,0.0,0.1471861471861472,,0.13852813852813856
+GPT-4.1 (RAG KZ),RAG,121,answerable,0,0,99,0.0,0.1320754716981132,,0.1320754716981132
+GPT-4.1 (RAG KZ),RAG,122,answerable,0,0,188,0.0,0.06091370558375634,,0.06091370558375634
+GPT-4.1 (RAG KZ),RAG,123,answerable,0,0,125,0.0,0.14285714285714285,,0.09999999999999999
+GPT-4.1 (RAG KZ),RAG,124,answerable,0,0,70,0.0,0.14285714285714285,,0.14285714285714285
+GPT-4.1 (RAG KZ),RAG,125,answerable,0,0,55,0.0,0.33333333333333337,,0.30303030303030304
+GPT-4.1 (RAG KZ),RAG,126,answerable,0,0,44,0.0,0.5333333333333333,,0.5333333333333333
+GPT-4.1 (RAG KZ),RAG,127,answerable,0,0,54,0.0,0.25806451612903225,,0.25806451612903225
+GPT-4.1 (RAG KZ),RAG,128,answerable,0,0,59,0.0,0.12698412698412698,,0.09523809523809525
+GPT-4.1 (RAG KZ),RAG,129,answerable,0,0,176,0.0,0.0641711229946524,,0.0641711229946524
+GPT-4.1 (RAG KZ),RAG,130,answerable,0,0,63,0.0,0.08823529411764705,,0.08823529411764705
+GPT-4.1 (RAG KZ),RAG,131,answerable,0,0,93,0.0,0.27522935779816515,,0.2568807339449541
+GPT-4.1 (RAG KZ),RAG,132,answerable,0,0,192,0.0,0.12093023255813952,,0.09302325581395349
+GPT-4.1 (RAG KZ),RAG,133,answerable,0,0,45,0.0,0.19999999999999998,,0.19999999999999998
+GPT-4.1 (RAG KZ),RAG,134,answerable,0,0,106,0.0,0.5762711864406779,,0.48587570621468934
+GPT-4.1 (RAG KZ),RAG,135,answerable,0,0,113,0.0,0.3624161073825503,,0.348993288590604
+GPT-4.1 (RAG KZ),RAG,136,answerable,0,0,166,0.0,0.04597701149425288,,0.03448275862068965
+GPT-4.1 (RAG KZ),RAG,137,answerable,0,0,172,0.0,0.1473684210526316,,0.12631578947368421
+GPT-4.1 (RAG KZ),RAG,138,answerable,0,0,156,0.0,0.09195402298850575,,0.09195402298850575
+GPT-4.1 (RAG KZ),RAG,139,answerable,0,1,9,0.0,0.0,,0.0
+GPT-4.1 (RAG KZ),RAG,140,answerable,0,0,171,0.0,0.18947368421052632,,0.18947368421052632
+GPT-4.1 (RAG KZ),RAG,141,answerable,0,0,41,0.0,0.09302325581395349,,0.09302325581395349
+GPT-4.1 (RAG KZ),RAG,142,answerable,0,0,17,0.0,0.8275862068965517,,0.8275862068965517
+GPT-4.1 (RAG KZ),RAG,143,answerable,0,0,16,0.0,0.7857142857142857,,0.7857142857142857
+GPT-4.1 (RAG KZ),RAG,144,answerable,0,0,52,0.0,0.36923076923076925,,0.3384615384615385
+GPT-4.1 (RAG KZ),RAG,145,answerable,0,0,16,0.0,0.8571428571428571,,0.8571428571428571
+GPT-4.1 (RAG KZ),RAG,146,answerable,0,0,195,0.0,0.14746543778801843,,0.1382488479262673
+GPT-4.1 (RAG KZ),RAG,147,answerable,0,0,127,0.0,0.19580419580419578,,0.19580419580419578
+GPT-4.1 (RAG KZ),RAG,148,answerable,0,0,173,0.0,0.13612565445026178,,0.10471204188481677
+GPT-4.1 (RAG KZ),RAG,149,answerable,0,0,118,0.0,0.15625,,0.140625
+GPT-4.1 (RAG KZ),RAG,150,answerable,0,0,147,0.0,0.08860759493670886,,0.07594936708860758
+GPT-4.1 (RAG KZ),RAG,151,answerable,0,0,80,0.0,0.11627906976744186,,0.11627906976744186
+GPT-4.1 (RAG KZ),RAG,152,answerable,0,0,56,0.0,0.37681159420289856,,0.37681159420289856
+GPT-4.1 (RAG KZ),RAG,153,answerable,0,0,75,0.0,0.38297872340425526,,0.31914893617021284
+GPT-4.1 (RAG KZ),RAG,154,answerable,0,0,40,0.0,0.4615384615384615,,0.4615384615384615
+GPT-4.1 (RAG KZ),RAG,155,answerable,0,1,72,0.0,0.11363636363636365,,0.11363636363636365
+GPT-4.1 (RAG KZ),RAG,156,answerable,0,0,201,0.0,0.1719457013574661,,0.1719457013574661
+GPT-4.1 (RAG KZ),RAG,157,answerable,0,0,92,0.0,0.336283185840708,,0.30088495575221236
+GPT-4.1 (RAG KZ),RAG,158,answerable,0,0,24,0.0,0.14285714285714285,,0.14285714285714285
+GPT-4.1 (RAG KZ),RAG,159,answerable,0,0,52,0.0,0.4,,0.4
+GPT-4.1 (RAG KZ),RAG,160,answerable,0,0,77,0.0,0.25,,0.25
+GPT-4.1 (RAG KZ),RAG,161,answerable,0,0,53,0.0,0.2033898305084746,,0.2033898305084746
+GPT-4.1 (RAG KZ),RAG,162,answerable,0,0,55,0.0,0.13333333333333333,,0.09999999999999999
+GPT-4.1 (RAG KZ),RAG,163,answerable,0,0,75,0.0,0.23529411764705882,,0.18823529411764706
+GPT-4.1 (RAG KZ),RAG,164,answerable,0,0,196,0.0,0.25862068965517243,,0.22413793103448276
+GPT-4.1 (RAG KZ),RAG,165,answerable,0,0,174,0.0,0.21800947867298578,,0.21800947867298578
+GPT-4.1 (RAG KZ),RAG,166,answerable,0,0,135,0.0,0.2278481012658228,,0.18987341772151897
+GPT-4.1 (RAG KZ),RAG,167,answerable,0,0,30,0.0,0.6222222222222223,,0.4888888888888889
+GPT-4.1 (RAG KZ),RAG,168,answerable,0,0,93,0.0,0.45901639344262296,,0.40983606557377045
+GPT-4.1 (RAG KZ),RAG,169,answerable,0,0,32,0.0,0.5217391304347825,,0.4782608695652174
+GPT-4.1 (RAG KZ),RAG,170,answerable,0,0,144,0.0,0.26506024096385544,,0.26506024096385544
+GPT-4.1 (RAG KZ),RAG,171,answerable,0,0,114,0.0,0.16,,0.16
+GPT-4.1 (RAG KZ),RAG,172,answerable,0,0,154,0.0,0.10344827586206895,,0.10344827586206895
+GPT-4.1 (RAG KZ),RAG,173,answerable,0,0,190,0.0,0.12500000000000003,,0.11538461538461539
+GPT-4.1 (RAG KZ),RAG,174,answerable,0,1,15,0.0,0.0,,0.0
+GPT-4.1 (RAG KZ),RAG,175,answerable,0,0,126,0.0,0.40490797546012275,,0.39263803680981596
+GPT-4.1 (RAG KZ),RAG,176,answerable,0,0,172,0.0,0.23414634146341462,,0.1951219512195122
+GPT-4.1 (RAG KZ),RAG,177,answerable,0,0,135,0.0,0.163265306122449,,0.163265306122449
+GPT-4.1 (RAG KZ),RAG,178,answerable,0,0,148,0.0,0.20118343195266272,,0.1775147928994083
+GPT-4.1 (RAG KZ),RAG,179,answerable,0,0,87,0.0,0.15238095238095237,,0.13333333333333333
+GPT-4.1 (RAG KZ),RAG,180,answerable,0,0,51,0.0,0.14545454545454545,,0.14545454545454545
+GPT-4.1 (RAG KZ),RAG,181,answerable,0,0,210,0.0,0.07272727272727274,,0.07272727272727274
+GPT-4.1 (RAG KZ),RAG,182,unanswerable,0,1,49,,,,
+GPT-4.1 (RAG KZ),RAG,183,unanswerable,0,1,58,,,,
+GPT-4.1 (RAG KZ),RAG,184,unanswerable,0,1,47,,,,
+GPT-4.1 (RAG KZ),RAG,185,unanswerable,0,1,18,,,,
+GPT-4.1 (RAG KZ),RAG,186,unanswerable,0,1,51,,,,
+GPT-4.1 (RAG KZ),RAG,187,unanswerable,0,1,63,,,,
+GPT-4.1 (RAG KZ),RAG,188,unanswerable,0,1,43,,,,
+GPT-4.1 (RAG KZ),RAG,189,unanswerable,0,1,61,,,,
+GPT-4.1 (RAG KZ),RAG,190,unanswerable,0,0,100,,,,
+GPT-4.1 (RAG KZ),RAG,191,unanswerable,0,1,47,,,,
+GPT-4.1 (RAG KZ),RAG,192,unanswerable,0,1,74,,,,
+GPT-4.1 (RAG KZ),RAG,193,unanswerable,0,1,43,,,,
+GPT-4.1 (RAG KZ),RAG,194,unanswerable,0,0,40,,,,
+GPT-4.1 (RAG KZ),RAG,195,unanswerable,0,1,60,,,,
+GPT-4.1 (RAG KZ),RAG,196,unanswerable,0,0,103,,,,
+GPT-4.1 (RAG KZ),RAG,197,unanswerable,0,1,59,,,,
+GPT-4.1 (RAG KZ),RAG,198,unanswerable,0,1,57,,,,
+GPT-4.1 (RAG KZ),RAG,199,unanswerable,0,1,47,,,,
+GPT-4.1 (RAG KZ),RAG,200,unanswerable,0,0,17,,,,
+GPT-4.1 (RAG KZ),RAG,201,unanswerable,0,1,152,,,,
+GPT-4.1 (RAG KZ),RAG,202,unanswerable,0,0,101,,,,
+GPT-4.1 (RAG KZ),RAG,203,unanswerable,0,1,49,,,,
+GPT-4.1 (RAG KZ),RAG,204,unanswerable,0,1,61,,,,
+GPT-4.1 (RAG KZ),RAG,205,unanswerable,0,1,43,,,,
+GPT-4.1 (RAG KZ),RAG,206,unanswerable,0,0,17,,,,
+GPT-4.1 (RAG KZ),RAG,207,unanswerable,0,0,140,,,,
+GPT-4.1 (RAG KZ),RAG,208,unanswerable,0,1,47,,,,
+GPT-4.1 (RAG KZ),RAG,209,unanswerable,0,1,59,,,,
+GPT-4.1 (RAG KZ),RAG,210,unanswerable,0,1,64,,,,
+GPT-4.1 (RAG KZ),RAG,211,unanswerable,0,1,42,,,,
+GPT-4.1 (RAG KZ),RAG,212,unanswerable,0,0,17,,,,
+GPT-4.1 (RAG KZ),RAG,213,unanswerable,0,0,82,,,,
+GPT-4.1 (RAG KZ),RAG,214,unanswerable,0,1,50,,,,
+GPT-4.1 (RAG KZ),RAG,215,unanswerable,0,1,59,,,,
+GPT-4.1 (RAG KZ),RAG,216,unanswerable,0,0,17,,,,
+GPT-4.1 (RAG KZ),RAG,217,unanswerable,0,1,43,,,,
+GPT-4.1 (RAG KZ),RAG,218,unanswerable,0,1,47,,,,
+GPT-4.1 (RAG KZ),RAG,219,unanswerable,0,1,9,,,,
+GPT-4.1 (RAG KZ),RAG,220,unanswerable,0,0,98,,,,
+GPT-4.1 (RAG KZ),RAG,221,unanswerable,0,1,59,,,,
+GPT-4.1 (RAG KZ),RAG,222,unanswerable,0,1,58,,,,
+GPT-4.1 (RAG KZ),RAG,223,unanswerable,0,1,36,,,,
+GPT-4.1 (RAG KZ),RAG,224,unanswerable,0,0,82,,,,
+GPT-4.1 (RAG KZ),RAG,225,unanswerable,0,1,60,,,,
+GPT-4.1 (RAG KZ),RAG,226,unanswerable,0,1,51,,,,
+GPT-4.1 (RAG KZ),RAG,227,unanswerable,0,1,61,,,,
+GPT-4.1 (RAG KZ),RAG,228,unanswerable,0,1,51,,,,
+GPT-4.1 (RAG KZ),RAG,229,unanswerable,0,0,131,,,,
+GPT-4.1 (RAG KZ),RAG,230,unanswerable,0,0,17,,,,
+GPT-4.1 (RAG KZ),RAG,231,unanswerable,0,0,109,,,,
+GPT-4.1 (RAG KZ),RAG,232,unanswerable,0,1,47,,,,
+GPT-4.1 (RAG KZ),RAG,233,unanswerable,0,0,17,,,,
+GPT-4.1 (RAG KZ),RAG,234,unanswerable,0,1,60,,,,
+GPT-4.1 (RAG KZ),RAG,235,unanswerable,0,1,46,,,,
+GPT-4.1 (RAG KZ),RAG,236,unanswerable,0,0,17,,,,
+GPT-4.1 (RAG KZ),RAG,237,unanswerable,0,0,82,,,,
+GPT-4.1 (RAG KZ),RAG,238,unanswerable,0,1,51,,,,
+GPT-4.1 (RAG KZ),RAG,239,unanswerable,0,1,74,,,,
+GPT-4.1 (RAG KZ),RAG,240,unanswerable,0,1,42,,,,
+GPT-4.1 (RAG KZ),RAG,241,unanswerable,0,0,89,,,,
+GPT-4.1 (RAG RUS),RAG,0,answerable,0,0,182,0.0,0.11398963730569948,,0.11398963730569948
+GPT-4.1 (RAG RUS),RAG,1,answerable,0,0,212,0.0,0.1271186440677966,,0.11016949152542373
+GPT-4.1 (RAG RUS),RAG,2,answerable,0,0,195,0.0,0.1751152073732719,,0.15668202764976957
+GPT-4.1 (RAG RUS),RAG,3,answerable,0,0,202,0.0,0.07511737089201878,,0.07511737089201878
+GPT-4.1 (RAG RUS),RAG,4,answerable,0,0,192,0.0,0.15962441314553993,,0.14084507042253522
+GPT-4.1 (RAG RUS),RAG,5,answerable,0,0,123,0.0,0.2876712328767123,,0.2465753424657534
+GPT-4.1 (RAG RUS),RAG,6,answerable,0,0,133,0.0,0.10738255033557047,,0.09395973154362415
+GPT-4.1 (RAG RUS),RAG,7,answerable,0,0,206,0.0,0.08108108108108109,,0.08108108108108109
+GPT-4.1 (RAG RUS),RAG,8,answerable,0,0,153,0.0,0.19428571428571428,,0.14857142857142858
+GPT-4.1 (RAG RUS),RAG,9,answerable,0,0,127,0.0,0.19718309859154928,,0.19718309859154928
+GPT-4.1 (RAG RUS),RAG,10,answerable,0,0,112,0.0,0.08547008547008547,,0.08547008547008547
+GPT-4.1 (RAG RUS),RAG,11,answerable,0,0,90,0.0,0.3018867924528302,,0.3018867924528302
+GPT-4.1 (RAG RUS),RAG,12,answerable,0,0,201,0.0,0.12149532710280372,,0.12149532710280372
+GPT-4.1 (RAG RUS),RAG,13,answerable,0,0,179,0.0,0.13541666666666669,,0.13541666666666669
+GPT-4.1 (RAG RUS),RAG,14,answerable,0,0,181,0.0,0.16346153846153846,,0.14423076923076922
+GPT-4.1 (RAG RUS),RAG,15,answerable,0,0,181,0.0,0.13270142180094785,,0.08530805687203791
+GPT-4.1 (RAG RUS),RAG,16,answerable,0,0,153,0.0,0.038461538461538464,,0.038461538461538464
+GPT-4.1 (RAG RUS),RAG,17,answerable,0,0,206,0.0,0.13513513513513514,,0.12612612612612614
+GPT-4.1 (RAG RUS),RAG,18,answerable,0,0,196,0.0,0.14349775784753363,,0.13452914798206278
+GPT-4.1 (RAG RUS),RAG,19,answerable,0,0,139,0.0,0.3151515151515152,,0.3030303030303031
+GPT-4.1 (RAG RUS),RAG,20,answerable,0,0,188,0.0,0.11538461538461536,,0.11538461538461536
+GPT-4.1 (RAG RUS),RAG,21,answerable,0,0,80,0.0,0.2,,0.2
+GPT-4.1 (RAG RUS),RAG,22,answerable,0,1,169,0.0,0.04469273743016759,,0.033519553072625705
+GPT-4.1 (RAG RUS),RAG,23,answerable,0,0,211,0.0,0.14096916299559473,,0.13215859030837004
+GPT-4.1 (RAG RUS),RAG,24,answerable,0,0,74,0.0,0.25882352941176473,,0.25882352941176473
+GPT-4.1 (RAG RUS),RAG,25,answerable,0,0,189,0.0,0.1262135922330097,,0.1262135922330097
+GPT-4.1 (RAG RUS),RAG,26,answerable,0,0,201,0.0,0.019047619047619046,,0.019047619047619046
+GPT-4.1 (RAG RUS),RAG,27,answerable,0,0,165,0.0,0.10285714285714284,,0.10285714285714284
+GPT-4.1 (RAG RUS),RAG,28,answerable,0,0,208,0.0,0.16593886462882096,,0.13100436681222707
+GPT-4.1 (RAG RUS),RAG,29,answerable,0,0,80,0.0,0.11764705882352941,,0.11764705882352941
+GPT-4.1 (RAG RUS),RAG,30,answerable,0,0,130,0.0,0.08823529411764706,,0.08823529411764706
+GPT-4.1 (RAG RUS),RAG,31,answerable,0,0,99,0.0,0.34710743801652894,,0.24793388429752067
+GPT-4.1 (RAG RUS),RAG,32,answerable,0,0,229,0.0,0.02531645569620253,,0.02531645569620253
+GPT-4.1 (RAG RUS),RAG,33,answerable,0,0,202,0.0,0.0196078431372549,,0.0196078431372549
+GPT-4.1 (RAG RUS),RAG,34,answerable,0,0,188,0.0,0.14678899082568805,,0.13761467889908258
+GPT-4.1 (RAG RUS),RAG,35,answerable,0,0,161,0.0,0.09467455621301774,,0.08284023668639054
+GPT-4.1 (RAG RUS),RAG,36,answerable,0,0,105,0.0,0.07936507936507936,,0.07936507936507936
+GPT-4.1 (RAG RUS),RAG,37,answerable,0,0,153,0.0,0.09937888198757763,,0.09937888198757763
+GPT-4.1 (RAG RUS),RAG,38,answerable,0,0,75,0.0,0.05128205128205129,,0.05128205128205129
+GPT-4.1 (RAG RUS),RAG,39,answerable,0,0,108,0.0,0.18487394957983191,,0.18487394957983191
+GPT-4.1 (RAG RUS),RAG,40,answerable,0,0,125,0.0,0.059701492537313425,,0.04477611940298507
+GPT-4.1 (RAG RUS),RAG,41,answerable,0,0,130,0.0,0.14285714285714288,,0.14285714285714288
+GPT-4.1 (RAG RUS),RAG,42,answerable,0,0,102,0.0,0.18965517241379312,,0.1724137931034483
+GPT-4.1 (RAG RUS),RAG,43,answerable,0,0,197,0.0,0.08737864077669902,,0.08737864077669902
+GPT-4.1 (RAG RUS),RAG,44,answerable,0,0,122,0.0,0.10852713178294575,,0.07751937984496123
+GPT-4.1 (RAG RUS),RAG,45,answerable,0,0,155,0.0,0.21839080459770113,,0.19540229885057472
+GPT-4.1 (RAG RUS),RAG,46,answerable,0,0,140,0.0,0.16883116883116886,,0.14285714285714285
+GPT-4.1 (RAG RUS),RAG,47,answerable,0,0,116,0.0,0.09836065573770492,,0.09836065573770492
+GPT-4.1 (RAG RUS),RAG,48,answerable,0,0,128,0.0,0.03076923076923077,,0.03076923076923077
+GPT-4.1 (RAG RUS),RAG,49,answerable,0,0,129,0.0,0.12949640287769784,,0.12949640287769784
+GPT-4.1 (RAG RUS),RAG,50,answerable,0,0,81,0.0,0.07142857142857142,,0.047619047619047616
+GPT-4.1 (RAG RUS),RAG,51,answerable,0,0,170,0.0,0.2153846153846154,,0.20512820512820512
+GPT-4.1 (RAG RUS),RAG,52,answerable,0,0,167,0.0,0.13333333333333333,,0.13333333333333333
+GPT-4.1 (RAG RUS),RAG,53,answerable,0,0,141,0.0,0.19393939393939394,,0.1696969696969697
+GPT-4.1 (RAG RUS),RAG,54,answerable,0,0,92,0.0,0.19417475728155342,,0.19417475728155342
+GPT-4.1 (RAG RUS),RAG,55,answerable,0,0,156,0.0,0.13095238095238096,,0.13095238095238096
+GPT-4.1 (RAG RUS),RAG,56,answerable,0,0,110,0.0,0.03571428571428572,,0.03571428571428572
+GPT-4.1 (RAG RUS),RAG,57,answerable,0,0,151,0.0,0.19047619047619047,,0.16666666666666669
+GPT-4.1 (RAG RUS),RAG,58,answerable,0,0,89,0.0,0.27184466019417475,,0.27184466019417475
+GPT-4.1 (RAG RUS),RAG,59,answerable,0,0,77,0.0,0.20930232558139536,,0.20930232558139536
+GPT-4.1 (RAG RUS),RAG,60,answerable,0,0,200,0.0,0.03809523809523809,,0.03809523809523809
+GPT-4.1 (RAG RUS),RAG,61,answerable,0,0,131,0.0,0.029850746268656712,,0.029850746268656712
+GPT-4.1 (RAG RUS),RAG,62,answerable,0,0,208,0.0,0.19742489270386268,,0.18025751072961374
+GPT-4.1 (RAG RUS),RAG,63,answerable,0,0,157,0.0,0.10843373493975904,,0.10843373493975904
+GPT-4.1 (RAG RUS),RAG,64,answerable,0,0,167,0.0,0.15384615384615385,,0.15384615384615385
+GPT-4.1 (RAG RUS),RAG,65,answerable,0,0,202,0.0,0.20444444444444443,,0.19555555555555554
+GPT-4.1 (RAG RUS),RAG,66,answerable,0,0,196,0.0,0.11538461538461538,,0.11538461538461538
+GPT-4.1 (RAG RUS),RAG,67,answerable,0,0,121,0.0,0.13846153846153847,,0.13846153846153847
+GPT-4.1 (RAG RUS),RAG,68,answerable,0,0,139,0.0,0.22754491017964074,,0.17964071856287425
+GPT-4.1 (RAG RUS),RAG,69,answerable,0,0,102,0.0,0.19469026548672566,,0.19469026548672566
+GPT-4.1 (RAG RUS),RAG,70,answerable,0,0,198,0.0,0.27826086956521745,,0.27826086956521745
+GPT-4.1 (RAG RUS),RAG,71,answerable,0,0,215,0.0,0.1983471074380165,,0.18181818181818182
+GPT-4.1 (RAG RUS),RAG,72,answerable,0,0,108,0.0,0.15384615384615385,,0.15384615384615385
+GPT-4.1 (RAG RUS),RAG,73,answerable,0,0,153,0.0,0.05347593582887701,,0.04278074866310161
+GPT-4.1 (RAG RUS),RAG,74,answerable,0,0,185,0.0,0.32142857142857145,,0.2857142857142857
+GPT-4.1 (RAG RUS),RAG,75,answerable,0,0,159,0.0,0.0718562874251497,,0.0718562874251497
+GPT-4.1 (RAG RUS),RAG,76,answerable,0,0,184,0.0,0.14468085106382977,,0.10212765957446808
+GPT-4.1 (RAG RUS),RAG,77,answerable,0,0,90,0.0,0.1443298969072165,,0.1443298969072165
+GPT-4.1 (RAG RUS),RAG,78,answerable,0,0,119,0.0,0.140625,,0.140625
+GPT-4.1 (RAG RUS),RAG,79,answerable,0,0,114,0.0,0.21875,,0.1875
+GPT-4.1 (RAG RUS),RAG,80,answerable,0,0,190,0.0,0.1042654028436019,,0.07582938388625593
+GPT-4.1 (RAG RUS),RAG,81,answerable,0,0,178,0.0,0.13471502590673576,,0.11398963730569948
+GPT-4.1 (RAG RUS),RAG,82,answerable,0,0,177,0.0,0.11702127659574468,,0.10638297872340426
+GPT-4.1 (RAG RUS),RAG,83,answerable,0,0,178,0.0,0.07567567567567568,,0.06486486486486487
+GPT-4.1 (RAG RUS),RAG,84,answerable,0,0,213,0.0,0.036036036036036036,,0.036036036036036036
+GPT-4.1 (RAG RUS),RAG,85,answerable,0,0,147,0.0,0.13924050632911392,,0.11392405063291139
+GPT-4.1 (RAG RUS),RAG,86,answerable,0,0,196,0.0,0.13333333333333333,,0.13333333333333333
+GPT-4.1 (RAG RUS),RAG,87,answerable,0,0,187,0.0,0.1611374407582938,,0.1042654028436019
+GPT-4.1 (RAG RUS),RAG,88,answerable,0,0,177,0.0,0.02150537634408602,,0.02150537634408602
+GPT-4.1 (RAG RUS),RAG,89,answerable,0,0,178,0.0,0.08421052631578947,,0.08421052631578947
+GPT-4.1 (RAG RUS),RAG,90,answerable,0,0,133,0.0,0.09859154929577464,,0.09859154929577464
+GPT-4.1 (RAG RUS),RAG,91,answerable,0,0,125,0.0,0.1751824817518248,,0.1751824817518248
+GPT-4.1 (RAG RUS),RAG,92,answerable,0,0,201,0.0,0.14678899082568805,,0.14678899082568805
+GPT-4.1 (RAG RUS),RAG,93,answerable,0,0,138,0.0,0.19607843137254902,,0.19607843137254902
+GPT-4.1 (RAG RUS),RAG,94,answerable,0,0,181,0.0,0.2761904761904762,,0.2761904761904762
+GPT-4.1 (RAG RUS),RAG,95,answerable,0,0,187,0.0,0.17560975609756097,,0.17560975609756097
+GPT-4.1 (RAG RUS),RAG,96,answerable,0,0,63,0.0,0.0909090909090909,,0.0909090909090909
+GPT-4.1 (RAG RUS),RAG,97,answerable,0,0,134,0.0,0.1643835616438356,,0.1643835616438356
+GPT-4.1 (RAG RUS),RAG,98,answerable,0,0,194,0.0,0.08612440191387562,,0.07655502392344497
+GPT-4.1 (RAG RUS),RAG,99,answerable,0,0,117,0.0,0.15625,,0.15625
+GPT-4.1 (RAG RUS),RAG,100,answerable,0,0,210,0.0,0.14159292035398233,,0.13274336283185842
+GPT-4.1 (RAG RUS),RAG,101,answerable,0,0,126,0.0,0.015384615384615385,,0.015384615384615385
+GPT-4.1 (RAG RUS),RAG,102,answerable,0,0,148,0.0,0.07792207792207792,,0.07792207792207792
+GPT-4.1 (RAG RUS),RAG,103,answerable,0,0,95,0.0,0.22429906542056077,,0.205607476635514
+GPT-4.1 (RAG RUS),RAG,104,answerable,0,0,181,0.0,0.07407407407407407,,0.06349206349206349
+GPT-4.1 (RAG RUS),RAG,105,answerable,0,0,159,0.0,0.08383233532934131,,0.08383233532934131
+GPT-4.1 (RAG RUS),RAG,106,answerable,0,0,164,0.0,0.09729729729729729,,0.08648648648648649
+GPT-4.1 (RAG RUS),RAG,107,answerable,0,0,165,0.0,0.2617801047120419,,0.24083769633507857
+GPT-4.1 (RAG RUS),RAG,108,answerable,0,0,90,0.0,0.21568627450980393,,0.21568627450980393
+GPT-4.1 (RAG RUS),RAG,109,answerable,0,0,209,0.0,0.13392857142857142,,0.13392857142857142
+GPT-4.1 (RAG RUS),RAG,110,answerable,0,0,193,0.0,0.04060913705583756,,0.04060913705583756
+GPT-4.1 (RAG RUS),RAG,111,answerable,0,0,130,0.0,0.14285714285714288,,0.14285714285714288
+GPT-4.1 (RAG RUS),RAG,112,answerable,0,0,212,0.0,0.06140350877192983,,0.06140350877192983
+GPT-4.1 (RAG RUS),RAG,113,answerable,0,0,181,0.0,0.10471204188481674,,0.10471204188481674
+GPT-4.1 (RAG RUS),RAG,114,answerable,0,0,208,0.0,0.12173913043478261,,0.08695652173913043
+GPT-4.1 (RAG RUS),RAG,115,answerable,0,0,102,0.0,0.14545454545454545,,0.1272727272727273
+GPT-4.1 (RAG RUS),RAG,116,answerable,0,0,158,0.0,0.08484848484848485,,0.08484848484848485
+GPT-4.1 (RAG RUS),RAG,117,answerable,0,0,152,0.0,0.14634146341463414,,0.14634146341463414
+GPT-4.1 (RAG RUS),RAG,118,answerable,0,0,180,0.0,0.04347826086956522,,0.04347826086956522
+GPT-4.1 (RAG RUS),RAG,119,answerable,0,0,161,0.0,0.1978021978021978,,0.16483516483516486
+GPT-4.1 (RAG RUS),RAG,120,answerable,0,0,203,0.0,0.13392857142857145,,0.09821428571428571
+GPT-4.1 (RAG RUS),RAG,121,answerable,0,0,153,0.0,0.0875,,0.0875
+GPT-4.1 (RAG RUS),RAG,122,answerable,0,0,178,0.0,0.0748663101604278,,0.053475935828877004
+GPT-4.1 (RAG RUS),RAG,123,answerable,0,0,185,0.0,0.1,,0.08
+GPT-4.1 (RAG RUS),RAG,124,answerable,0,0,113,0.0,0.11023622047244094,,0.09448818897637794
+GPT-4.1 (RAG RUS),RAG,125,answerable,0,0,65,0.0,0.2894736842105263,,0.26315789473684215
+GPT-4.1 (RAG RUS),RAG,126,answerable,0,0,104,0.0,0.2666666666666667,,0.2666666666666667
+GPT-4.1 (RAG RUS),RAG,127,answerable,0,0,161,0.0,0.09467455621301774,,0.09467455621301774
+GPT-4.1 (RAG RUS),RAG,128,answerable,0,0,150,0.0,0.05194805194805195,,0.05194805194805195
+GPT-4.1 (RAG RUS),RAG,129,answerable,0,0,180,0.0,0.09424083769633508,,0.07329842931937174
+GPT-4.1 (RAG RUS),RAG,130,answerable,0,0,206,0.0,0.04739336492890995,,0.028436018957345974
+GPT-4.1 (RAG RUS),RAG,131,answerable,0,0,211,0.0,0.14096916299559473,,0.14096916299559473
+GPT-4.1 (RAG RUS),RAG,132,answerable,0,0,188,0.0,0.08530805687203792,,0.04739336492890995
+GPT-4.1 (RAG RUS),RAG,133,answerable,0,0,113,0.0,0.0847457627118644,,0.0847457627118644
+GPT-4.1 (RAG RUS),RAG,134,answerable,0,0,149,0.0,0.4636363636363637,,0.40909090909090906
+GPT-4.1 (RAG RUS),RAG,135,answerable,0,0,215,0.0,0.2310756972111554,,0.2310756972111554
+GPT-4.1 (RAG RUS),RAG,136,answerable,0,0,185,0.0,0.031088082901554407,,0.031088082901554407
+GPT-4.1 (RAG RUS),RAG,137,answerable,0,0,184,0.0,0.11881188118811882,,0.099009900990099
+GPT-4.1 (RAG RUS),RAG,138,answerable,0,0,198,0.0,0.07407407407407408,,0.07407407407407408
+GPT-4.1 (RAG RUS),RAG,139,answerable,0,0,185,0.0,0.020833333333333336,,0.020833333333333336
+GPT-4.1 (RAG RUS),RAG,140,answerable,0,0,205,0.0,0.1517857142857143,,0.13392857142857142
+GPT-4.1 (RAG RUS),RAG,141,answerable,0,0,114,0.0,0.034482758620689655,,0.034482758620689655
+GPT-4.1 (RAG RUS),RAG,142,answerable,0,0,108,0.0,0.19999999999999998,,0.19999999999999998
+GPT-4.1 (RAG RUS),RAG,143,answerable,0,0,106,0.0,0.2033898305084746,,0.2033898305084746
+GPT-4.1 (RAG RUS),RAG,144,answerable,0,0,152,0.0,0.14545454545454542,,0.13333333333333336
+GPT-4.1 (RAG RUS),RAG,145,answerable,0,0,71,0.0,0.2891566265060241,,0.2891566265060241
+GPT-4.1 (RAG RUS),RAG,146,answerable,0,0,197,0.0,0.1461187214611872,,0.136986301369863
+GPT-4.1 (RAG RUS),RAG,147,answerable,0,0,163,0.0,0.15642458100558662,,0.1340782122905028
+GPT-4.1 (RAG RUS),RAG,148,answerable,0,0,189,0.0,0.11594202898550725,,0.08695652173913042
+GPT-4.1 (RAG RUS),RAG,149,answerable,0,0,111,0.0,0.1652892561983471,,0.13223140495867766
+GPT-4.1 (RAG RUS),RAG,150,answerable,0,0,183,0.0,0.07216494845360824,,0.07216494845360824
+GPT-4.1 (RAG RUS),RAG,151,answerable,0,0,195,0.0,0.04975124378109452,,0.04975124378109452
+GPT-4.1 (RAG RUS),RAG,152,answerable,0,0,181,0.0,0.13402061855670103,,0.13402061855670103
+GPT-4.1 (RAG RUS),RAG,153,answerable,0,0,184,0.0,0.187192118226601,,0.187192118226601
+GPT-4.1 (RAG RUS),RAG,154,answerable,0,0,77,0.0,0.2696629213483146,,0.2696629213483146
+GPT-4.1 (RAG RUS),RAG,155,answerable,0,0,158,0.0,0.09195402298850573,,0.09195402298850573
+GPT-4.1 (RAG RUS),RAG,156,answerable,0,0,202,0.0,0.14414414414414414,,0.12612612612612611
+GPT-4.1 (RAG RUS),RAG,157,answerable,0,0,182,0.0,0.19704433497536944,,0.1773399014778325
+GPT-4.1 (RAG RUS),RAG,158,answerable,0,0,91,0.0,0.08421052631578947,,0.08421052631578947
+GPT-4.1 (RAG RUS),RAG,159,answerable,0,0,199,0.0,0.12264150943396228,,0.12264150943396228
+GPT-4.1 (RAG RUS),RAG,160,answerable,0,0,191,0.0,0.10891089108910892,,0.099009900990099
+GPT-4.1 (RAG RUS),RAG,161,answerable,0,0,135,0.0,0.0851063829787234,,0.0851063829787234
+GPT-4.1 (RAG RUS),RAG,162,answerable,0,0,166,0.0,0.046783625730994156,,0.046783625730994156
+GPT-4.1 (RAG RUS),RAG,163,answerable,0,0,182,0.0,0.09375,,0.09375
+GPT-4.1 (RAG RUS),RAG,164,answerable,0,0,196,0.0,0.2672413793103448,,0.21551724137931036
+GPT-4.1 (RAG RUS),RAG,165,answerable,0,0,203,0.0,0.2333333333333333,,0.2333333333333333
+GPT-4.1 (RAG RUS),RAG,166,answerable,0,0,166,0.0,0.20105820105820105,,0.16931216931216933
+GPT-4.1 (RAG RUS),RAG,167,answerable,0,0,96,0.0,0.2702702702702703,,0.2702702702702703
+GPT-4.1 (RAG RUS),RAG,168,answerable,0,0,129,0.0,0.3544303797468354,,0.32911392405063294
+GPT-4.1 (RAG RUS),RAG,169,answerable,0,0,86,0.0,0.28,,0.28
+GPT-4.1 (RAG RUS),RAG,170,answerable,0,0,179,0.0,0.21890547263681592,,0.21890547263681592
+GPT-4.1 (RAG RUS),RAG,171,answerable,0,0,109,0.0,0.16666666666666669,,0.16666666666666669
+GPT-4.1 (RAG RUS),RAG,172,answerable,0,0,175,0.0,0.11282051282051284,,0.0923076923076923
+GPT-4.1 (RAG RUS),RAG,173,answerable,0,0,197,0.0,0.05581395348837209,,0.046511627906976744
+GPT-4.1 (RAG RUS),RAG,174,answerable,0,0,148,0.0,0.0,,0.0
+GPT-4.1 (RAG RUS),RAG,175,answerable,0,0,118,0.0,0.4774193548387097,,0.4645161290322581
+GPT-4.1 (RAG RUS),RAG,176,answerable,0,0,190,0.0,0.21524663677130046,,0.17937219730941703
+GPT-4.1 (RAG RUS),RAG,177,answerable,0,0,180,0.0,0.125,,0.125
+GPT-4.1 (RAG RUS),RAG,178,answerable,0,0,207,0.0,0.16666666666666669,,0.13157894736842105
+GPT-4.1 (RAG RUS),RAG,179,answerable,0,0,169,0.0,0.1176470588235294,,0.0962566844919786
+GPT-4.1 (RAG RUS),RAG,180,answerable,0,0,149,0.0,0.05228758169934641,,0.05228758169934641
+GPT-4.1 (RAG RUS),RAG,181,answerable,0,0,206,0.0,0.06481481481481481,,0.06481481481481481
+GPT-4.1 (RAG RUS),RAG,182,unanswerable,0,0,154,,,,
+GPT-4.1 (RAG RUS),RAG,183,unanswerable,0,1,148,,,,
+GPT-4.1 (RAG RUS),RAG,184,unanswerable,0,0,184,,,,
+GPT-4.1 (RAG RUS),RAG,185,unanswerable,0,1,116,,,,
+GPT-4.1 (RAG RUS),RAG,186,unanswerable,0,0,175,,,,
+GPT-4.1 (RAG RUS),RAG,187,unanswerable,0,0,159,,,,
+GPT-4.1 (RAG RUS),RAG,188,unanswerable,0,0,191,,,,
+GPT-4.1 (RAG RUS),RAG,189,unanswerable,0,0,176,,,,
+GPT-4.1 (RAG RUS),RAG,190,unanswerable,0,0,188,,,,
+GPT-4.1 (RAG RUS),RAG,191,unanswerable,0,0,197,,,,
+GPT-4.1 (RAG RUS),RAG,192,unanswerable,0,1,155,,,,
+GPT-4.1 (RAG RUS),RAG,193,unanswerable,0,0,178,,,,
+GPT-4.1 (RAG RUS),RAG,194,unanswerable,0,0,203,,,,
+GPT-4.1 (RAG RUS),RAG,195,unanswerable,0,1,107,,,,
+GPT-4.1 (RAG RUS),RAG,196,unanswerable,0,0,176,,,,
+GPT-4.1 (RAG RUS),RAG,197,unanswerable,0,0,189,,,,
+GPT-4.1 (RAG RUS),RAG,198,unanswerable,0,1,157,,,,
+GPT-4.1 (RAG RUS),RAG,199,unanswerable,0,0,205,,,,
+GPT-4.1 (RAG RUS),RAG,200,unanswerable,0,1,147,,,,
+GPT-4.1 (RAG RUS),RAG,201,unanswerable,0,1,183,,,,
+GPT-4.1 (RAG RUS),RAG,202,unanswerable,0,1,224,,,,
+GPT-4.1 (RAG RUS),RAG,203,unanswerable,0,0,172,,,,
+GPT-4.1 (RAG RUS),RAG,204,unanswerable,0,1,166,,,,
+GPT-4.1 (RAG RUS),RAG,205,unanswerable,0,1,148,,,,
+GPT-4.1 (RAG RUS),RAG,206,unanswerable,0,1,106,,,,
+GPT-4.1 (RAG RUS),RAG,207,unanswerable,0,1,209,,,,
+GPT-4.1 (RAG RUS),RAG,208,unanswerable,0,0,140,,,,
+GPT-4.1 (RAG RUS),RAG,209,unanswerable,0,1,164,,,,
+GPT-4.1 (RAG RUS),RAG,210,unanswerable,0,1,164,,,,
+GPT-4.1 (RAG RUS),RAG,211,unanswerable,0,0,184,,,,
+GPT-4.1 (RAG RUS),RAG,212,unanswerable,0,1,95,,,,
+GPT-4.1 (RAG RUS),RAG,213,unanswerable,0,1,201,,,,
+GPT-4.1 (RAG RUS),RAG,214,unanswerable,0,1,147,,,,
+GPT-4.1 (RAG RUS),RAG,215,unanswerable,0,1,135,,,,
+GPT-4.1 (RAG RUS),RAG,216,unanswerable,0,0,86,,,,
+GPT-4.1 (RAG RUS),RAG,217,unanswerable,0,0,140,,,,
+GPT-4.1 (RAG RUS),RAG,218,unanswerable,0,0,147,,,,
+GPT-4.1 (RAG RUS),RAG,219,unanswerable,0,1,99,,,,
+GPT-4.1 (RAG RUS),RAG,220,unanswerable,0,0,219,,,,
+GPT-4.1 (RAG RUS),RAG,221,unanswerable,0,1,136,,,,
+GPT-4.1 (RAG RUS),RAG,222,unanswerable,0,1,147,,,,
+GPT-4.1 (RAG RUS),RAG,223,unanswerable,0,0,194,,,,
+GPT-4.1 (RAG RUS),RAG,224,unanswerable,0,1,190,,,,
+GPT-4.1 (RAG RUS),RAG,225,unanswerable,0,1,188,,,,
+GPT-4.1 (RAG RUS),RAG,226,unanswerable,0,1,209,,,,
+GPT-4.1 (RAG RUS),RAG,227,unanswerable,0,1,175,,,,
+GPT-4.1 (RAG RUS),RAG,228,unanswerable,0,0,165,,,,
+GPT-4.1 (RAG RUS),RAG,229,unanswerable,0,0,168,,,,
+GPT-4.1 (RAG RUS),RAG,230,unanswerable,0,1,125,,,,
+GPT-4.1 (RAG RUS),RAG,231,unanswerable,0,1,185,,,,
+GPT-4.1 (RAG RUS),RAG,232,unanswerable,0,0,133,,,,
+GPT-4.1 (RAG RUS),RAG,233,unanswerable,0,1,98,,,,
+GPT-4.1 (RAG RUS),RAG,234,unanswerable,0,1,161,,,,
+GPT-4.1 (RAG RUS),RAG,235,unanswerable,0,0,186,,,,
+GPT-4.1 (RAG RUS),RAG,236,unanswerable,0,1,114,,,,
+GPT-4.1 (RAG RUS),RAG,237,unanswerable,0,1,174,,,,
+GPT-4.1 (RAG RUS),RAG,238,unanswerable,0,1,144,,,,
+GPT-4.1 (RAG RUS),RAG,239,unanswerable,0,1,160,,,,
+GPT-4.1 (RAG RUS),RAG,240,unanswerable,0,1,164,,,,
+GPT-4.1 (RAG RUS),RAG,241,unanswerable,0,1,205,,,,

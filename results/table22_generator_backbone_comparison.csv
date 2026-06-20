@@ -1,0 +1,7 @@
+﻿System,Setting,Legal,Evidence,Halluc_down,Completeness,Clarity,CorrectAbstain_up,FalseAbstain_down
+GPT-4.1,LLM-only,,,,,,0.0,0.0
+GPT-4.1,Static Hybrid RAG KZ,,,,,,0.0,0.0
+GPT-4.1,Static Hybrid RAG RUS,,,,,,0.0,0.0
+Hermes-3-Llama-3.1-8B,LLM-only,,,,,,0.0,0.0
+KazLLM-1.0-8B,LLM-only,,,,,,1.0,1.0
+Qwen2.5-7B,LLM-only,,,,,,0.0,0.0

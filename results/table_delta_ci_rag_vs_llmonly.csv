@@ -1,0 +1,9 @@
+﻿Metric,Delta (RAG−LLM),CI_low,CI_high,Significance
+Legal,0.802,0.654,0.945,✓ significant
+Evidence,0.593,0.456,0.72,✓ significant
+Citation,-0.088,-0.181,0.005,ns
+Completeness,0.94,0.78,1.082,✓ significant
+Clarity,-0.033,-0.11,0.049,ns
+Hallucination,-0.093,-0.225,0.038,ns
+SemanticSim,0.06,0.047,0.073,✓ significant
+chrF++,13.67,10.894,16.607,✓ significant

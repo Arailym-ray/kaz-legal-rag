@@ -1,0 +1,7 @@
+﻿System,Setting,Abstain_P,Abstain_R,Abstain_F1
+GPT-4.1 (LLM-only),LLM-only,0.649,0.8,0.716
+GPT-4.1 (RAG KZ),RAG,0.804,0.683,0.739
+GPT-4.1 (RAG RUS),RAG,0.972,0.583,0.729
+Hermes-3-Llama-3.1-8B,LLM-only,0.571,0.2,0.296
+KazLLM-1.0-8B,LLM-only,0.9,0.6,0.72
+Qwen2.5-7B,LLM-only,0.414,0.4,0.407

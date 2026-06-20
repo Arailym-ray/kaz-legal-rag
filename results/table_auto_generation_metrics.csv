@@ -1,0 +1,7 @@
+﻿System,Setting,N_ans,Failed,EM,F1,chrF++,ROUGE-L,CorrectAbstain,FalseAbstain
+GPT-4.1 (RAG KZ),RAG,182,0,0.0,0.259,,0.245,0.683,0.055
+GPT-4.1 (RAG RUS),RAG,182,0,0.0,0.142,,0.132,0.583,0.005
+GPT-4.1 (LLM-only),LLM-only,182,0,0.0,0.137,,0.122,0.8,0.143
+Hermes-3-Llama-3.1-8B,LLM-only,0,242,,,,,0.0,
+KazLLM-1.0-8B,LLM-only,0,242,,,,,1.0,
+Qwen2.5-7B,LLM-only,0,242,,,,,0.0,
