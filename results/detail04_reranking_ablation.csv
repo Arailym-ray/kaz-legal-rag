@@ -1,0 +1,729 @@
+﻿question_id,row_id,complexity,question_type,legal_domain,Hit@1,MRR@10,nDCG@10,DocRecall@10,SourceRecall@10,TopScore,TopChunk,GoldChunk,Recall@1,Recall@3,Recall@5,Recall@10,Pipeline
+TEST_0210,0,complex,deadline,tax_law,0,0.5,0.6309297535714575,1,1,0.043484350261843864,0,788,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0056,1,moderate,definition,migration_law,1,1.0,1.0,1,1,0.03252247488101534,32,32,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0235,2,complex,deadline,civil_law,1,1.0,1.0,1,1,0.03252247488101534,413,413,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0227,3,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.032266458495966696,195,273,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0237,4,complex,definition,civil_law,1,1.0,1.0,1,1,0.03076923076923077,538,538,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0057,5,moderate,definition,migration_law,0,0.5,0.6309297535714575,1,1,0.03225806451612903,285,332,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0142,6,moderate,deadline,family_law,1,1.0,1.0,1,1,0.03252247488101534,246,246,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0137,7,complex,deadline,family_law,1,1.0,1.0,1,1,0.03278688524590164,253,253,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0192,8,complex,definition,tax_law,0,0.1111111111111111,0.3010299956639812,1,1,0.029211087420042643,434,925,0.0,0.0,0.0,1.0,Hybrid only top-10
+TEST_0130,9,complex,deadline,family_law,0,0.5,0.6309297535714575,1,1,0.03225806451612903,246,245,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0163,10,complex,deadline,civil_law,1,1.0,1.0,1,1,0.03278688524590164,1036,1036,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0176,11,moderate,definition,civil_law,0,0.5,0.6309297535714575,1,1,0.04529532967032967,2,477,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0185,12,complex,definition,civil_law,1,1.0,1.0,1,1,0.031099324975891997,334,334,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0186,13,complex,definition,civil_law,1,1.0,1.0,1,1,0.03278688524590164,335,335,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0082,14,complex,definition,tax_law,0,0.16666666666666666,0.3562071871080222,1,1,0.031746031746031744,486,644,0.0,0.0,0.0,1.0,Hybrid only top-10
+TEST_0224,15,complex,deadline,civil_law,0,0.25,0.43067655807339306,1,1,0.032266458495966696,202,424,0.0,0.0,1.0,1.0,Hybrid only top-10
+TEST_0217,16,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.10765609937608867,0,733,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0084,17,complex,deadline,tax_law,1,1.0,1.0,1,1,0.03278688524590164,981,981,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0199,18,complex,definition,tax_law,1,1.0,1.0,1,1,0.03225806451612903,933,933,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0240,19,simple,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.04392998306041784,171,1041,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0202,20,complex,definition,civil_law,1,1.0,1.0,1,1,0.03278688524590164,653,653,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0101,21,simple,deadline,administrative_law,0,0.0,0.0,1,1,0.03252247488101534,117,220,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0118,22,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.03278688524590164,360,360,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0158,23,complex,deadline,civil_law,1,1.0,1.0,1,1,0.032018442622950824,380,380,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0100,24,simple,definition,administrative_law,0,0.5,0.6309297535714575,1,1,0.03252247488101534,40,51,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0011,25,moderate,deadline,labor_law,0,0.25,0.43067655807339306,1,1,0.031754032258064516,393,238,0.0,0.0,1.0,1.0,Hybrid only top-10
+TEST_0010,26,moderate,deadline,labor_law,0,0.0,0.0,1,1,0.03252247488101534,57,72,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0114,27,moderate,deadline,civil_law,0,0.2,0.38685280723454163,1,1,0.1509608976617365,0,486,0.0,0.0,1.0,1.0,Hybrid only top-10
+TEST_0128,28,simple,definition,tax_law,1,1.0,1.0,1,1,0.03278688524590164,1023,1023,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0113,29,moderate,deadline,civil_law,0,0.25,0.43067655807339306,1,1,0.0460397465437788,0,760,0.0,0.0,1.0,1.0,Hybrid only top-10
+TEST_0126,30,simple,deadline,tax_law,1,1.0,1.0,1,1,0.032018442622950824,786,786,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0125,31,simple,definition,tax_law,1,1.0,1.0,1,1,0.03278688524590164,481,481,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0121,32,simple,deadline,tax_law,1,1.0,1.0,1,1,0.03252247488101534,962,962,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0127,33,simple,deadline,tax_law,0,0.25,0.43067655807339306,1,1,0.03057889822595705,4,177,0.0,0.0,1.0,1.0,Hybrid only top-10
+TEST_0008,34,moderate,deadline,labor_law,1,1.0,1.0,1,1,0.032018442622950824,95,95,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0007,35,moderate,deadline,labor_law,1,1.0,1.0,1,1,0.046543778801843315,115,115,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0006,36,moderate,definition,labor_law,0,0.5,0.6309297535714575,1,1,0.04392998306041784,0,52,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0002,37,simple,deadline,migration_law,0,0.5,0.6309297535714575,1,1,0.04616113053613054,1,53,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0015,38,simple,deadline,family_law,1,1.0,1.0,1,1,0.04765107388058208,64,64,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0014,39,simple,definition,family_law,0,0.3333333333333333,0.5,1,1,0.04692742126540875,32,36,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0013,40,simple,deadline,family_law,0,0.16666666666666666,0.3562071871080222,1,1,0.0315136476426799,208,308,0.0,0.0,0.0,1.0,Hybrid only top-10
+TEST_0012,41,moderate,deadline,labor_law,0,0.3333333333333333,0.5,1,1,0.03278688524590164,71,86,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0032,42,moderate,deadline,other,1,1.0,1.0,1,1,0.03278688524590164,849,849,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0009,43,moderate,deadline,labor_law,0,0.0,0.0,1,1,0.03177805800756621,81,80,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0023,44,simple,deadline,other,0,0.25,0.43067655807339306,1,1,0.032266458495966696,107,78,0.0,0.0,1.0,1.0,Hybrid only top-10
+TEST_0022,45,simple,deadline,other,0,0.1,0.2890648263178879,1,1,0.032018442622950824,40,34,0.0,0.0,0.0,1.0,Hybrid only top-10
+TEST_0021,46,simple,deadline,family_law,0,0.0,0.0,1,1,0.032018442622950824,123,74,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0020,47,simple,deadline,family_law,0,0.25,0.43067655807339306,1,1,0.06226724664224664,64,55,0.0,0.0,1.0,1.0,Hybrid only top-10
+TEST_0018,48,simple,deadline,family_law,1,1.0,1.0,1,1,0.03278688524590164,44,44,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0017,49,simple,deadline,family_law,0,0.0,0.0,0,0,0.06078051603998308,3,463,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0028,50,simple,deadline,other,0,0.0,0.0,0,0,0.03200204813108039,35,441,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0031,51,moderate,deadline,other,0,0.5,0.6309297535714575,1,1,0.032266458495966696,13,75,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0030,52,moderate,deadline,other,0,0.3333333333333333,0.5,1,1,0.03252247488101534,51,507,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0029,53,moderate,definition,other,1,1.0,1.0,1,1,0.03278688524590164,373,373,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0026,54,simple,deadline,other,1,1.0,1.0,1,1,0.03278688524590164,103,103,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0027,55,simple,deadline,other,1,1.0,1.0,1,1,0.03252247488101534,94,94,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0025,56,simple,deadline,other,0,0.5,0.6309297535714575,1,1,0.03252247488101534,20,82,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0129,57,complex,deadline,family_law,0,0.14285714285714285,0.3333333333333333,1,1,0.03131881575727918,75,108,0.0,0.0,0.0,1.0,Hybrid only top-10
+TEST_0143,58,moderate,deadline,family_law,1,1.0,1.0,1,1,0.03278688524590164,590,590,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0141,59,moderate,deadline,family_law,1,1.0,1.0,1,1,0.032018442622950824,298,298,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0140,60,moderate,deadline,family_law,0,0.0,0.0,0,0,0.10603892342092523,0,328,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0139,61,moderate,deadline,family_law,0,0.3333333333333333,0.5,1,1,0.10802526776581002,0,63,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0152,62,complex,definition,civil_law,0,0.14285714285714285,0.3333333333333333,1,1,0.046494801754268796,264,963,0.0,0.0,0.0,1.0,Hybrid only top-10
+TEST_0151,63,complex,deadline,civil_law,1,1.0,1.0,1,1,0.03125763125763126,386,386,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0149,64,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.03278688524590164,70,560,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0148,65,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.03278688524590164,987,986,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0146,66,moderate,deadline,family_law,0,0.0,0.0,0,0,0.058409723396172224,0,471,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0145,67,moderate,deadline,family_law,1,1.0,1.0,1,1,0.03252247488101534,620,620,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0160,68,simple,deadline,civil_law,1,1.0,1.0,1,1,0.03278688524590164,353,353,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0157,69,complex,definition,social_law,1,1.0,1.0,1,1,0.03278688524590164,1044,1044,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0156,70,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.03252247488101534,583,999,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0155,71,complex,deadline,civil_law,1,1.0,1.0,1,1,0.03278688524590164,994,994,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0154,72,complex,deadline,civil_law,1,1.0,1.0,1,1,0.03252247488101534,290,290,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0153,73,complex,deadline,civil_law,1,1.0,1.0,1,1,0.03200204813108039,93,93,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0104,74,moderate,definition,tax_law,0,0.3333333333333333,0.5,1,1,0.03252247488101534,19,710,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0103,75,moderate,deadline,tax_law,0,0.0,0.0,0,0,0.0467592121191551,7,24,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0102,76,moderate,definition,tax_law,0,0.0,0.0,0,0,0.04692957315908136,4,766,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0099,77,simple,deadline,administrative_law,0,0.0,0.0,1,0,0.030330882352941176,63,225,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0098,78,simple,deadline,administrative_law,1,1.0,1.0,1,1,0.061936788166296365,57,57,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0112,79,moderate,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.03278688524590164,269,270,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0111,80,moderate,definition,civil_law,1,1.0,1.0,1,1,0.031544957774465976,126,126,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0110,81,moderate,definition,tax_law,0,0.5,0.6309297535714575,1,1,0.03252247488101534,275,357,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0109,82,moderate,deadline,tax_law,0,0.14285714285714285,0.3333333333333333,1,1,0.030679156908665108,1013,1002,0.0,0.0,0.0,1.0,Hybrid only top-10
+TEST_0108,83,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.03252247488101534,639,639,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0107,84,moderate,fact_lookup,tax_law,0,0.2,0.38685280723454163,1,1,0.030798389007344232,763,753,0.0,0.0,1.0,1.0,Hybrid only top-10
+TEST_0106,85,moderate,deadline,tax_law,0,0.5,0.6309297535714575,1,1,0.03252247488101534,524,683,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0105,86,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.03252247488101534,768,768,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0119,87,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.03036576949620428,537,537,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0116,88,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.03125,109,109,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0115,89,moderate,deadline,civil_law,0,0.0,0.0,1,1,0.032266458495966696,672,671,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0184,90,complex,deadline,tax_law,0,0.0,0.0,1,1,0.03252247488101534,707,954,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0131,91,complex,deadline,family_law,1,1.0,1.0,1,1,0.03278688524590164,306,306,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0132,92,complex,deadline,family_law,1,1.0,1.0,1,1,0.03252247488101534,846,846,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0133,93,complex,deadline,family_law,1,1.0,1.0,1,1,0.03278688524590164,845,845,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0135,94,complex,deadline,family_law,1,1.0,1.0,1,1,0.03252247488101534,364,364,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0136,95,complex,definition,family_law,1,1.0,1.0,1,1,0.03252247488101534,478,478,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0188,96,moderate,deadline,other,1,1.0,1.0,1,1,0.03278688524590164,873,873,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0189,97,complex,deadline,tax_law,1,1.0,1.0,1,1,0.03278688524590164,857,857,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0190,98,complex,definition,civil_law,0,0.3333333333333333,0.5,1,1,0.032018442622950824,1010,1003,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0191,99,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.03278688524590164,950,950,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0177,100,complex,deadline,tax_law,1,1.0,1.0,1,1,0.03252247488101534,713,713,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0178,101,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.03252247488101534,194,255,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0180,102,complex,deadline,tax_law,0,0.5,0.6309297535714575,1,1,0.032266458495966696,36,799,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0181,103,complex,deadline,civil_law,1,1.0,1.0,1,1,0.03278688524590164,511,511,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0182,104,complex,deadline,civil_law,0,0.0,0.0,0,0,0.030776515151515152,32,104,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0183,105,moderate,deadline,civil_law,0,0.25,0.43067655807339306,1,1,0.03131881575727918,75,79,0.0,0.0,1.0,1.0,Hybrid only top-10
+TEST_0162,106,complex,definition,tax_law,0,0.25,0.43067655807339306,1,1,0.03125763125763126,27,720,0.0,0.0,1.0,1.0,Hybrid only top-10
+TEST_0169,107,moderate,definition,civil_law,0,0.5,0.6309297535714575,1,1,0.03252247488101534,358,359,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0170,108,moderate,deadline,other,0,0.0,0.0,0,0,0.032018442622950824,112,621,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0171,109,moderate,definition,tax_law,0,0.5,0.6309297535714575,1,1,0.03252247488101534,1049,1050,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0172,110,complex,deadline,civil_law,0,0.3333333333333333,0.5,1,1,0.01639344262295082,608,395,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0173,111,complex,definition,tax_law,1,1.0,1.0,1,1,0.03278688524590164,974,974,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0174,112,simple,definition,tax_law,1,1.0,1.0,1,1,0.03252247488101534,618,618,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0161,113,simple,fact_lookup,civil_law,1,1.0,1.0,1,1,0.03278688524590164,429,429,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0167,114,moderate,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.032266458495966696,586,583,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0164,115,moderate,deadline,family_law,0,0.25,0.43067655807339306,1,1,0.046679405392392875,4,321,0.0,0.0,1.0,1.0,Hybrid only top-10
+TEST_0165,116,simple,deadline,civil_law,0,0.25,0.43067655807339306,1,1,0.030834914611005692,5,432,0.0,0.0,1.0,1.0,Hybrid only top-10
+TEST_0166,117,complex,deadline,civil_law,0,0.16666666666666666,0.3562071871080222,1,1,0.03200204813108039,54,609,0.0,0.0,0.0,1.0,Hybrid only top-10
+TEST_0094,118,simple,deadline,labor_law,1,1.0,1.0,1,1,0.03252247488101534,87,87,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0093,119,simple,deadline,labor_law,0,0.3333333333333333,0.5,1,1,0.031024531024531024,92,99,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0095,120,simple,deadline,labor_law,0,0.25,0.43067655807339306,1,1,0.032266458495966696,81,73,0.0,0.0,1.0,1.0,Hybrid only top-10
+TEST_0193,121,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.03278688524590164,56,56,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0208,122,moderate,fact_lookup,civil_law,0,0.0,0.0,1,1,0.01639344262295082,896,900,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0206,123,moderate,deadline,civil_law,0,0.0,0.0,1,1,0.01639344262295082,399,556,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0205,124,complex,definition,tax_law,1,1.0,1.0,1,1,0.031544957774465976,1033,1033,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0204,125,complex,deadline,tax_law,1,1.0,1.0,1,1,0.03177805800756621,712,712,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0203,126,simple,deadline,civil_law,1,1.0,1.0,1,1,0.031754032258064516,337,337,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0201,127,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.03149801587301587,252,252,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0216,128,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.03278688524590164,774,774,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0214,129,complex,definition,tax_law,0,0.0,0.0,1,1,0.01639344262295082,478,830,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0213,130,complex,deadline,civil_law,1,1.0,1.0,1,1,0.03252247488101534,584,584,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0212,131,complex,definition,civil_law,0,0.5,0.6309297535714575,1,1,0.03278688524590164,669,755,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0211,132,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.03252247488101534,11,889,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0209,133,simple,definition,civil_law,1,1.0,1.0,1,1,0.03278688524590164,571,571,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0223,134,complex,deadline,civil_law,1,1.0,1.0,1,1,0.032018442622950824,287,287,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0222,135,complex,deadline,tax_law,0,0.16666666666666666,0.3562071871080222,1,1,0.03149801587301587,18,1001,0.0,0.0,0.0,1.0,Hybrid only top-10
+TEST_0220,136,simple,definition,civil_law,0,0.0,0.0,1,1,0.032266458495966696,18,232,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0219,137,complex,definition,civil_law,1,1.0,1.0,1,1,0.03278688524590164,829,829,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0218,138,complex,definition,tax_law,1,1.0,1.0,1,1,0.03252247488101534,882,882,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0072,139,complex,deadline,other,0,0.0,0.0,0,0,0.03055037313432836,0,625,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0071,140,complex,definition,other,1,1.0,1.0,1,1,0.03278688524590164,460,460,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0070,141,complex,deadline,other,1,1.0,1.0,1,1,0.03278688524590164,839,839,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0069,142,complex,deadline,other,0,0.5,0.6309297535714575,1,1,0.032266458495966696,213,615,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0080,143,complex,deadline,tax_law,0,0.25,0.43067655807339306,1,1,0.09365174624130075,3,931,0.0,0.0,1.0,1.0,Hybrid only top-10
+TEST_0079,144,complex,deadline,migration_law,0,0.1111111111111111,0.3010299956639812,1,1,0.03252247488101534,794,832,0.0,0.0,0.0,1.0,Hybrid only top-10
+TEST_0078,145,complex,deadline,migration_law,0,0.0,0.0,1,1,0.030621785881252923,931,847,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0077,146,complex,deadline,migration_law,1,1.0,1.0,1,1,0.03278688524590164,597,597,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0076,147,complex,deadline,migration_law,0,0.0,0.0,1,1,0.03125763125763126,6,850,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0075,148,complex,deadline,migration_law,0,0.2,0.38685280723454163,1,1,0.03149801587301587,165,365,0.0,0.0,1.0,1.0,Hybrid only top-10
+TEST_0074,149,complex,deadline,migration_law,0,0.25,0.43067655807339306,1,1,0.03252247488101534,53,42,0.0,0.0,1.0,1.0,Hybrid only top-10
+TEST_0073,150,moderate,deadline,administrative_law,1,1.0,1.0,1,1,0.032266458495966696,896,896,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0088,151,complex,definition,tax_law,0,0.0,0.0,1,1,0.031746031746031744,482,1046,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0083,152,complex,definition,tax_law,1,1.0,1.0,1,1,0.03252247488101534,707,707,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0081,153,complex,deadline,tax_law,1,1.0,1.0,1,1,0.03252247488101534,926,926,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0034,154,moderate,deadline,other,1,1.0,1.0,1,1,0.03252247488101534,436,436,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0194,155,complex,deadline,civil_law,1,1.0,1.0,1,1,0.03278688524590164,505,505,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0195,156,complex,deadline,civil_law,1,1.0,1.0,1,1,0.03149801587301587,724,724,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0197,157,moderate,definition,civil_law,1,1.0,1.0,1,1,0.03252247488101534,315,315,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0200,158,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.03278688524590164,946,946,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0061,159,complex,deadline,labor_law,1,1.0,1.0,1,1,0.03278688524590164,461,461,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0232,160,moderate,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.03252247488101534,27,89,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0059,161,moderate,deadline,social_law,1,1.0,1.0,1,1,0.03278688524590164,1045,1045,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0239,162,simple,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.03200204813108039,78,594,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0225,163,moderate,deadline,civil_law,0,0.14285714285714285,0.3333333333333333,1,1,0.06264022850420374,0,119,0.0,0.0,0.0,1.0,Hybrid only top-10
+TEST_0228,164,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.03252247488101534,907,885,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0229,165,complex,definition,civil_law,0,0.25,0.43067655807339306,1,1,0.03200204813108039,670,669,0.0,0.0,1.0,1.0,Hybrid only top-10
+TEST_0231,166,moderate,definition,tax_law,1,1.0,1.0,1,1,0.03278688524590164,1049,1049,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0233,167,moderate,deadline,labor_law,1,1.0,1.0,1,1,0.032266458495966696,81,81,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0238,168,complex,definition,civil_law,0,0.5,0.6309297535714575,1,1,0.03200204813108039,2,336,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0236,169,complex,deadline,tax_law,0,0.5,0.6309297535714575,1,1,0.03252247488101534,860,862,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0045,170,simple,definition,civil_law,1,1.0,1.0,1,1,0.03278688524590164,985,985,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0033,171,moderate,deadline,other,0,0.3333333333333333,0.5,1,1,0.04348435026184387,24,464,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0047,172,simple,deadline,civil_law,0,0.0,0.0,1,1,0.03252247488101534,111,543,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0001,173,simple,definition,migration_law,0,0.5,0.6309297535714575,1,1,0.03149801587301587,43,39,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0038,174,simple,deadline,education_law,0,0.3333333333333333,0.5,0,0,0.12044386980531864,0,19,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0037,175,moderate,deadline,other,0,0.5,0.6309297535714575,1,1,0.03252247488101534,913,836,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0036,176,moderate,deadline,other,1,1.0,1.0,1,1,0.03278688524590164,85,85,1.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0035,177,moderate,deadline,other,0,0.0,0.0,0,0,0.030798389007344232,12,473,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0050,178,simple,deadline,civil_law,0,0.3333333333333333,0.5,1,1,0.04630415690866511,8,1007,0.0,1.0,1.0,1.0,Hybrid only top-10
+TEST_0054,179,moderate,deadline,health_law,0,0.1,0.2890648263178879,1,1,0.02967032967032967,2,125,0.0,0.0,0.0,1.0,Hybrid only top-10
+TEST_0053,180,simple,deadline,civil_law,0,0.2,0.38685280723454163,1,1,0.04624678588125292,1,59,0.0,0.0,1.0,1.0,Hybrid only top-10
+TEST_0046,181,simple,deadline,civil_law,0,0.0,0.0,0,0,0.030834914611005692,7,13,0.0,0.0,0.0,0.0,Hybrid only top-10
+TEST_0210,0,complex,deadline,tax_law,1,1.0,1.0,1,1,0.940102219581604,788,788,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0056,1,moderate,definition,migration_law,1,1.0,1.0,1,1,0.999800980091095,32,32,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0235,2,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9964159727096558,413,413,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0227,3,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9993616938591003,273,273,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0237,4,complex,definition,civil_law,0,0.5,0.6309297535714575,1,1,0.9996004700660706,540,538,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0057,5,moderate,definition,migration_law,0,0.3333333333333333,0.5,1,1,0.9990655779838562,8,332,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0142,6,moderate,deadline,family_law,1,1.0,1.0,1,1,0.9995731711387634,246,246,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0137,7,complex,deadline,family_law,1,1.0,1.0,1,1,0.9847145676612854,253,253,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0192,8,complex,definition,tax_law,0,0.3333333333333333,0.5,1,1,0.998630166053772,413,925,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0130,9,complex,deadline,family_law,0,0.5,0.6309297535714575,1,1,0.9994614720344543,246,245,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0163,10,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9990940093994141,1036,1036,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0176,11,moderate,definition,civil_law,1,1.0,1.0,1,1,0.9999762773513794,477,477,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0185,12,complex,definition,civil_law,1,1.0,1.0,1,1,0.9999313354492188,334,334,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0186,13,complex,definition,civil_law,1,1.0,1.0,1,1,0.9997962117195129,335,335,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0082,14,complex,definition,tax_law,1,1.0,1.0,1,1,0.9998584985733032,644,644,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0224,15,complex,deadline,civil_law,0,0.1,0.2890648263178879,1,1,0.9997425675392151,276,424,0.0,0.0,0.0,1.0,Hybrid -> reranker top-20
+TEST_0217,16,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.983311653137207,646,733,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0084,17,complex,deadline,tax_law,1,1.0,1.0,1,1,0.9999001026153564,981,981,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0199,18,complex,definition,tax_law,0,0.3333333333333333,0.5,1,1,0.9980158805847168,188,933,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0240,19,simple,deadline,civil_law,1,1.0,1.0,1,1,0.9997631907463074,1041,1041,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0202,20,complex,definition,civil_law,1,1.0,1.0,1,1,0.9999703168869019,653,653,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0101,21,simple,deadline,administrative_law,0,0.0,0.0,1,1,0.9905158281326294,34,220,0.0,0.0,0.0,0.0,Hybrid -> reranker top-20
+TEST_0118,22,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9987714886665344,360,360,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0158,23,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9998558759689331,380,380,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0100,24,simple,definition,administrative_law,1,1.0,1.0,1,1,0.9995438456535339,51,51,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0011,25,moderate,deadline,labor_law,0,0.25,0.43067655807339306,1,1,0.9973948001861572,393,238,0.0,0.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0010,26,moderate,deadline,labor_law,0,0.25,0.43067655807339306,1,1,0.9910297393798828,57,72,0.0,0.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0114,27,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9894760847091675,486,486,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0128,28,simple,definition,tax_law,1,1.0,1.0,1,1,0.9999550580978394,1023,1023,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0113,29,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9990837574005127,760,760,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0126,30,simple,deadline,tax_law,1,1.0,1.0,1,1,0.9987393021583557,786,786,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0125,31,simple,definition,tax_law,1,1.0,1.0,1,1,0.999941349029541,481,481,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0121,32,simple,deadline,tax_law,1,1.0,1.0,1,1,0.9988735318183899,962,962,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0127,33,simple,deadline,tax_law,1,1.0,1.0,1,1,0.9378640651702881,177,177,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0008,34,moderate,deadline,labor_law,1,1.0,1.0,1,1,0.4057520925998688,95,95,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0007,35,moderate,deadline,labor_law,1,1.0,1.0,1,1,0.98346346616745,115,115,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0006,36,moderate,definition,labor_law,1,1.0,1.0,1,1,0.9706798791885376,52,52,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0002,37,simple,deadline,migration_law,1,1.0,1.0,1,1,0.9994263648986816,53,53,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0015,38,simple,deadline,family_law,0,0.3333333333333333,0.5,1,1,0.9997339844703674,1,64,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0014,39,simple,definition,family_law,1,1.0,1.0,1,1,0.9988598823547363,36,36,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0013,40,simple,deadline,family_law,0,0.2,0.38685280723454163,1,1,0.9900658130645752,158,308,0.0,0.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0012,41,moderate,deadline,labor_law,0,0.3333333333333333,0.5,1,1,0.9989733695983887,71,86,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0032,42,moderate,deadline,other,0,0.5,0.6309297535714575,1,1,0.9981045722961426,98,849,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0009,43,moderate,deadline,labor_law,1,1.0,1.0,1,1,0.992170512676239,80,80,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0023,44,simple,deadline,other,0,0.14285714285714285,0.3333333333333333,1,1,0.9987562894821167,45,78,0.0,0.0,0.0,1.0,Hybrid -> reranker top-20
+TEST_0022,45,simple,deadline,other,1,1.0,1.0,1,1,0.9963388442993164,34,34,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0021,46,simple,deadline,family_law,0,0.14285714285714285,0.3333333333333333,1,1,0.987528920173645,123,74,0.0,0.0,0.0,1.0,Hybrid -> reranker top-20
+TEST_0020,47,simple,deadline,family_law,1,1.0,1.0,1,1,0.9992638230323792,55,55,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0018,48,simple,deadline,family_law,1,1.0,1.0,1,1,0.9935925602912903,44,44,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0017,49,simple,deadline,family_law,0,0.0,0.0,0,0,0.9967082738876343,154,463,0.0,0.0,0.0,0.0,Hybrid -> reranker top-20
+TEST_0028,50,simple,deadline,other,0,0.0,0.0,0,0,0.8974948525428772,97,441,0.0,0.0,0.0,0.0,Hybrid -> reranker top-20
+TEST_0031,51,moderate,deadline,other,1,1.0,1.0,1,1,0.9930433034896851,75,75,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0030,52,moderate,deadline,other,0,0.14285714285714285,0.3333333333333333,1,1,0.9987426400184631,41,507,0.0,0.0,0.0,1.0,Hybrid -> reranker top-20
+TEST_0029,53,moderate,definition,other,1,1.0,1.0,1,1,0.9994065761566162,373,373,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0026,54,simple,deadline,other,0,0.5,0.6309297535714575,1,1,0.9970223307609558,41,103,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0027,55,simple,deadline,other,1,1.0,1.0,1,1,0.9988192915916443,94,94,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0025,56,simple,deadline,other,1,1.0,1.0,1,1,0.9968922734260559,82,82,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0129,57,complex,deadline,family_law,0,0.3333333333333333,0.5,1,1,0.9943360686302185,17,108,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0143,58,moderate,deadline,family_law,1,1.0,1.0,1,1,0.9996594190597534,590,590,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0141,59,moderate,deadline,family_law,1,1.0,1.0,1,1,0.9985692501068115,298,298,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0140,60,moderate,deadline,family_law,0,0.0,0.0,0,0,0.9628449082374573,13,328,0.0,0.0,0.0,0.0,Hybrid -> reranker top-20
+TEST_0139,61,moderate,deadline,family_law,0,0.5,0.6309297535714575,1,1,0.9586285948753357,1,63,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0152,62,complex,definition,civil_law,1,1.0,1.0,1,1,0.9969539642333984,963,963,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0151,63,complex,deadline,civil_law,0,0.1,0.2890648263178879,1,1,0.9961715340614319,428,386,0.0,0.0,0.0,1.0,Hybrid -> reranker top-20
+TEST_0149,64,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9992934465408325,70,560,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0148,65,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9998341798782349,986,986,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0146,66,moderate,deadline,family_law,0,0.0,0.0,0,0,0.950164794921875,14,471,0.0,0.0,0.0,0.0,Hybrid -> reranker top-20
+TEST_0145,67,moderate,deadline,family_law,0,0.5,0.6309297535714575,1,1,0.9996015429496765,60,620,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0160,68,simple,deadline,civil_law,1,1.0,1.0,1,1,0.9999409914016724,353,353,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0157,69,complex,definition,social_law,1,1.0,1.0,1,1,0.9984155893325806,1044,1044,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0156,70,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9980674386024475,999,999,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0155,71,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9976263642311096,994,994,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0154,72,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9959288239479065,277,290,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0153,73,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9551176428794861,93,93,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0104,74,moderate,definition,tax_law,1,1.0,1.0,1,1,0.9987949132919312,710,710,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0103,75,moderate,deadline,tax_law,0,0.2,0.38685280723454163,1,1,0.992332935333252,6,24,0.0,0.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0102,76,moderate,definition,tax_law,0,0.0,0.0,0,0,0.07899593561887741,2,766,0.0,0.0,0.0,0.0,Hybrid -> reranker top-20
+TEST_0099,77,simple,deadline,administrative_law,0,0.0,0.0,1,0,0.9936277866363525,147,225,0.0,0.0,0.0,0.0,Hybrid -> reranker top-20
+TEST_0098,78,simple,deadline,administrative_law,1,1.0,1.0,1,1,0.9992331266403198,57,57,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0112,79,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9999170303344727,270,270,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0111,80,moderate,definition,civil_law,1,1.0,1.0,1,1,0.9960493445396423,126,126,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0110,81,moderate,definition,tax_law,1,1.0,1.0,1,1,0.9999758005142212,357,357,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0109,82,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.9990365505218506,1002,1002,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0108,83,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.9996340274810791,639,639,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0107,84,moderate,fact_lookup,tax_law,0,0.14285714285714285,0.3333333333333333,1,1,0.9858658313751221,763,753,0.0,0.0,0.0,1.0,Hybrid -> reranker top-20
+TEST_0106,85,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.9993589520454407,683,683,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0105,86,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.9995558857917786,768,768,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0119,87,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9994914531707764,537,537,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0116,88,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9972327351570129,109,109,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0115,89,moderate,deadline,civil_law,0,0.14285714285714285,0.3333333333333333,1,1,0.9994577765464783,672,671,0.0,0.0,0.0,1.0,Hybrid -> reranker top-20
+TEST_0184,90,complex,deadline,tax_law,0,0.0,0.0,1,1,0.9975736737251282,707,954,0.0,0.0,0.0,0.0,Hybrid -> reranker top-20
+TEST_0131,91,complex,deadline,family_law,1,1.0,1.0,1,1,0.9994291663169861,306,306,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0132,92,complex,deadline,family_law,0,0.5,0.6309297535714575,1,1,0.9998195767402649,803,846,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0133,93,complex,deadline,family_law,1,1.0,1.0,1,1,0.9997598528862,845,845,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0135,94,complex,deadline,family_law,1,1.0,1.0,1,1,0.9995482563972473,364,364,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0136,95,complex,definition,family_law,1,1.0,1.0,1,1,0.9999793767929077,478,478,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0188,96,moderate,deadline,other,1,1.0,1.0,1,1,0.9984560012817383,873,873,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0189,97,complex,deadline,tax_law,1,1.0,1.0,1,1,0.999976634979248,857,857,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0190,98,complex,definition,civil_law,1,1.0,1.0,1,1,0.9995890259742737,1003,1003,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0191,99,moderate,deadline,tax_law,0,0.5,0.6309297535714575,1,1,0.9914436936378479,713,950,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0177,100,complex,deadline,tax_law,1,1.0,1.0,1,1,0.997467041015625,713,713,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0178,101,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9999290704727173,255,255,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0180,102,complex,deadline,tax_law,0,0.5,0.6309297535714575,1,1,0.9999054670333862,3,799,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0181,103,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9953005313873291,511,511,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0182,104,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.969150960445404,125,104,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0183,105,moderate,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9943360686302185,17,79,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0162,106,complex,definition,tax_law,0,0.2,0.38685280723454163,1,1,0.8774120807647705,27,720,0.0,0.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0169,107,moderate,definition,civil_law,1,1.0,1.0,1,1,0.999534010887146,359,359,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0170,108,moderate,deadline,other,0,0.5,0.6309297535714575,1,1,0.9989694356918335,112,621,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0171,109,moderate,definition,tax_law,1,1.0,1.0,1,1,0.9999059438705444,1050,1050,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0172,110,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9782472252845764,395,395,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0173,111,complex,definition,tax_law,1,1.0,1.0,1,1,0.9994799494743347,974,974,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0174,112,simple,definition,tax_law,1,1.0,1.0,1,1,0.9983645081520081,618,618,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0161,113,simple,fact_lookup,civil_law,1,1.0,1.0,1,1,0.9986181259155273,429,429,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0167,114,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9959074258804321,583,583,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0164,115,moderate,deadline,family_law,0,0.5,0.6309297535714575,1,1,0.9976758360862732,298,321,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0165,116,simple,deadline,civil_law,1,1.0,1.0,1,1,0.9975276589393616,432,432,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0166,117,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9996200799942017,3,609,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0094,118,simple,deadline,labor_law,1,1.0,1.0,1,1,0.9978190660476685,87,87,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0093,119,simple,deadline,labor_law,0,0.5,0.6309297535714575,1,1,0.9706637263298035,92,99,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0095,120,simple,deadline,labor_law,1,1.0,1.0,1,1,0.9993707537651062,73,73,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0193,121,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9996618032455444,56,56,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0208,122,moderate,fact_lookup,civil_law,0,0.5,0.6309297535714575,1,1,0.9857709407806396,901,900,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0206,123,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9941678047180176,556,556,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0205,124,complex,definition,tax_law,0,0.5,0.6309297535714575,1,1,0.9992115497589111,618,1033,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0204,125,complex,deadline,tax_law,1,1.0,1.0,1,1,0.9986340403556824,712,712,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0203,126,simple,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9957220554351807,374,337,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0201,127,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.9991989731788635,252,252,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0216,128,moderate,deadline,tax_law,0,0.5,0.6309297535714575,1,1,0.999836802482605,723,774,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0214,129,complex,definition,tax_law,0,0.0,0.0,1,1,0.9624464511871338,483,830,0.0,0.0,0.0,0.0,Hybrid -> reranker top-20
+TEST_0213,130,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9935592412948608,584,584,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0212,131,complex,definition,civil_law,0,0.25,0.43067655807339306,1,1,0.9996659755706787,669,755,0.0,0.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0211,132,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9884252548217773,11,889,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0209,133,simple,definition,civil_law,0,0.5,0.6309297535714575,1,1,0.9997864365577698,572,571,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0223,134,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9999406337738037,287,287,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0222,135,complex,deadline,tax_law,0,0.5,0.6309297535714575,1,1,0.9983137845993042,585,1001,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0220,136,simple,definition,civil_law,0,0.0,0.0,1,1,0.9999207258224487,112,232,0.0,0.0,0.0,0.0,Hybrid -> reranker top-20
+TEST_0219,137,complex,definition,civil_law,1,1.0,1.0,1,1,0.9982859492301941,829,829,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0218,138,complex,definition,tax_law,0,0.5,0.6309297535714575,1,1,0.9995973706245422,344,882,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0072,139,complex,deadline,other,0,0.0,0.0,0,0,0.9944855570793152,14,625,0.0,0.0,0.0,0.0,Hybrid -> reranker top-20
+TEST_0071,140,complex,definition,other,1,1.0,1.0,1,1,0.9986982345581055,460,460,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0070,141,complex,deadline,other,1,1.0,1.0,1,1,0.9999200105667114,839,839,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0069,142,complex,deadline,other,0,0.3333333333333333,0.5,1,1,0.9987332224845886,80,615,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0080,143,complex,deadline,tax_law,0,0.3333333333333333,0.5,1,1,0.9969684481620789,3,931,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0079,144,complex,deadline,migration_law,0,0.3333333333333333,0.5,1,1,0.9967706203460693,794,832,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0078,145,complex,deadline,migration_law,0,0.5,0.6309297535714575,1,1,0.9991440773010254,931,847,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0077,146,complex,deadline,migration_law,0,0.5,0.6309297535714575,1,1,0.9957054257392883,11,597,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0076,147,complex,deadline,migration_law,0,0.0,0.0,1,1,0.9747070670127869,77,850,0.0,0.0,0.0,0.0,Hybrid -> reranker top-20
+TEST_0075,148,complex,deadline,migration_law,1,1.0,1.0,1,1,0.9999581575393677,365,365,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0074,149,complex,deadline,migration_law,0,0.5,0.6309297535714575,1,1,0.9964796900749207,53,42,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0073,150,moderate,deadline,administrative_law,1,1.0,1.0,1,1,0.9999709129333496,896,896,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0088,151,complex,definition,tax_law,0,0.0,0.0,1,1,0.9961298704147339,482,1046,0.0,0.0,0.0,0.0,Hybrid -> reranker top-20
+TEST_0083,152,complex,definition,tax_law,1,1.0,1.0,1,1,0.9994695782661438,707,707,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0081,153,complex,deadline,tax_law,0,0.3333333333333333,0.5,1,1,0.9909465312957764,21,926,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0034,154,moderate,deadline,other,1,1.0,1.0,1,1,0.999390721321106,436,436,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0194,155,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9990934133529663,505,505,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0195,156,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9993051290512085,724,724,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0197,157,moderate,definition,civil_law,0,0.5,0.6309297535714575,1,1,0.9985744953155518,375,315,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0200,158,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.9999419450759888,946,946,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0061,159,complex,deadline,labor_law,1,1.0,1.0,1,1,0.9992384910583496,461,461,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0232,160,moderate,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9994400143623352,27,89,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0059,161,moderate,deadline,social_law,1,1.0,1.0,1,1,0.9954612851142883,1045,1045,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0239,162,simple,deadline,civil_law,0,0.3333333333333333,0.5,1,1,0.9926437735557556,264,594,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0225,163,moderate,deadline,civil_law,0,0.2,0.38685280723454163,1,1,0.9958920478820801,67,119,0.0,0.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0228,164,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9998409748077393,885,885,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0229,165,complex,definition,civil_law,0,0.3333333333333333,0.5,1,1,0.9995490908622742,670,669,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0231,166,moderate,definition,tax_law,1,1.0,1.0,1,1,0.9992745518684387,1049,1049,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0233,167,moderate,deadline,labor_law,0,0.5,0.6309297535714575,1,1,0.9926578402519226,120,81,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0238,168,complex,definition,civil_law,0,0.5,0.6309297535714575,1,1,0.9905271530151367,337,336,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0236,169,complex,deadline,tax_law,1,1.0,1.0,1,1,0.9989101886749268,862,862,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0045,170,simple,definition,civil_law,1,1.0,1.0,1,1,0.9995236396789551,985,985,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0033,171,moderate,deadline,other,0,0.2,0.38685280723454163,1,1,0.9993724226951599,37,464,0.0,0.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0047,172,simple,deadline,civil_law,0,0.0,0.0,1,1,0.9954888224601746,219,543,0.0,0.0,0.0,0.0,Hybrid -> reranker top-20
+TEST_0001,173,simple,definition,migration_law,0,0.14285714285714285,0.3333333333333333,1,1,0.9878794550895691,42,39,0.0,0.0,0.0,1.0,Hybrid -> reranker top-20
+TEST_0038,174,simple,deadline,education_law,0,0.0,0.0,0,0,0.5004245042800903,0,19,0.0,0.0,0.0,0.0,Hybrid -> reranker top-20
+TEST_0037,175,moderate,deadline,other,1,1.0,1.0,1,1,0.9995943903923035,836,836,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0036,176,moderate,deadline,other,1,1.0,1.0,1,1,0.9943842887878418,85,85,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0035,177,moderate,deadline,other,0,0.0,0.0,0,0,0.9961523413658142,154,473,0.0,0.0,0.0,0.0,Hybrid -> reranker top-20
+TEST_0050,178,simple,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9954985976219177,553,1007,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0054,179,moderate,deadline,health_law,0,0.5,0.6309297535714575,1,1,0.966040849685669,4,125,0.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0053,180,simple,deadline,civil_law,1,1.0,1.0,1,1,0.9952113032341003,59,59,1.0,1.0,1.0,1.0,Hybrid -> reranker top-20
+TEST_0046,181,simple,deadline,civil_law,0,0.16666666666666666,0.3562071871080222,1,1,0.8155706524848938,34,13,0.0,0.0,0.0,1.0,Hybrid -> reranker top-20
+TEST_0210,0,complex,deadline,tax_law,1,1.0,1.0,1,1,0.940102219581604,788,788,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0056,1,moderate,definition,migration_law,1,1.0,1.0,1,1,0.999800980091095,32,32,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0235,2,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9964159727096558,413,413,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0227,3,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9993616938591003,273,273,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0237,4,complex,definition,civil_law,0,0.5,0.6309297535714575,1,1,0.9996004700660706,540,538,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0057,5,moderate,definition,migration_law,0,0.25,0.43067655807339306,1,1,0.9992201328277588,393,332,0.0,0.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0142,6,moderate,deadline,family_law,1,1.0,1.0,1,1,0.9995731711387634,246,246,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0137,7,complex,deadline,family_law,1,1.0,1.0,1,1,0.9847145676612854,253,253,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0192,8,complex,definition,tax_law,0,0.3333333333333333,0.5,1,1,0.998630166053772,413,925,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0130,9,complex,deadline,family_law,0,0.5,0.6309297535714575,1,1,0.9994614720344543,246,245,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0163,10,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9990940093994141,1036,1036,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0176,11,moderate,definition,civil_law,1,1.0,1.0,1,1,0.9999762773513794,477,477,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0185,12,complex,definition,civil_law,1,1.0,1.0,1,1,0.9999313354492188,334,334,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0186,13,complex,definition,civil_law,1,1.0,1.0,1,1,0.9997962117195129,335,335,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0082,14,complex,definition,tax_law,1,1.0,1.0,1,1,0.9998584985733032,644,644,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0224,15,complex,deadline,civil_law,0,0.0,0.0,1,1,0.9997425675392151,276,424,0.0,0.0,0.0,0.0,Hybrid -> reranker top-50
+TEST_0217,16,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.983311653137207,646,733,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0084,17,complex,deadline,tax_law,1,1.0,1.0,1,1,0.9999001026153564,981,981,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0199,18,complex,definition,tax_law,0,0.3333333333333333,0.5,1,1,0.9980158805847168,188,933,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0240,19,simple,deadline,civil_law,1,1.0,1.0,1,1,0.9997631907463074,1041,1041,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0202,20,complex,definition,civil_law,1,1.0,1.0,1,1,0.9999703168869019,653,653,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0101,21,simple,deadline,administrative_law,0,0.0,0.0,1,1,0.9905158281326294,34,220,0.0,0.0,0.0,0.0,Hybrid -> reranker top-50
+TEST_0118,22,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9987714886665344,360,360,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0158,23,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9998558759689331,380,380,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0100,24,simple,definition,administrative_law,1,1.0,1.0,1,1,0.9995438456535339,51,51,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0011,25,moderate,deadline,labor_law,0,0.25,0.43067655807339306,1,1,0.9973948001861572,393,238,0.0,0.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0010,26,moderate,deadline,labor_law,0,0.25,0.43067655807339306,1,1,0.9910297393798828,57,72,0.0,0.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0114,27,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9894760847091675,486,486,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0128,28,simple,definition,tax_law,1,1.0,1.0,1,1,0.9999550580978394,1023,1023,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0113,29,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9990837574005127,760,760,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0126,30,simple,deadline,tax_law,1,1.0,1.0,1,1,0.9987393021583557,786,786,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0125,31,simple,definition,tax_law,1,1.0,1.0,1,1,0.999941349029541,481,481,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0121,32,simple,deadline,tax_law,1,1.0,1.0,1,1,0.9988735318183899,962,962,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0127,33,simple,deadline,tax_law,1,1.0,1.0,1,1,0.9378640651702881,177,177,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0008,34,moderate,deadline,labor_law,1,1.0,1.0,1,1,0.4057520925998688,95,95,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0007,35,moderate,deadline,labor_law,1,1.0,1.0,1,1,0.98346346616745,115,115,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0006,36,moderate,definition,labor_law,1,1.0,1.0,1,1,0.9706798791885376,52,52,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0002,37,simple,deadline,migration_law,1,1.0,1.0,1,1,0.9994263648986816,53,53,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0015,38,simple,deadline,family_law,0,0.3333333333333333,0.5,1,1,0.9997339844703674,1,64,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0014,39,simple,definition,family_law,1,1.0,1.0,1,1,0.9988598823547363,36,36,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0013,40,simple,deadline,family_law,0,0.16666666666666666,0.3562071871080222,1,1,0.9900658130645752,158,308,0.0,0.0,0.0,1.0,Hybrid -> reranker top-50
+TEST_0012,41,moderate,deadline,labor_law,0,0.3333333333333333,0.5,1,1,0.9989733695983887,71,86,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0032,42,moderate,deadline,other,0,0.5,0.6309297535714575,1,1,0.9981045722961426,98,849,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0009,43,moderate,deadline,labor_law,1,1.0,1.0,1,1,0.992170512676239,80,80,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0023,44,simple,deadline,other,0,0.14285714285714285,0.3333333333333333,1,1,0.9987562894821167,45,78,0.0,0.0,0.0,1.0,Hybrid -> reranker top-50
+TEST_0022,45,simple,deadline,other,1,1.0,1.0,1,1,0.9963388442993164,34,34,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0021,46,simple,deadline,family_law,0,0.14285714285714285,0.3333333333333333,1,1,0.987528920173645,123,74,0.0,0.0,0.0,1.0,Hybrid -> reranker top-50
+TEST_0020,47,simple,deadline,family_law,1,1.0,1.0,1,1,0.9992638230323792,55,55,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0018,48,simple,deadline,family_law,1,1.0,1.0,1,1,0.9935925602912903,44,44,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0017,49,simple,deadline,family_law,0,0.0,0.0,0,0,0.9974877834320068,64,463,0.0,0.0,0.0,0.0,Hybrid -> reranker top-50
+TEST_0028,50,simple,deadline,other,0,0.0,0.0,0,0,0.8974948525428772,97,441,0.0,0.0,0.0,0.0,Hybrid -> reranker top-50
+TEST_0031,51,moderate,deadline,other,1,1.0,1.0,1,1,0.9930433034896851,75,75,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0030,52,moderate,deadline,other,0,0.125,0.31546487678572877,1,1,0.9987426400184631,41,507,0.0,0.0,0.0,1.0,Hybrid -> reranker top-50
+TEST_0029,53,moderate,definition,other,1,1.0,1.0,1,1,0.9994065761566162,373,373,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0026,54,simple,deadline,other,0,0.5,0.6309297535714575,1,1,0.9970223307609558,41,103,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0027,55,simple,deadline,other,1,1.0,1.0,1,1,0.9988192915916443,94,94,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0025,56,simple,deadline,other,1,1.0,1.0,1,1,0.9968922734260559,82,82,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0129,57,complex,deadline,family_law,0,0.3333333333333333,0.5,1,1,0.9943360686302185,17,108,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0143,58,moderate,deadline,family_law,1,1.0,1.0,1,1,0.9996594190597534,590,590,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0141,59,moderate,deadline,family_law,1,1.0,1.0,1,1,0.9985692501068115,298,298,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0140,60,moderate,deadline,family_law,0,0.0,0.0,1,1,0.9628449082374573,13,328,0.0,0.0,0.0,0.0,Hybrid -> reranker top-50
+TEST_0139,61,moderate,deadline,family_law,0,0.5,0.6309297535714575,1,1,0.9586285948753357,1,63,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0152,62,complex,definition,civil_law,1,1.0,1.0,1,1,0.9969539642333984,963,963,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0151,63,complex,deadline,civil_law,0,0.0,0.0,0,0,0.9961715340614319,428,386,0.0,0.0,0.0,0.0,Hybrid -> reranker top-50
+TEST_0149,64,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9992934465408325,70,560,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0148,65,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9998341798782349,986,986,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0146,66,moderate,deadline,family_law,0,0.0,0.0,0,0,0.8908572793006897,747,471,0.0,0.0,0.0,0.0,Hybrid -> reranker top-50
+TEST_0145,67,moderate,deadline,family_law,0,0.5,0.6309297535714575,1,1,0.9996015429496765,60,620,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0160,68,simple,deadline,civil_law,1,1.0,1.0,1,1,0.9999409914016724,353,353,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0157,69,complex,definition,social_law,1,1.0,1.0,1,1,0.9984155893325806,1044,1044,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0156,70,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9980674386024475,999,999,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0155,71,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9976263642311096,994,994,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0154,72,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9959288239479065,277,290,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0153,73,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9551176428794861,93,93,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0104,74,moderate,definition,tax_law,1,1.0,1.0,1,1,0.9987949132919312,710,710,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0103,75,moderate,deadline,tax_law,0,0.14285714285714285,0.3333333333333333,1,1,0.992332935333252,6,24,0.0,0.0,0.0,1.0,Hybrid -> reranker top-50
+TEST_0102,76,moderate,definition,tax_law,0,0.5,0.6309297535714575,1,1,0.8355305194854736,243,766,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0099,77,simple,deadline,administrative_law,0,0.0,0.0,1,0,0.9936277866363525,147,225,0.0,0.0,0.0,0.0,Hybrid -> reranker top-50
+TEST_0098,78,simple,deadline,administrative_law,1,1.0,1.0,1,1,0.9992331266403198,57,57,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0112,79,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9999170303344727,270,270,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0111,80,moderate,definition,civil_law,1,1.0,1.0,1,1,0.9960493445396423,126,126,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0110,81,moderate,definition,tax_law,1,1.0,1.0,1,1,0.9999758005142212,357,357,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0109,82,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.9990365505218506,1002,1002,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0108,83,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.9996340274810791,639,639,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0107,84,moderate,fact_lookup,tax_law,0,0.0,0.0,1,1,0.9858658313751221,763,753,0.0,0.0,0.0,0.0,Hybrid -> reranker top-50
+TEST_0106,85,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.9993589520454407,683,683,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0105,86,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.9995558857917786,768,768,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0119,87,moderate,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9995740056037903,108,537,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0116,88,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9972327351570129,109,109,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0115,89,moderate,deadline,civil_law,0,0.14285714285714285,0.3333333333333333,1,1,0.9994577765464783,672,671,0.0,0.0,0.0,1.0,Hybrid -> reranker top-50
+TEST_0184,90,complex,deadline,tax_law,0,0.5,0.6309297535714575,1,1,0.9975736737251282,707,954,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0131,91,complex,deadline,family_law,1,1.0,1.0,1,1,0.9994291663169861,306,306,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0132,92,complex,deadline,family_law,0,0.5,0.6309297535714575,1,1,0.9998195767402649,803,846,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0133,93,complex,deadline,family_law,1,1.0,1.0,1,1,0.9997598528862,845,845,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0135,94,complex,deadline,family_law,1,1.0,1.0,1,1,0.9995482563972473,364,364,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0136,95,complex,definition,family_law,1,1.0,1.0,1,1,0.9999793767929077,478,478,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0188,96,moderate,deadline,other,1,1.0,1.0,1,1,0.9984560012817383,873,873,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0189,97,complex,deadline,tax_law,1,1.0,1.0,1,1,0.999976634979248,857,857,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0190,98,complex,definition,civil_law,1,1.0,1.0,1,1,0.9995890259742737,1003,1003,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0191,99,moderate,deadline,tax_law,0,0.5,0.6309297535714575,1,1,0.9914436936378479,713,950,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0177,100,complex,deadline,tax_law,1,1.0,1.0,1,1,0.997467041015625,713,713,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0178,101,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9999290704727173,255,255,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0180,102,complex,deadline,tax_law,0,0.5,0.6309297535714575,1,1,0.9999054670333862,3,799,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0181,103,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9953005313873291,511,511,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0182,104,complex,deadline,civil_law,0,0.3333333333333333,0.5,1,1,0.969150960445404,125,104,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0183,105,moderate,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9943360686302185,17,79,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0162,106,complex,definition,tax_law,0,0.16666666666666666,0.3562071871080222,1,1,0.8774120807647705,27,720,0.0,0.0,0.0,1.0,Hybrid -> reranker top-50
+TEST_0169,107,moderate,definition,civil_law,1,1.0,1.0,1,1,0.999534010887146,359,359,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0170,108,moderate,deadline,other,0,0.3333333333333333,0.5,1,1,0.9989694356918335,112,621,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0171,109,moderate,definition,tax_law,1,1.0,1.0,1,1,0.9999059438705444,1050,1050,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0172,110,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9782472252845764,395,395,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0173,111,complex,definition,tax_law,1,1.0,1.0,1,1,0.9994799494743347,974,974,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0174,112,simple,definition,tax_law,1,1.0,1.0,1,1,0.9983645081520081,618,618,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0161,113,simple,fact_lookup,civil_law,1,1.0,1.0,1,1,0.9986181259155273,429,429,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0167,114,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9959074258804321,583,583,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0164,115,moderate,deadline,family_law,0,0.5,0.6309297535714575,1,1,0.9976758360862732,298,321,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0165,116,simple,deadline,civil_law,1,1.0,1.0,1,1,0.9975276589393616,432,432,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0166,117,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9996200799942017,3,609,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0094,118,simple,deadline,labor_law,1,1.0,1.0,1,1,0.9978190660476685,87,87,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0093,119,simple,deadline,labor_law,0,0.5,0.6309297535714575,1,1,0.9706637263298035,92,99,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0095,120,simple,deadline,labor_law,1,1.0,1.0,1,1,0.9993707537651062,73,73,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0193,121,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9996618032455444,56,56,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0208,122,moderate,fact_lookup,civil_law,0,0.5,0.6309297535714575,1,1,0.9857709407806396,901,900,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0206,123,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9941678047180176,556,556,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0205,124,complex,definition,tax_law,0,0.5,0.6309297535714575,1,1,0.9992115497589111,618,1033,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0204,125,complex,deadline,tax_law,1,1.0,1.0,1,1,0.9986340403556824,712,712,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0203,126,simple,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9957220554351807,374,337,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0201,127,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.9991989731788635,252,252,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0216,128,moderate,deadline,tax_law,0,0.5,0.6309297535714575,1,1,0.999836802482605,723,774,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0214,129,complex,definition,tax_law,0,0.0,0.0,1,1,0.9624464511871338,483,830,0.0,0.0,0.0,0.0,Hybrid -> reranker top-50
+TEST_0213,130,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9935592412948608,584,584,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0212,131,complex,definition,civil_law,0,0.25,0.43067655807339306,1,1,0.9996659755706787,669,755,0.0,0.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0211,132,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9884252548217773,11,889,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0209,133,simple,definition,civil_law,0,0.5,0.6309297535714575,1,1,0.9997864365577698,572,571,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0223,134,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9999406337738037,287,287,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0222,135,complex,deadline,tax_law,0,0.5,0.6309297535714575,1,1,0.9983137845993042,585,1001,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0220,136,simple,definition,civil_law,0,0.0,0.0,1,1,0.9999207258224487,112,232,0.0,0.0,0.0,0.0,Hybrid -> reranker top-50
+TEST_0219,137,complex,definition,civil_law,1,1.0,1.0,1,1,0.9982859492301941,829,829,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0218,138,complex,definition,tax_law,0,0.5,0.6309297535714575,1,1,0.9995973706245422,344,882,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0072,139,complex,deadline,other,0,0.0,0.0,1,1,0.9944855570793152,14,625,0.0,0.0,0.0,0.0,Hybrid -> reranker top-50
+TEST_0071,140,complex,definition,other,1,1.0,1.0,1,1,0.9986982345581055,460,460,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0070,141,complex,deadline,other,1,1.0,1.0,1,1,0.9999200105667114,839,839,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0069,142,complex,deadline,other,0,0.3333333333333333,0.5,1,1,0.9987332224845886,80,615,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0080,143,complex,deadline,tax_law,0,0.3333333333333333,0.5,1,1,0.9969684481620789,3,931,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0079,144,complex,deadline,migration_law,0,0.3333333333333333,0.5,1,1,0.9967706203460693,794,832,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0078,145,complex,deadline,migration_law,0,0.5,0.6309297535714575,1,1,0.9991440773010254,931,847,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0077,146,complex,deadline,migration_law,0,0.5,0.6309297535714575,1,1,0.9957054257392883,11,597,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0076,147,complex,deadline,migration_law,0,0.0,0.0,1,1,0.9747070670127869,77,850,0.0,0.0,0.0,0.0,Hybrid -> reranker top-50
+TEST_0075,148,complex,deadline,migration_law,1,1.0,1.0,1,1,0.9999581575393677,365,365,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0074,149,complex,deadline,migration_law,0,0.5,0.6309297535714575,1,1,0.9964796900749207,53,42,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0073,150,moderate,deadline,administrative_law,1,1.0,1.0,1,1,0.9999709129333496,896,896,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0088,151,complex,definition,tax_law,0,0.0,0.0,1,1,0.9961298704147339,482,1046,0.0,0.0,0.0,0.0,Hybrid -> reranker top-50
+TEST_0083,152,complex,definition,tax_law,1,1.0,1.0,1,1,0.9994695782661438,707,707,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0081,153,complex,deadline,tax_law,0,0.3333333333333333,0.5,1,1,0.9909465312957764,21,926,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0034,154,moderate,deadline,other,1,1.0,1.0,1,1,0.999390721321106,436,436,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0194,155,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9990934133529663,505,505,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0195,156,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9993051290512085,724,724,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0197,157,moderate,definition,civil_law,0,0.5,0.6309297535714575,1,1,0.9985744953155518,375,315,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0200,158,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.9999419450759888,946,946,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0061,159,complex,deadline,labor_law,1,1.0,1.0,1,1,0.9992384910583496,461,461,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0232,160,moderate,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9994400143623352,27,89,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0059,161,moderate,deadline,social_law,1,1.0,1.0,1,1,0.9954612851142883,1045,1045,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0239,162,simple,deadline,civil_law,0,0.3333333333333333,0.5,1,1,0.9926437735557556,264,594,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0225,163,moderate,deadline,civil_law,0,0.16666666666666666,0.3562071871080222,1,1,0.9958920478820801,67,119,0.0,0.0,0.0,1.0,Hybrid -> reranker top-50
+TEST_0228,164,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9998409748077393,885,885,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0229,165,complex,definition,civil_law,0,0.3333333333333333,0.5,1,1,0.9995490908622742,670,669,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0231,166,moderate,definition,tax_law,1,1.0,1.0,1,1,0.9992745518684387,1049,1049,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0233,167,moderate,deadline,labor_law,0,0.5,0.6309297535714575,1,1,0.9926578402519226,120,81,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0238,168,complex,definition,civil_law,0,0.5,0.6309297535714575,1,1,0.9905271530151367,337,336,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0236,169,complex,deadline,tax_law,1,1.0,1.0,1,1,0.9989101886749268,862,862,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0045,170,simple,definition,civil_law,1,1.0,1.0,1,1,0.9995236396789551,985,985,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0033,171,moderate,deadline,other,0,0.2,0.38685280723454163,1,1,0.9993724226951599,37,464,0.0,0.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0047,172,simple,deadline,civil_law,0,0.0,0.0,1,1,0.9954888224601746,219,543,0.0,0.0,0.0,0.0,Hybrid -> reranker top-50
+TEST_0001,173,simple,definition,migration_law,0,0.1111111111111111,0.3010299956639812,1,1,0.9878794550895691,42,39,0.0,0.0,0.0,1.0,Hybrid -> reranker top-50
+TEST_0038,174,simple,deadline,education_law,0,0.0,0.0,0,0,0.5814316272735596,428,19,0.0,0.0,0.0,0.0,Hybrid -> reranker top-50
+TEST_0037,175,moderate,deadline,other,1,1.0,1.0,1,1,0.9995943903923035,836,836,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0036,176,moderate,deadline,other,1,1.0,1.0,1,1,0.9943842887878418,85,85,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0035,177,moderate,deadline,other,0,0.0,0.0,1,1,0.9966058731079102,20,473,0.0,0.0,0.0,0.0,Hybrid -> reranker top-50
+TEST_0050,178,simple,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9954985976219177,553,1007,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0054,179,moderate,deadline,health_law,0,0.3333333333333333,0.5,1,1,0.9765731692314148,119,125,0.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0053,180,simple,deadline,civil_law,1,1.0,1.0,1,1,0.9952113032341003,59,59,1.0,1.0,1.0,1.0,Hybrid -> reranker top-50
+TEST_0046,181,simple,deadline,civil_law,0,0.14285714285714285,0.3333333333333333,1,1,0.8155706524848938,34,13,0.0,0.0,0.0,1.0,Hybrid -> reranker top-50
+TEST_0210,0,complex,deadline,tax_law,1,1.0,1.0,1,1,0.940102219581604,788,788,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0056,1,moderate,definition,migration_law,1,1.0,1.0,1,1,0.999800980091095,32,32,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0235,2,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9964159727096558,413,413,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0227,3,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9993616938591003,273,273,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0237,4,complex,definition,civil_law,0,0.5,0.6309297535714575,1,1,0.9996004700660706,540,538,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0057,5,moderate,definition,migration_law,0,0.25,0.43067655807339306,1,1,0.9992201328277588,393,332,0.0,0.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0142,6,moderate,deadline,family_law,1,1.0,1.0,1,1,0.9995731711387634,246,246,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0137,7,complex,deadline,family_law,1,1.0,1.0,1,1,0.9847145676612854,253,253,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0192,8,complex,definition,tax_law,0,0.3333333333333333,0.5,1,1,0.998630166053772,413,925,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0130,9,complex,deadline,family_law,0,0.5,0.6309297535714575,1,1,0.9994614720344543,246,245,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0163,10,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9990940093994141,1036,1036,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0176,11,moderate,definition,civil_law,1,1.0,1.0,1,1,0.9999762773513794,477,477,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0185,12,complex,definition,civil_law,1,1.0,1.0,1,1,0.9999313354492188,334,334,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0186,13,complex,definition,civil_law,1,1.0,1.0,1,1,0.9997962117195129,335,335,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0082,14,complex,definition,tax_law,1,1.0,1.0,1,1,0.9998584985733032,644,644,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0224,15,complex,deadline,civil_law,0,0.0,0.0,1,1,0.9997425675392151,276,424,0.0,0.0,0.0,0.0,Hybrid -> reranker top-100
+TEST_0217,16,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.983311653137207,646,733,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0084,17,complex,deadline,tax_law,1,1.0,1.0,1,1,0.9999001026153564,981,981,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0199,18,complex,definition,tax_law,0,0.3333333333333333,0.5,1,1,0.9980158805847168,188,933,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0240,19,simple,deadline,civil_law,1,1.0,1.0,1,1,0.9997631907463074,1041,1041,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0202,20,complex,definition,civil_law,1,1.0,1.0,1,1,0.9999703168869019,653,653,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0101,21,simple,deadline,administrative_law,0,0.0,0.0,1,1,0.9905158281326294,34,220,0.0,0.0,0.0,0.0,Hybrid -> reranker top-100
+TEST_0118,22,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9987714886665344,360,360,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0158,23,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9998558759689331,380,380,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0100,24,simple,definition,administrative_law,1,1.0,1.0,1,1,0.9995438456535339,51,51,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0011,25,moderate,deadline,labor_law,0,0.25,0.43067655807339306,1,1,0.9973948001861572,393,238,0.0,0.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0010,26,moderate,deadline,labor_law,0,0.25,0.43067655807339306,1,1,0.9910297393798828,57,72,0.0,0.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0114,27,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9894760847091675,486,486,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0128,28,simple,definition,tax_law,1,1.0,1.0,1,1,0.9999550580978394,1023,1023,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0113,29,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9990837574005127,760,760,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0126,30,simple,deadline,tax_law,1,1.0,1.0,1,1,0.9987393021583557,786,786,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0125,31,simple,definition,tax_law,1,1.0,1.0,1,1,0.999941349029541,481,481,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0121,32,simple,deadline,tax_law,1,1.0,1.0,1,1,0.9988735318183899,962,962,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0127,33,simple,deadline,tax_law,1,1.0,1.0,1,1,0.9378640651702881,177,177,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0008,34,moderate,deadline,labor_law,1,1.0,1.0,1,1,0.4057520925998688,95,95,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0007,35,moderate,deadline,labor_law,1,1.0,1.0,1,1,0.98346346616745,115,115,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0006,36,moderate,definition,labor_law,1,1.0,1.0,1,1,0.9706798791885376,52,52,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0002,37,simple,deadline,migration_law,1,1.0,1.0,1,1,0.9994263648986816,53,53,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0015,38,simple,deadline,family_law,0,0.3333333333333333,0.5,1,1,0.9997339844703674,1,64,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0014,39,simple,definition,family_law,1,1.0,1.0,1,1,0.9988598823547363,36,36,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0013,40,simple,deadline,family_law,0,0.16666666666666666,0.3562071871080222,1,1,0.9900658130645752,158,308,0.0,0.0,0.0,1.0,Hybrid -> reranker top-100
+TEST_0012,41,moderate,deadline,labor_law,0,0.3333333333333333,0.5,1,1,0.9989733695983887,71,86,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0032,42,moderate,deadline,other,0,0.3333333333333333,0.5,1,1,0.9991787075996399,848,849,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0009,43,moderate,deadline,labor_law,1,1.0,1.0,1,1,0.992170512676239,80,80,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0023,44,simple,deadline,other,0,0.14285714285714285,0.3333333333333333,1,1,0.9987562894821167,107,78,0.0,0.0,0.0,1.0,Hybrid -> reranker top-100
+TEST_0022,45,simple,deadline,other,1,1.0,1.0,1,1,0.9963388442993164,34,34,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0021,46,simple,deadline,family_law,0,0.14285714285714285,0.3333333333333333,1,1,0.987528920173645,123,74,0.0,0.0,0.0,1.0,Hybrid -> reranker top-100
+TEST_0020,47,simple,deadline,family_law,1,1.0,1.0,1,1,0.9992638230323792,55,55,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0018,48,simple,deadline,family_law,1,1.0,1.0,1,1,0.9935925602912903,44,44,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0017,49,simple,deadline,family_law,0,0.0,0.0,1,1,0.9982183575630188,7,463,0.0,0.0,0.0,0.0,Hybrid -> reranker top-100
+TEST_0028,50,simple,deadline,other,0,0.0,0.0,0,0,0.8974948525428772,97,441,0.0,0.0,0.0,0.0,Hybrid -> reranker top-100
+TEST_0031,51,moderate,deadline,other,1,1.0,1.0,1,1,0.9930433034896851,75,75,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0030,52,moderate,deadline,other,0,0.1,0.2890648263178879,1,1,0.9987426400184631,41,507,0.0,0.0,0.0,1.0,Hybrid -> reranker top-100
+TEST_0029,53,moderate,definition,other,1,1.0,1.0,1,1,0.9994065761566162,373,373,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0026,54,simple,deadline,other,0,0.5,0.6309297535714575,1,1,0.9970223307609558,41,103,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0027,55,simple,deadline,other,1,1.0,1.0,1,1,0.9988192915916443,94,94,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0025,56,simple,deadline,other,1,1.0,1.0,1,1,0.9968922734260559,82,82,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0129,57,complex,deadline,family_law,0,0.3333333333333333,0.5,1,1,0.9943360686302185,17,108,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0143,58,moderate,deadline,family_law,1,1.0,1.0,1,1,0.9996594190597534,590,590,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0141,59,moderate,deadline,family_law,1,1.0,1.0,1,1,0.9985692501068115,298,298,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0140,60,moderate,deadline,family_law,0,0.0,0.0,1,1,0.9628449082374573,13,328,0.0,0.0,0.0,0.0,Hybrid -> reranker top-100
+TEST_0139,61,moderate,deadline,family_law,0,0.5,0.6309297535714575,1,1,0.9586285948753357,1,63,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0152,62,complex,definition,civil_law,1,1.0,1.0,1,1,0.9969539642333984,963,963,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0151,63,complex,deadline,civil_law,0,0.0,0.0,0,0,0.9937940835952759,512,386,0.0,0.0,0.0,0.0,Hybrid -> reranker top-100
+TEST_0149,64,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9992934465408325,70,560,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0148,65,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9998341798782349,986,986,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0146,66,moderate,deadline,family_law,0,0.0,0.0,1,1,0.9424161314964294,178,471,0.0,0.0,0.0,0.0,Hybrid -> reranker top-100
+TEST_0145,67,moderate,deadline,family_law,0,0.5,0.6309297535714575,1,1,0.9996015429496765,60,620,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0160,68,simple,deadline,civil_law,1,1.0,1.0,1,1,0.9999409914016724,353,353,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0157,69,complex,definition,social_law,1,1.0,1.0,1,1,0.9984155893325806,1044,1044,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0156,70,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9980674386024475,999,999,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0155,71,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9976263642311096,994,994,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0154,72,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9959288239479065,277,290,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0153,73,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9551176428794861,93,93,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0104,74,moderate,definition,tax_law,1,1.0,1.0,1,1,0.9987949132919312,710,710,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0103,75,moderate,deadline,tax_law,0,0.14285714285714285,0.3333333333333333,1,1,0.992332935333252,6,24,0.0,0.0,0.0,1.0,Hybrid -> reranker top-100
+TEST_0102,76,moderate,definition,tax_law,0,0.2,0.38685280723454163,1,1,0.9247003793716431,715,766,0.0,0.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0099,77,simple,deadline,administrative_law,0,0.0,0.0,1,1,0.9936277866363525,147,225,0.0,0.0,0.0,0.0,Hybrid -> reranker top-100
+TEST_0098,78,simple,deadline,administrative_law,1,1.0,1.0,1,1,0.9992331266403198,57,57,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0112,79,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9999170303344727,270,270,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0111,80,moderate,definition,civil_law,1,1.0,1.0,1,1,0.9960493445396423,126,126,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0110,81,moderate,definition,tax_law,1,1.0,1.0,1,1,0.9999758005142212,357,357,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0109,82,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.9990365505218506,1002,1002,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0108,83,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.9996340274810791,639,639,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0107,84,moderate,fact_lookup,tax_law,0,0.0,0.0,1,1,0.9858658313751221,763,753,0.0,0.0,0.0,0.0,Hybrid -> reranker top-100
+TEST_0106,85,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.9993589520454407,683,683,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0105,86,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.9995558857917786,768,768,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0119,87,moderate,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9995740056037903,108,537,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0116,88,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9972327351570129,109,109,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0115,89,moderate,deadline,civil_law,0,0.14285714285714285,0.3333333333333333,1,1,0.9994577765464783,672,671,0.0,0.0,0.0,1.0,Hybrid -> reranker top-100
+TEST_0184,90,complex,deadline,tax_law,0,0.5,0.6309297535714575,1,1,0.9975736737251282,707,954,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0131,91,complex,deadline,family_law,1,1.0,1.0,1,1,0.9994291663169861,306,306,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0132,92,complex,deadline,family_law,0,0.5,0.6309297535714575,1,1,0.9998195767402649,803,846,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0133,93,complex,deadline,family_law,1,1.0,1.0,1,1,0.9997598528862,845,845,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0135,94,complex,deadline,family_law,1,1.0,1.0,1,1,0.9995482563972473,364,364,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0136,95,complex,definition,family_law,1,1.0,1.0,1,1,0.9999793767929077,478,478,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0188,96,moderate,deadline,other,1,1.0,1.0,1,1,0.9984560012817383,873,873,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0189,97,complex,deadline,tax_law,1,1.0,1.0,1,1,0.999976634979248,857,857,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0190,98,complex,definition,civil_law,1,1.0,1.0,1,1,0.9995890259742737,1003,1003,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0191,99,moderate,deadline,tax_law,0,0.5,0.6309297535714575,1,1,0.9914436936378479,713,950,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0177,100,complex,deadline,tax_law,1,1.0,1.0,1,1,0.997467041015625,713,713,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0178,101,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9999290704727173,255,255,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0180,102,complex,deadline,tax_law,0,0.5,0.6309297535714575,1,1,0.9999054670333862,3,799,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0181,103,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9953005313873291,511,511,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0182,104,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.969150960445404,125,104,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0183,105,moderate,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9943360686302185,17,79,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0162,106,complex,definition,tax_law,0,0.1111111111111111,0.3010299956639812,1,1,0.8774120807647705,27,720,0.0,0.0,0.0,1.0,Hybrid -> reranker top-100
+TEST_0169,107,moderate,definition,civil_law,1,1.0,1.0,1,1,0.999534010887146,359,359,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0170,108,moderate,deadline,other,0,0.3333333333333333,0.5,1,1,0.9989694356918335,112,621,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0171,109,moderate,definition,tax_law,1,1.0,1.0,1,1,0.9999059438705444,1050,1050,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0172,110,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9782472252845764,395,395,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0173,111,complex,definition,tax_law,1,1.0,1.0,1,1,0.9994799494743347,974,974,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0174,112,simple,definition,tax_law,1,1.0,1.0,1,1,0.9983645081520081,618,618,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0161,113,simple,fact_lookup,civil_law,1,1.0,1.0,1,1,0.9986181259155273,429,429,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0167,114,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9959074258804321,583,583,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0164,115,moderate,deadline,family_law,0,0.5,0.6309297535714575,1,1,0.9976758360862732,298,321,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0165,116,simple,deadline,civil_law,1,1.0,1.0,1,1,0.9975276589393616,432,432,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0166,117,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9996200799942017,3,609,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0094,118,simple,deadline,labor_law,1,1.0,1.0,1,1,0.9978190660476685,87,87,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0093,119,simple,deadline,labor_law,0,0.5,0.6309297535714575,1,1,0.9706637263298035,92,99,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0095,120,simple,deadline,labor_law,1,1.0,1.0,1,1,0.9993707537651062,73,73,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0193,121,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9996618032455444,56,56,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0208,122,moderate,fact_lookup,civil_law,0,0.5,0.6309297535714575,1,1,0.9857709407806396,901,900,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0206,123,moderate,deadline,civil_law,1,1.0,1.0,1,1,0.9941678047180176,556,556,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0205,124,complex,definition,tax_law,0,0.5,0.6309297535714575,1,1,0.9992115497589111,618,1033,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0204,125,complex,deadline,tax_law,1,1.0,1.0,1,1,0.9986340403556824,712,712,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0203,126,simple,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9957220554351807,374,337,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0201,127,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.9991989731788635,252,252,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0216,128,moderate,deadline,tax_law,0,0.5,0.6309297535714575,1,1,0.999836802482605,723,774,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0214,129,complex,definition,tax_law,0,0.0,0.0,1,1,0.9624464511871338,483,830,0.0,0.0,0.0,0.0,Hybrid -> reranker top-100
+TEST_0213,130,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9935592412948608,584,584,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0212,131,complex,definition,civil_law,0,0.25,0.43067655807339306,1,1,0.9996659755706787,669,755,0.0,0.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0211,132,complex,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9884252548217773,11,889,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0209,133,simple,definition,civil_law,0,0.5,0.6309297535714575,1,1,0.9997864365577698,572,571,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0223,134,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9999406337738037,287,287,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0222,135,complex,deadline,tax_law,0,0.5,0.6309297535714575,1,1,0.9983137845993042,585,1001,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0220,136,simple,definition,civil_law,0,0.1,0.2890648263178879,1,1,0.9999207258224487,112,232,0.0,0.0,0.0,1.0,Hybrid -> reranker top-100
+TEST_0219,137,complex,definition,civil_law,1,1.0,1.0,1,1,0.9982859492301941,829,829,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0218,138,complex,definition,tax_law,0,0.5,0.6309297535714575,1,1,0.9995973706245422,344,882,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0072,139,complex,deadline,other,0,0.0,0.0,1,1,0.9944855570793152,14,625,0.0,0.0,0.0,0.0,Hybrid -> reranker top-100
+TEST_0071,140,complex,definition,other,1,1.0,1.0,1,1,0.9986982345581055,460,460,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0070,141,complex,deadline,other,1,1.0,1.0,1,1,0.9999200105667114,839,839,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0069,142,complex,deadline,other,0,0.3333333333333333,0.5,1,1,0.9987332224845886,80,615,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0080,143,complex,deadline,tax_law,0,0.3333333333333333,0.5,1,1,0.9969684481620789,3,931,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0079,144,complex,deadline,migration_law,0,0.3333333333333333,0.5,1,1,0.9967706203460693,794,832,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0078,145,complex,deadline,migration_law,0,0.5,0.6309297535714575,1,1,0.9991440773010254,931,847,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0077,146,complex,deadline,migration_law,0,0.5,0.6309297535714575,1,1,0.9957054257392883,11,597,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0076,147,complex,deadline,migration_law,0,0.0,0.0,1,1,0.9747070670127869,77,850,0.0,0.0,0.0,0.0,Hybrid -> reranker top-100
+TEST_0075,148,complex,deadline,migration_law,1,1.0,1.0,1,1,0.9999581575393677,365,365,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0074,149,complex,deadline,migration_law,0,0.5,0.6309297535714575,1,1,0.9964796900749207,53,42,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0073,150,moderate,deadline,administrative_law,1,1.0,1.0,1,1,0.9999709129333496,896,896,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0088,151,complex,definition,tax_law,0,0.0,0.0,1,1,0.9961298704147339,482,1046,0.0,0.0,0.0,0.0,Hybrid -> reranker top-100
+TEST_0083,152,complex,definition,tax_law,1,1.0,1.0,1,1,0.9994695782661438,707,707,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0081,153,complex,deadline,tax_law,0,0.3333333333333333,0.5,1,1,0.9909465312957764,21,926,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0034,154,moderate,deadline,other,1,1.0,1.0,1,1,0.999390721321106,436,436,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0194,155,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9990934133529663,505,505,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0195,156,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9993051290512085,724,724,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0197,157,moderate,definition,civil_law,0,0.5,0.6309297535714575,1,1,0.9985744953155518,375,315,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0200,158,moderate,deadline,tax_law,1,1.0,1.0,1,1,0.9999419450759888,946,946,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0061,159,complex,deadline,labor_law,1,1.0,1.0,1,1,0.9992384910583496,461,461,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0232,160,moderate,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9994400143623352,27,89,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0059,161,moderate,deadline,social_law,1,1.0,1.0,1,1,0.9954612851142883,1045,1045,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0239,162,simple,deadline,civil_law,0,0.3333333333333333,0.5,1,1,0.9926437735557556,264,594,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0225,163,moderate,deadline,civil_law,0,0.14285714285714285,0.3333333333333333,1,1,0.9958920478820801,67,119,0.0,0.0,0.0,1.0,Hybrid -> reranker top-100
+TEST_0228,164,complex,deadline,civil_law,1,1.0,1.0,1,1,0.9998409748077393,885,885,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0229,165,complex,definition,civil_law,0,0.3333333333333333,0.5,1,1,0.9995490908622742,670,669,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0231,166,moderate,definition,tax_law,1,1.0,1.0,1,1,0.9992745518684387,1049,1049,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0233,167,moderate,deadline,labor_law,0,0.5,0.6309297535714575,1,1,0.9926578402519226,120,81,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0238,168,complex,definition,civil_law,0,0.5,0.6309297535714575,1,1,0.9905271530151367,337,336,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0236,169,complex,deadline,tax_law,1,1.0,1.0,1,1,0.9989101886749268,862,862,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0045,170,simple,definition,civil_law,1,1.0,1.0,1,1,0.9995236396789551,985,985,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0033,171,moderate,deadline,other,0,0.2,0.38685280723454163,1,1,0.9993724226951599,37,464,0.0,0.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0047,172,simple,deadline,civil_law,0,0.0,0.0,1,1,0.9954888224601746,219,543,0.0,0.0,0.0,0.0,Hybrid -> reranker top-100
+TEST_0001,173,simple,definition,migration_law,0,0.1111111111111111,0.3010299956639812,1,1,0.9878794550895691,42,39,0.0,0.0,0.0,1.0,Hybrid -> reranker top-100
+TEST_0038,174,simple,deadline,education_law,0,0.0,0.0,0,0,0.8527464270591736,826,19,0.0,0.0,0.0,0.0,Hybrid -> reranker top-100
+TEST_0037,175,moderate,deadline,other,1,1.0,1.0,1,1,0.9995943903923035,836,836,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0036,176,moderate,deadline,other,1,1.0,1.0,1,1,0.9943842887878418,85,85,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0035,177,moderate,deadline,other,0,0.0,0.0,1,1,0.9966058731079102,20,473,0.0,0.0,0.0,0.0,Hybrid -> reranker top-100
+TEST_0050,178,simple,deadline,civil_law,0,0.5,0.6309297535714575,1,1,0.9954985976219177,553,1007,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0054,179,moderate,deadline,health_law,0,0.3333333333333333,0.5,1,1,0.9765731692314148,119,125,0.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0053,180,simple,deadline,civil_law,1,1.0,1.0,1,1,0.9952113032341003,59,59,1.0,1.0,1.0,1.0,Hybrid -> reranker top-100
+TEST_0046,181,simple,deadline,civil_law,0,0.125,0.31546487678572877,1,1,0.8155706524848938,34,13,0.0,0.0,0.0,1.0,Hybrid -> reranker top-100

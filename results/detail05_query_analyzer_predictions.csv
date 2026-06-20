@@ -1,0 +1,243 @@
+﻿row_id,question_id,question,answerability,complexity,question_type,legal_domain,pred_question_type,pred_complexity,pred_route,pred_unanswerable_risk
+0,TEST_0210,Жер учаскесін заңсыз пайдаланған жағдайда төлемақы сомасы қанша уақыттан кейін ұлғайтылады?,answerable,complex,deadline,tax_law,deadline,moderate,deadline_lookup,0
+1,TEST_0056,KAZAKH INVEST агенттігі инвестиция тарту үшін қандай тәсілдерді қолданады?,answerable,moderate,definition,migration_law,moderate_lookup,moderate,moderate_lookup,0
+2,TEST_0235,Уранды барлауға арналған келісімшарт мерзімін ұзарту үшін қандай құжаттар қажет?,answerable,complex,deadline,civil_law,deadline,moderate,deadline_lookup,0
+3,TEST_0227,Жер қойнауы учаскесін сенімгерлік басқару шарты қанша уақытқа жасалады?,answerable,complex,deadline,civil_law,deadline,moderate,deadline_lookup,0
+4,TEST_0237,Жер қойнауын пайдалануға арналған келісімшарттарға қандай ережелер қолданылады?,answerable,complex,definition,civil_law,moderate_lookup,moderate,moderate_lookup,0
+5,TEST_0057,Қазақстандағы жұмыстар мен қызметтердің қазақстандық өндірушілері деп кімдер танылады?,answerable,moderate,definition,migration_law,moderate_lookup,moderate,moderate_lookup,0
+6,TEST_0142,Көмірсутектер бойынша барлау жұмыстарының жобасына мемлекеттік сараптама қанша уақыт ішінде жүргізіледі?,answerable,moderate,deadline,family_law,deadline,moderate,deadline_lookup,0
+7,TEST_0137,Кен орнын сынамалап пайдалану кезінде шикі газды жағуға рұқсат етілетін мерзім қандай?,answerable,complex,deadline,family_law,deadline,moderate,deadline_lookup,0
+8,TEST_0192,Кірістерді түзету қандай жағдайларда жүргізіледі?,answerable,complex,definition,tax_law,complex_legal,complex,complex_lookup,0
+9,TEST_0130,Көмірсутектер бойынша жер қойнауын пайдалану саласындағы жобалау құжаттарына өзгерістер енгізу туралы заң қашан күшіне енеді?,answerable,complex,deadline,family_law,moderate_lookup,moderate,moderate_lookup,0
+10,TEST_0163,Жер қойнауын пайдалануға баламалы салықты есептеу кезінде шегерімдер қанша жылға ауыстырылады?,answerable,complex,deadline,civil_law,deadline,moderate,deadline_lookup,0
+11,TEST_0176,Орталық комиссияның негізгі міндеті қандай?,answerable,moderate,definition,civil_law,moderate_lookup,moderate,moderate_lookup,0
+12,TEST_0185,Жер қойнауын пайдаланушының пайдалы қатты қазбаларды өндіру кезіндегі есептілігі қандай мерзімде ұсынылады?,answerable,complex,definition,civil_law,deadline,moderate,deadline_lookup,0
+13,TEST_0186,Тау-кен жұмыстарының жоспары дегеніміз не?,answerable,complex,definition,civil_law,definition,simple,definition_lookup,0
+14,TEST_0082,Қосылған құн салығының асып кетуін қайтару мерзімі қандай?,answerable,complex,definition,tax_law,deadline,moderate,deadline_lookup,0
+15,TEST_0224,Жер қойнауын пайдаланушы жер қойнауы учаскесін азайту туралы өтінішке қандай құжаттарды қоса беруі керек?,answerable,complex,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+16,TEST_0217,Жерді заңсыз пайдаланған жағдайда салық мөлшерлемесі қанша есеге ұлғайтылады?,answerable,complex,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+17,TEST_0084,Жер қойнауын пайдаланушы бөлек салықтық есепке алуды қалай жүргізуге міндетті?,answerable,complex,deadline,tax_law,moderate_lookup,moderate,moderate_lookup,0
+18,TEST_0199,Патент негізіндегі арнаулы салық режимін қолдану үшін қандай шарттар орындалуы керек?,answerable,complex,definition,tax_law,complex_legal,complex,complex_lookup,0
+19,TEST_0240,Мерзімінде орындалмаған салықтық міндеттеме бойынша пайдалы қазбалардың физикалық көлемі қалай айқындалады?,answerable,simple,deadline,civil_law,deadline,moderate,deadline_lookup,0
+20,TEST_0202,Еуразиялық экономикалық одақта тауарларды экспорттау мен импорттау кезінде қосылған құн салығы қалай реттеледі?,answerable,complex,definition,civil_law,moderate_lookup,moderate,moderate_lookup,0
+21,TEST_0101,Жайылымдар жемдерінің қоры қанша күнге жетеді?,answerable,simple,deadline,administrative_law,deadline,moderate,deadline_lookup,0
+22,TEST_0118,Қайта өңдеу туралы келісім жобасына сараптамалар қанша күн ішінде жүргізіледі?,answerable,moderate,deadline,civil_law,deadline,moderate,deadline_lookup,0
+23,TEST_0158,Кен іздеушілікке арналған лицензия қанша уақытқа беріледі және оны ұзарту мүмкін бе?,answerable,complex,deadline,civil_law,deadline,moderate,deadline_lookup,0
+24,TEST_0100,KAZAKH INVEST қандай жаңа қызметті іске қосуды жоспарлап отыр?,answerable,simple,definition,administrative_law,moderate_lookup,moderate,moderate_lookup,0
+25,TEST_0011,"Шетелдік басшылар, менеджерлер мен мамандардың саны қандай шектеулерге бағынады?",answerable,moderate,deadline,labor_law,moderate_lookup,moderate,moderate_lookup,0
+26,TEST_0010,Теміржол көлігінің қызметкерлерін кәсіби дайындау мен оқыту жүйесін жетілдіруде қандай аспектілер ескерілуі керек?,answerable,moderate,deadline,labor_law,moderate_lookup,moderate,moderate_lookup,0
+27,TEST_0114,Құрылыс салу қағидалары мен жас екпелерді қорғау қағидаларын кім бекітеді?,answerable,moderate,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+28,TEST_0128,Пайдалы қазбаларды өндіру салығы бойынша салықтық міндеттемелер қалай қайта есептеледі?,answerable,simple,definition,tax_law,moderate_lookup,moderate,moderate_lookup,0
+29,TEST_0113,2022 жылғы заңға сәйкес 529-бап қашан қолданысқа енгізіледі?,answerable,moderate,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+30,TEST_0126,Жер учаскелері бойынша төлемақы мөлшерлемелері қандай заңнамаға сәйкес айқындалады?,answerable,simple,deadline,tax_law,moderate_lookup,moderate,moderate_lookup,0
+31,TEST_0125,Кең таралған пайдалы қазбаларды барлауға арналған сарапшылық комиссиялардың негізгі міндеті қандай?,answerable,simple,definition,tax_law,moderate_lookup,moderate,moderate_lookup,0
+32,TEST_0121,Арнайы экономикалық аймаққа қатысушы ретінде қызметті жүзеге асыру туралы шартты қашан жасасқан ұйымдар мен кәсіпкерлерге салық жеңілдіктері қолданылады?,answerable,simple,deadline,tax_law,moderate_lookup,moderate,moderate_lookup,0
+33,TEST_0127,Дебиторлық және кредиторлық берешектердің өндіріп алынуын және өтелуін бақылау мерзімі қандай?,answerable,simple,deadline,tax_law,deadline,moderate,deadline_lookup,0
+34,TEST_0008,Электр берілісі әуе желілерінің сымдарының төменгі нүктесінен жер бетіне дейінгі қашықтық қанша болуы керек?,answerable,moderate,deadline,labor_law,deadline,moderate,deadline_lookup,0
+35,TEST_0007,Жолаушының тегі жол жүру құжатында көрсетілген тегімен сәйкес келмеген жағдайда не болады?,answerable,moderate,deadline,labor_law,moderate_lookup,moderate,moderate_lookup,0
+36,TEST_0006,IRM жүйесінің негізгі мақсаты қандай?,answerable,moderate,definition,labor_law,moderate_lookup,moderate,moderate_lookup,0
+37,TEST_0002,Инвестордың сұрауы мемлекеттік органдарда қанша уақыт ішінде өңделеді?,answerable,simple,deadline,migration_law,deadline,moderate,deadline_lookup,0
+38,TEST_0015,Қазақстан Республикасындағы отбасылық және гендерлік саясат тұжырымдамасы қай жылға дейінгі мерзімді қамтиды?,answerable,simple,deadline,family_law,deadline,moderate,deadline_lookup,0
+39,TEST_0014,Инвестиция тартудың негізгі кезеңі не болып табылады?,answerable,simple,definition,family_law,definition,simple,definition_lookup,0
+40,TEST_0013,Жер қойнауын пайдаланушының өтініші бойынша рұқсат беру туралы шешім қанша уақыт ішінде қабылданады?,answerable,simple,deadline,family_law,deadline,moderate,deadline_lookup,0
+41,TEST_0012,Темір жолдарда сақтандырғыш тұйықтардың пайдалы ұзындығы қандай болуы керек?,answerable,moderate,deadline,labor_law,moderate_lookup,moderate,moderate_lookup,0
+42,TEST_0032,622-бапқа енгізілген өзгерістер қашан қолданысқа енгізіледі?,answerable,moderate,deadline,other,moderate_lookup,moderate,moderate_lookup,0
+43,TEST_0009,Теміржол жылжымалы құрамына техникалық қызмет көрсету қаншалықты жиі жүргізілуі керек?,answerable,moderate,deadline,labor_law,moderate_lookup,moderate,moderate_lookup,0
+44,TEST_0023,Жүк вагондарының өту алаңында қандай құрылғылар болуы керек?,answerable,simple,deadline,other,moderate_lookup,moderate,moderate_lookup,0
+45,TEST_0022,KAZAKH INVEST қандай компанияларға назар аударады?,answerable,simple,deadline,other,moderate_lookup,moderate,moderate_lookup,0
+46,TEST_0021,Жүк вагондарының автотіркегіш осінің рельс бастиектерінің үстіндегі биіктігі қандай болуы керек?,answerable,simple,deadline,family_law,moderate_lookup,moderate,moderate_lookup,0
+47,TEST_0020,Компаниядағы шешім қабылдау деңгейіндегі әйелдердің үлесі 2027 жылға қарай қандай пайызға жетеді?,answerable,simple,deadline,family_law,unanswerable_risk,complex,unanswerable_risk,1
+48,TEST_0018,Қазақстанның инвестициялық ахуалы туралы есеп қаншалықты жиі жасалады?,answerable,simple,deadline,family_law,moderate_lookup,moderate,moderate_lookup,0
+49,TEST_0017,Заң ресми жарияланғаннан кейін қанша күннен соң қолданысқа енгізіледі?,answerable,simple,deadline,family_law,deadline,moderate,deadline_lookup,0
+50,TEST_0028,29-тармақша қай жылға дейін қолданылады?,answerable,simple,deadline,other,deadline,moderate,deadline_lookup,0
+51,TEST_0031,Қандай жағдайларда жылжымалы құрамды пайдалануға және поездармен жүруіне жол берілмейді?,answerable,moderate,deadline,other,complex_legal,complex,complex_lookup,0
+52,TEST_0030,40-бапқа енгізілген өзгеріс қашан қолданысқа енгізіледі?,answerable,moderate,deadline,other,moderate_lookup,moderate,moderate_lookup,0
+53,TEST_0029,Жер қойнауы кеңістігін пайдалану салдарын жою жоспары қандай құжатты қамтиды?,answerable,moderate,definition,other,moderate_lookup,moderate,moderate_lookup,0
+54,TEST_0026,Вагондардың тұру жолдарына апаратын бағыттамаларды қалай орнату керек?,answerable,simple,deadline,other,moderate_lookup,moderate,moderate_lookup,0
+55,TEST_0027,Тұрақты токтағы электрлендірілген желілерде түйіспелік сым аспасының биіктігі қандай болуы керек?,answerable,simple,deadline,other,moderate_lookup,moderate,moderate_lookup,0
+56,TEST_0025,Станцияларда бас жолдар арасындағы қашықтық қандай болуы керек?,answerable,simple,deadline,other,moderate_lookup,moderate,moderate_lookup,0
+57,TEST_0129,Жолаушылар поезы сағатына 161 километр және одан артық жылдамдықпен жүргенде қандай талап қойылады?,answerable,complex,deadline,family_law,moderate_lookup,moderate,moderate_lookup,0
+58,TEST_0143,Теңізде мұнай операцияларын жүзеге асыратын жер қойнауын пайдаланушының өтінішін құзыретті орган қанша уақыт ішінде қарауы тиіс?,answerable,moderate,deadline,family_law,deadline,moderate,deadline_lookup,0
+59,TEST_0141,Өтініш берілген күннен бастап құзыретті органның интернет-ресурсында мәліметтер қанша күн ішінде орналастырылуы тиіс?,answerable,moderate,deadline,family_law,deadline,moderate,deadline_lookup,0
+60,TEST_0140,ҚР 2019 Заңы қашан қолданысқа енгізіледі?,answerable,moderate,deadline,family_law,moderate_lookup,moderate,moderate_lookup,0
+61,TEST_0139,Қазақстан Республикасының 2025 жылға дейінгі ұлттық даму жоспары қашан аяқталады?,answerable,moderate,deadline,family_law,deadline,moderate,deadline_lookup,0
+62,TEST_0152,Инвестициялық басым жобаны іске асыратын ұйым қандай талаптарға сәйкес болуы керек?,answerable,complex,definition,civil_law,moderate_lookup,moderate,moderate_lookup,0
+63,TEST_0151,Осы Кодекс қашаннан бастап толық қолданысқа енгізіледі?,answerable,complex,deadline,civil_law,deadline,moderate,deadline_lookup,0
+64,TEST_0149,Келісімшарттық аумақты өзгертуге рұқсат беруден бас тартуға қалай дау айтуға болады?,answerable,complex,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+65,TEST_0148,Жер қойнауын пайдалану құқығын қайта ресімдеу кезінде салықтық есепке алу қалай жүргізіледі?,answerable,complex,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+66,TEST_0146,ҚР Заңымен алып тасталған тармақшалар қашан қолданысқа енгізіледі?,answerable,moderate,deadline,family_law,moderate_lookup,moderate,moderate_lookup,0
+67,TEST_0145,Пайдалы қазбалар кен орындарының мемлекеттік кадастрын жүргізу тәртібін кім бекітеді?,answerable,moderate,deadline,family_law,complex_legal,complex,complex_lookup,0
+68,TEST_0160,Кең таралған пайдалы қазбаларды өндіруге арналған лицензия бойынша жыл сайынғы ең төмен шығыстар қалай белгіленеді?,answerable,simple,deadline,civil_law,complex_legal,complex,complex_lookup,0
+69,TEST_0157,2023 жылдан бастап бірыңғай төлемнің мөлшерлемесі қандай пайызды құрайды?,answerable,complex,definition,social_law,deadline,moderate,deadline_lookup,0
+70,TEST_0156,Тарихи шығындарды өтеу бойынша төлемді төлеу мерзімі қандай жағдайларда 10 сәуірден кешіктірілмей төленеді?,answerable,complex,deadline,civil_law,deadline,moderate,deadline_lookup,0
+71,TEST_0155,Жер қойнауын пайдалануға арналған келісімшарт бойынша шикі газ үшін баға қалай анықталады?,answerable,complex,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+72,TEST_0154,Уранды тәжірибелік-өнеркәсіптік өндіру жобасы қандай мерзімге әзірленеді?,answerable,complex,deadline,civil_law,deadline,moderate,deadline_lookup,0
+73,TEST_0153,Орталықтандырылған бағыттамаларды ажырату қандай мерзімдерде жүргізіледі?,answerable,complex,deadline,civil_law,deadline,moderate,deadline_lookup,0
+74,TEST_0104,Әлеуметтік салық төлеушілер қатарына кімдер жатады?,answerable,moderate,definition,tax_law,moderate_lookup,moderate,moderate_lookup,0
+75,TEST_0103,Бюджеттік кредиттерді өтеу сомасы қанша?,answerable,moderate,deadline,tax_law,moderate_lookup,moderate,moderate_lookup,0
+76,TEST_0102,Тіркеу әрекеттеріне қандай іс-әрекеттер жатады?,answerable,moderate,definition,tax_law,moderate_lookup,moderate,moderate_lookup,0
+77,TEST_0099,Жайылымдық алқаптардың жем қоры қанша күнге жетеді?,answerable,simple,deadline,administrative_law,deadline,moderate,deadline_lookup,0
+78,TEST_0098,Тікелей шетелдік инвестициялардың жалпы ағынының қалыптастыру мерзімі қандай?,answerable,simple,deadline,administrative_law,deadline,moderate,deadline_lookup,0
+79,TEST_0112,Уран өндіруге арналған келісімшарттың қолданысын тоқтату туралы құзыретті орган жер қойнауын пайдаланушыға қанша уақыт бұрын ескертуі керек?,answerable,moderate,deadline,civil_law,deadline,moderate,deadline_lookup,0
+80,TEST_0111,Теміржол вокзалдарында мүгедектерге қандай қызметтер қамтамасыз етілуі тиіс?,answerable,moderate,definition,civil_law,moderate_lookup,moderate,moderate_lookup,0
+81,TEST_0110,Жер қойнауы учаскесін түрлендіруге арналған өтініште қандай мәліметтер қамтылуға тиіс?,answerable,moderate,definition,tax_law,moderate_lookup,moderate,moderate_lookup,0
+82,TEST_0109,Пайдалы қазбаларды өндіру салығын есептеу кезінде қандай көлемдер салықтық кезеңдегі жалпы көлемнен алып тасталады?,answerable,moderate,deadline,tax_law,moderate_lookup,moderate,moderate_lookup,0
+83,TEST_0108,Қазақстанға Еуразиялық экономикалық одақтан импортталатын тауарлар үшін қосылған құн салығын төлеу қандай әдіспен жүзеге асырылады?,answerable,moderate,deadline,tax_law,moderate_lookup,moderate,moderate_lookup,0
+84,TEST_0107,Жеке тұлғалардың мүлік салығына қатысты қандай өзгеріс енгізілді?,answerable,moderate,fact_lookup,tax_law,moderate_lookup,moderate,moderate_lookup,0
+85,TEST_0106,Салық төлеуші лизинг шартында көзделген төлем мерзімінен кейін салық органына қандай мерзімде өтініш беруі керек?,answerable,moderate,deadline,tax_law,deadline,moderate,deadline_lookup,0
+86,TEST_0105,Автокөлік құралының Қазақстан аумағымен жүріп өткені үшін алымды төлеу мерзімі қандай?,answerable,moderate,deadline,tax_law,deadline,moderate,deadline_lookup,0
+87,TEST_0119,Жер қойнауын пайдалануға арналған келісімшарттар қандай міндеттемелерді қамтуы тиіс?,answerable,moderate,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+88,TEST_0116,Сырғанау бетінде тереңдігі 1 миллиметрден артық сырғақ байқалған жағдайда қандай қағидаларға басшылық жасау қажет?,answerable,moderate,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+89,TEST_0115,Алыс-беріс шикізатын қайта өңдеу мерзімі қалай анықталады?,answerable,moderate,deadline,civil_law,deadline,moderate,deadline_lookup,0
+90,TEST_0184,Бірыңғай жер салығын есептеу үшін қандай мөлшерлеме қолданылады?,answerable,complex,deadline,tax_law,moderate_lookup,moderate,moderate_lookup,0
+91,TEST_0131,Пайдалы қатты қазбаларды барлауға арналған лицензия мерзімін ұзарту өтініші қашан берілуі керек?,answerable,complex,deadline,family_law,deadline,moderate,deadline_lookup,0
+92,TEST_0132,Қазақстан Республикасының азаматтығын алу кезінде кімдер мемлекеттік баж төлеуден босатылады?,answerable,complex,deadline,family_law,moderate_lookup,moderate,moderate_lookup,0
+93,TEST_0133,Қандай жағдайларда жеке тұлғалар нотариаттық әрекеттер жасаған кезде мемлекеттік баж төлеуден босатылады?,answerable,complex,deadline,family_law,complex_legal,complex,complex_lookup,0
+94,TEST_0135,Жер қойнауы кеңістігін пайдалануға арналған лицензияны қандай жағдайларда беруге тыйым салынады?,answerable,complex,deadline,family_law,complex_legal,complex,complex_lookup,0
+95,TEST_0136,Жер қойнауын пайдалану құқығын беруге арналған конкурстарды өткізу жөніндегі комиссияның негізгі міндеттері қандай?,answerable,complex,definition,family_law,moderate_lookup,moderate,moderate_lookup,0
+96,TEST_0188,645-бапқа енгізілген соңғы өзгерістер қашан қолданысқа енгізіледі?,answerable,moderate,deadline,other,moderate_lookup,moderate,moderate_lookup,0
+97,TEST_0189,"Дипломатиялық өкілдікке немесе консулдық мекемеге консулдық алымдардан түсетін түсімдер 1 000 АҚШ долларынан аз болса, оларды аудару мерзімі қандай?",answerable,complex,deadline,tax_law,deadline,moderate,deadline_lookup,0
+98,TEST_0190,Пайдалы қазбаларды өндіру салығы қалай төленеді?,answerable,complex,definition,civil_law,moderate_lookup,moderate,moderate_lookup,0
+99,TEST_0191,Ауыл шаруашылығы өнімін өндірушілер корпоративтік табыс салығын қанша пайызға азайта алады?,answerable,moderate,deadline,tax_law,moderate_lookup,moderate,moderate_lookup,0
+100,TEST_0177,Әлеуметтік салықты есептеу кезінде бюджетке төленетін салық сомасы қалай анықталады?,answerable,complex,deadline,tax_law,moderate_lookup,moderate,moderate_lookup,0
+101,TEST_0178,Шекарамаңы жер қойнауы учаскесінде көмірсутектер бойынша жер қойнауын пайдалану жөніндегі операцияларды тоқтата тұру туралы шешім қабылданғаннан кейін құзыретті орган жер қойнауын пайдаланушыға қанша уақыт ішінде хабарлауы керек?,answerable,complex,deadline,civil_law,deadline,moderate,deadline_lookup,0
+102,TEST_0180,Күкіртті ашық түрде күкірт карталарында орналастыру үшін төлемақы мөлшерлемесі қандай?,answerable,complex,deadline,tax_law,moderate_lookup,moderate,moderate_lookup,0
+103,TEST_0181,Жерасты құрылыстарын салуға қатысты 44-бапқа енгізілген өзгерістер қашан қолданысқа енеді?,answerable,complex,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+104,TEST_0182,Жолаушыны тасымалдау шартын қалай рәсімдейді?,answerable,complex,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+105,TEST_0183,Жолаушылар поезы сағатына 161 километр және одан артық жылдамдықпен жүргенде қандай талап қойылады?,answerable,moderate,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+106,TEST_0162,Көлік құралы ұрланған жағдайда салық төлеуден босату үшін қандай құжат негіз болады?,answerable,complex,definition,tax_law,moderate_lookup,moderate,moderate_lookup,0
+107,TEST_0169,Пайдалы қатты қазбаларды қайта өңдеу туралы келісімді жасау үшін қандай құжаттар қажет?,answerable,moderate,definition,civil_law,moderate_lookup,moderate,moderate_lookup,0
+108,TEST_0170,123-бапқа енгізілген өзгерістер қашан қолданысқа енгізіледі?,answerable,moderate,deadline,other,moderate_lookup,moderate,moderate_lookup,0
+109,TEST_0171,Жеке тұлғаларға электрондық сауда арқылы тауарлар мен қызметтерді сатқан кезде қосылған құн салығы қалай есептеледі?,answerable,moderate,definition,tax_law,moderate_lookup,moderate,moderate_lookup,0
+110,TEST_0172,Жер қойнауын пайдалану келісімшарттары бойынша төлемдер кезеңділігі қалай анықталады?,answerable,complex,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+111,TEST_0173,Экспортқа рента салығы бойынша салықтық кезең қандай?,answerable,complex,definition,tax_law,moderate_lookup,moderate,moderate_lookup,0
+112,TEST_0174,Жер қойнауын пайдалануға мемлекеттік сараптама жүргізу мерзімі қанша уақытты құрайды?,answerable,simple,definition,tax_law,deadline,moderate,deadline_lookup,0
+113,TEST_0161,Көмірсутектерді өндіруге арналған келісімшартта конкурс жеңімпазы қандай шығыстар мөлшерін қабылдауы керек?,answerable,simple,fact_lookup,civil_law,moderate_lookup,moderate,moderate_lookup,0
+114,TEST_0167,Мұнай операцияларын жүргізу кезінде қандай шараларды қабылдау қажет?,answerable,moderate,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+115,TEST_0164,Өтініш туралы мәліметтер құзыретті органның интернет-ресурсында қанша уақыт ішінде орналастырылады?,answerable,moderate,deadline,family_law,deadline,moderate,deadline_lookup,0
+116,TEST_0165,Құқықтық сараптама қанша уақыт ішінде жүргізіледі?,answerable,simple,deadline,civil_law,deadline,moderate,deadline_lookup,0
+117,TEST_0166,Ерекше құнды жер қойнауы учаскелерін өзге қажеттер үшін алып қоюға рұқсат етіле ме?,answerable,complex,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+118,TEST_0094,Жүрдек жолаушылар поезының өтуіне қанша уақыт қалғанда малды айдап өтуге тыйым салынады?,answerable,simple,deadline,labor_law,deadline,moderate,deadline_lookup,0
+119,TEST_0093,Жұмыстар аяқталғаннан кейін құрылғыларды іске қосу қалай жүзеге асырылады?,answerable,simple,deadline,labor_law,deadline,moderate,deadline_lookup,0
+120,TEST_0095,Теміржол жылжымалы құрамының техникалық қызмет көрсетуі қалай қамтамасыз етіледі?,answerable,simple,deadline,labor_law,moderate_lookup,moderate,moderate_lookup,0
+121,TEST_0193,ТҰК және ірі компаниялармен құрылған бірлескен кәсіпорындар санының есебі қай уақытқа дейін жүргізілуі керек?,answerable,moderate,deadline,civil_law,deadline,moderate,deadline_lookup,0
+122,TEST_0208,Бейрезиденттің Қазақстандағы дивидендтеріне салықтық жеңілдіктер қалай қолданылады?,answerable,moderate,fact_lookup,civil_law,moderate_lookup,moderate,moderate_lookup,0
+123,TEST_0206,2015 жылғы 1 қаңтарға дейін жасалған келісімшарттарға қандай өзгерістер енгізіледі?,answerable,moderate,deadline,civil_law,deadline,moderate,deadline_lookup,0
+124,TEST_0205,Үстеме пайда салығын төлеу мерзімі қандай?,answerable,complex,definition,tax_law,deadline,moderate,deadline_lookup,0
+125,TEST_0204,Әлеуметтік салықтың мөлшерлемесі 2025 жылдан бастап қандай болады?,answerable,complex,deadline,tax_law,unanswerable_risk,complex,unanswerable_risk,1
+126,TEST_0203,Жою жоспарына өзгерістер енгізу үшін қандай мерзім белгіленген?,answerable,simple,deadline,civil_law,deadline,moderate,deadline_lookup,0
+127,TEST_0201,Жер қойнауын пайдаланушылар есептерді қандай жүйе арқылы ұсынады?,answerable,moderate,deadline,tax_law,moderate_lookup,moderate,moderate_lookup,0
+128,TEST_0216,Қазақстан Республикасының аумағынан тұрақты негізде халықаралық қатынаста жолаушылар мен жүктерді тасымалдауды жүзеге асыратын отандық автокөлік құралдары үшін алым мөлшері қандай?,answerable,moderate,deadline,tax_law,moderate_lookup,moderate,moderate_lookup,0
+129,TEST_0214,Салық декларациясы қашан ұсынылуы керек?,answerable,complex,definition,tax_law,moderate_lookup,moderate,moderate_lookup,0
+130,TEST_0213,Шекара маңындағы кен орнында барлау мен өндіруді тоқтату туралы кім талап ете алады?,answerable,complex,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+131,TEST_0212,Салық салу объектісі бірнеше тұлғаның ортақ үлестік меншiгiнде болған жағдайда салық төлеушi қалай анықталады?,answerable,complex,definition,civil_law,complex_legal,complex,complex_lookup,0
+132,TEST_0211,Қазақстан Республикасында тұрақты болмайтын шетелдіктердің кірістеріне салық салу қалай жүзеге асырылады?,answerable,complex,deadline,civil_law,complex_legal,complex,complex_lookup,0
+133,TEST_0209,Инновациялық технологиялар паркіне қатысушылардың жобаларын қаржыландыру міндеттемелерін орындау не деп танылады?,answerable,simple,definition,civil_law,moderate_lookup,moderate,moderate_lookup,0
+134,TEST_0223,Жер қойнауын пайдаланушы уран өндіруге арналған келісімшарт бойынша қандай есептерді ұсынуға міндетті?,answerable,complex,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+135,TEST_0222,Жер қойнауын пайдаланушы салық декларациясын қашан тапсыруы керек?,answerable,complex,deadline,tax_law,moderate_lookup,moderate,moderate_lookup,0
+136,TEST_0220,Жер қойнауын пайдалануға арналған келісімшарт қандай жағдайда мерзімінен бұрын тоқтатылады?,answerable,simple,definition,civil_law,deadline,moderate,deadline_lookup,0
+137,TEST_0219,Цифрлық майнинг үшін төлемақы қалай есептеледі?,answerable,complex,definition,civil_law,moderate_lookup,moderate,moderate_lookup,0
+138,TEST_0218,Бейрезидент-заңды тұлғаның тұрақты мекемесінің жылдық жиынтық кірісіне қандай кірістер қосылмайды?,answerable,complex,definition,tax_law,moderate_lookup,moderate,moderate_lookup,0
+139,TEST_0072,Заңның 77-бабының 3-тармағы қашан қолданысқа енгізіледі?,answerable,complex,deadline,other,moderate_lookup,moderate,moderate_lookup,0
+140,TEST_0071,Жер қойнауын пайдалануды шектеу немесе тыйым салу қандай жағдайларда мүмкін?,answerable,complex,definition,other,complex_legal,complex,complex_lookup,0
+141,TEST_0070,Зияткерлік меншік саласындағы уәкілетті мемлекеттік органның тауар белгісін жалпыға бірдей белгілі деп танығаны үшін мемлекеттік баж мөлшерлемесі қанша?,answerable,complex,deadline,other,moderate_lookup,moderate,moderate_lookup,0
+142,TEST_0069,117-бапқа енгізілген өзгерістер қашан қолданысқа енгізіледі?,answerable,complex,deadline,other,moderate_lookup,moderate,moderate_lookup,0
+143,TEST_0080,"Стационарлық жұмыс орны қанша уақытқа құрылса, ол стационарлық болып есептеледі?",answerable,complex,deadline,tax_law,deadline,moderate,deadline_lookup,0
+144,TEST_0079,Қазақстан Республикасынан тұрақты тұрғылықты жерге кету үшін құжаттарды ресімдеу кезінде мемлекеттік баж төлене ме?,answerable,complex,deadline,migration_law,moderate_lookup,moderate,moderate_lookup,0
+145,TEST_0078,620-бапқа енгізілген өзгеріс қашан қолданысқа енгізіледі?,answerable,complex,deadline,migration_law,moderate_lookup,moderate,moderate_lookup,0
+146,TEST_0077,Теңіздегі ғылыми зерттеулерді жүргізу үшін қандай талаптар қойылады?,answerable,complex,deadline,migration_law,moderate_lookup,moderate,moderate_lookup,0
+147,TEST_0076,Мемлекеттік бажды төлеу мерзімі қандай?,answerable,complex,deadline,migration_law,deadline,moderate,deadline_lookup,0
+148,TEST_0075,Жер қойнауын пайдалануға арналған лицензияны алу үшін өтінішке қандай құжаттар қоса берілуі керек?,answerable,complex,deadline,migration_law,moderate_lookup,moderate,moderate_lookup,0
+149,TEST_0074,Инвесторлардың сауалдарына мемлекеттік органдар қанша уақыт ішінде жауап береді?,answerable,complex,deadline,migration_law,deadline,moderate,deadline_lookup,0
+150,TEST_0073,Бейрезидент-заңды тұлғаның қаржылық есептілігінің деректері қалай түзетіледі?,answerable,moderate,deadline,administrative_law,moderate_lookup,moderate,moderate_lookup,0
+151,TEST_0088,Салықтық кезең ретінде қандай уақыт аралығы белгіленген?,answerable,complex,definition,tax_law,moderate_lookup,moderate,moderate_lookup,0
+152,TEST_0083,Акциз төлеушілер акциз жөніндегі декларацияны қашан ұсынуға міндетті?,answerable,complex,definition,tax_law,moderate_lookup,moderate,moderate_lookup,0
+153,TEST_0081,Дара кәсіпкерлер кірістерін салықтық есепке алу кезінде қандай заңға сәйкес әрекет етеді?,answerable,complex,deadline,tax_law,moderate_lookup,moderate,moderate_lookup,0
+154,TEST_0034,278-бапқа енгізілген өзгерістер 2022 жылы қашан қолданысқа енгізіледі?,answerable,moderate,deadline,other,moderate_lookup,moderate,moderate_lookup,0
+155,TEST_0194,Жер қойнауын пайдалану құқығының құқық мирасқорлығы тәртібімен ауысуы үшін қандай мерзімде келісімшартқа өзгерістер енгізіледі?,answerable,complex,deadline,civil_law,deadline,moderate,deadline_lookup,0
+156,TEST_0195,Қандай жерлер салық салуға жатпайды?,answerable,complex,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+157,TEST_0197,Жер қойнауын пайдаланушы барлау учаскесінен бас тарту үшін қандай құжаттарды ұсынуы керек?,answerable,moderate,definition,civil_law,moderate_lookup,moderate,moderate_lookup,0
+158,TEST_0200,Тіркелген шегерім пайдаланылатын арнаулы салық режимін қолданатын салық төлеушілер декларацияны қай уақытқа дейін тапсыруы керек?,answerable,moderate,deadline,tax_law,deadline,moderate,deadline_lookup,0
+159,TEST_0061,Пайдалы қазбаларды реквизициялау қандай жағдайларда жүргізілуі мүмкін?,answerable,complex,deadline,labor_law,complex_legal,complex,complex_lookup,0
+160,TEST_0232,Қатты ойлы-қырлы жерлерде бағдаршамдардың көріну қашықтығы қандай болуы керек?,answerable,moderate,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+161,TEST_0059,Салық агенті бірыңғай төлемді аударуды қай күнге дейін жүргізуі керек?,answerable,moderate,deadline,social_law,deadline,moderate,deadline_lookup,0
+162,TEST_0239,Теңізде мұнайдың төгілуін жою бойынша есеп қашан ұсынылады?,answerable,simple,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+163,TEST_0225,Теміржол көлігінде қозғалыс қауіпсіздігі бұзушылықтары туралы ақпаратты мемлекеттік көліктік бақылау органына қашан беру керек?,answerable,moderate,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+164,TEST_0228,Бейрезидент-жеке тұлғаның салық салудан босатылған кірістері қандай жағдайларда салық салуға жатпайды?,answerable,complex,deadline,civil_law,complex_legal,complex,complex_lookup,0
+165,TEST_0229,Қазақстанда алыс-беріс шикізатын қайта өңдеу жұмыстарының фактісін растау үшін қандай құжаттар қажет?,answerable,complex,definition,civil_law,moderate_lookup,moderate,moderate_lookup,0
+166,TEST_0231,Қандай жағдайда шетелдік компания қосылған құн салығын төлеуші болып танылады?,answerable,moderate,definition,tax_law,moderate_lookup,moderate,moderate_lookup,0
+167,TEST_0233,Темір жол жылжымалы құрамын комиссиялық қарап тексеру қаншалықты жиі жүргізіледі?,answerable,moderate,deadline,labor_law,moderate_lookup,moderate,moderate_lookup,0
+168,TEST_0238,Жою жоспары дегеніміз не?,answerable,complex,definition,civil_law,definition,simple,definition_lookup,0
+169,TEST_0236,Кірістер мен мүлік туралы декларацияны тапсырудың соңғы мерзімі қандай?,answerable,complex,deadline,tax_law,deadline,moderate,deadline_lookup,0
+170,TEST_0045,Қазақстан Республикасының шекарасындағы мұнайдың орташа өлшемді экспорттық бағасы қалай анықталады?,answerable,simple,definition,civil_law,moderate_lookup,moderate,moderate_lookup,0
+171,TEST_0033,16-бапқа енгізілген өзгерістер қашан қолданысқа енгізіледі?,answerable,moderate,deadline,other,moderate_lookup,moderate,moderate_lookup,0
+172,TEST_0047,Жер қойнауын пайдаланушы келісімшартқа қосымша келісімге қашан қол қоюы керек?,answerable,simple,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+173,TEST_0001,Қазақстанда инвесторлардың құқықтарын қорғау үшін қандай шаралар қабылданады?,answerable,simple,definition,migration_law,moderate_lookup,moderate,moderate_lookup,0
+174,TEST_0038,Осы шешім қашан қолданысқа енгізіледі?,answerable,simple,deadline,education_law,moderate_lookup,moderate,moderate_lookup,0
+175,TEST_0037,610-бапқа енгізілген өзгерістер қашан қолданысқа енгізіледі?,answerable,moderate,deadline,other,moderate_lookup,moderate,moderate_lookup,0
+176,TEST_0036,Қандай ақаулықтар орын алған жағдайда бағыттамалық бұрмаларды пайдалануға жол берілмейді?,answerable,moderate,deadline,other,moderate_lookup,moderate,moderate_lookup,0
+177,TEST_0035,Заңға енгізілген өзгерістер ресми жарияланғаннан кейін қанша күннен соң қолданысқа енгізіледі?,answerable,moderate,deadline,other,deadline,moderate,deadline_lookup,0
+178,TEST_0050,Мұнайдың әлемдік бағасы қалай анықталады?,answerable,simple,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+179,TEST_0054,Теміржол көлігі қызметкерлерінің денсаулығын тексеру қалай жүзеге асырылады?,answerable,moderate,deadline,health_law,complex_legal,complex,complex_lookup,0
+180,TEST_0053,Корпоративтік басқару жүйесінің рейтингі қаншалықты жиі қалыптастырылады?,answerable,simple,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+181,TEST_0046,Жобаны іске асыру кезінде қандай бағалау шаралары жүргізіледі?,answerable,simple,deadline,civil_law,moderate_lookup,moderate,moderate_lookup,0
+182,TEST_UNANS_0024,Болашақта енгізілетін жаңа көші-қон ережелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+183,TEST_UNANS_0043,Келесі жылы әлі қабылданбаған заң бойынша айыппұл мөлшері қандай болады?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+184,TEST_UNANS_0042,2030 жылы қабылданатын жаңа салық мөлшерлемелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+185,TEST_UNANS_0041,2028 жылы Қазақстан Республикасының жаңа Еңбек кодексінде қандай өзгерістер болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+186,TEST_UNANS_0049,Болашақта енгізілетін жаңа көші-қон ережелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+187,TEST_UNANS_0023,Келесі жылы әлі қабылданбаған заң бойынша айыппұл мөлшері қандай болады?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+188,TEST_UNANS_0022,2030 жылы қабылданатын жаңа салық мөлшерлемелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+189,TEST_UNANS_0021,2028 жылы Қазақстан Республикасының жаңа Еңбек кодексінде қандай өзгерістер болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+190,TEST_UNANS_0020,Әлі күшіне енбеген заң жобасы бойынша азамат қандай құқықтарға ие болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+191,TEST_UNANS_0019,Болашақта енгізілетін жаңа көші-қон ережелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+192,TEST_UNANS_0018,Келесі жылы әлі қабылданбаған заң бойынша айыппұл мөлшері қандай болады?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+193,TEST_UNANS_0017,2030 жылы қабылданатын жаңа салық мөлшерлемелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+194,TEST_UNANS_0032,2030 жылы қабылданатын жаңа салық мөлшерлемелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+195,TEST_UNANS_0031,2028 жылы Қазақстан Республикасының жаңа Еңбек кодексінде қандай өзгерістер болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+196,TEST_UNANS_0030,Әлі күшіне енбеген заң жобасы бойынша азамат қандай құқықтарға ие болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+197,TEST_UNANS_0029,Болашақта енгізілетін жаңа көші-қон ережелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+198,TEST_UNANS_0028,Келесі жылы әлі қабылданбаған заң бойынша айыппұл мөлшері қандай болады?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+199,TEST_UNANS_0027,2030 жылы қабылданатын жаңа салық мөлшерлемелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+200,TEST_UNANS_0026,2028 жылы Қазақстан Республикасының жаңа Еңбек кодексінде қандай өзгерістер болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+201,TEST_UNANS_0025,Әлі күшіне енбеген заң жобасы бойынша азамат қандай құқықтарға ие болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+202,TEST_UNANS_0040,Әлі күшіне енбеген заң жобасы бойынша азамат қандай құқықтарға ие болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+203,TEST_UNANS_0039,Болашақта енгізілетін жаңа көші-қон ережелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+204,TEST_UNANS_0038,Келесі жылы әлі қабылданбаған заң бойынша айыппұл мөлшері қандай болады?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+205,TEST_UNANS_0037,2030 жылы қабылданатын жаңа салық мөлшерлемелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+206,TEST_UNANS_0036,2028 жылы Қазақстан Республикасының жаңа Еңбек кодексінде қандай өзгерістер болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+207,TEST_UNANS_0035,Әлі күшіне енбеген заң жобасы бойынша азамат қандай құқықтарға ие болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+208,TEST_UNANS_0034,Болашақта енгізілетін жаңа көші-қон ережелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+209,TEST_UNANS_0033,Келесі жылы әлі қабылданбаған заң бойынша айыппұл мөлшері қандай болады?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+210,TEST_UNANS_0048,Келесі жылы әлі қабылданбаған заң бойынша айыппұл мөлшері қандай болады?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+211,TEST_UNANS_0047,2030 жылы қабылданатын жаңа салық мөлшерлемелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+212,TEST_UNANS_0046,2028 жылы Қазақстан Республикасының жаңа Еңбек кодексінде қандай өзгерістер болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+213,TEST_UNANS_0045,Әлі күшіне енбеген заң жобасы бойынша азамат қандай құқықтарға ие болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+214,TEST_UNANS_0044,Болашақта енгізілетін жаңа көші-қон ережелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+215,TEST_UNANS_0003,Келесі жылы әлі қабылданбаған заң бойынша айыппұл мөлшері қандай болады?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+216,TEST_UNANS_0001,2028 жылы Қазақстан Республикасының жаңа Еңбек кодексінде қандай өзгерістер болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+217,TEST_UNANS_0002,2030 жылы қабылданатын жаңа салық мөлшерлемелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+218,TEST_UNANS_0007,2030 жылы қабылданатын жаңа салық мөлшерлемелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+219,TEST_UNANS_0006,2028 жылы Қазақстан Республикасының жаңа Еңбек кодексінде қандай өзгерістер болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+220,TEST_UNANS_0005,Әлі күшіне енбеген заң жобасы бойынша азамат қандай құқықтарға ие болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+221,TEST_UNANS_0004,Болашақта енгізілетін жаңа көші-қон ережелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+222,TEST_UNANS_0008,Келесі жылы әлі қабылданбаған заң бойынша айыппұл мөлшері қандай болады?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+223,TEST_UNANS_0009,Болашақта енгізілетін жаңа көші-қон ережелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+224,TEST_UNANS_0010,Әлі күшіне енбеген заң жобасы бойынша азамат қандай құқықтарға ие болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+225,TEST_UNANS_0011,2028 жылы Қазақстан Республикасының жаңа Еңбек кодексінде қандай өзгерістер болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+226,TEST_UNANS_0012,2030 жылы қабылданатын жаңа салық мөлшерлемелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+227,TEST_UNANS_0013,Келесі жылы әлі қабылданбаған заң бойынша айыппұл мөлшері қандай болады?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+228,TEST_UNANS_0014,Болашақта енгізілетін жаңа көші-қон ережелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+229,TEST_UNANS_0015,Әлі күшіне енбеген заң жобасы бойынша азамат қандай құқықтарға ие болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+230,TEST_UNANS_0016,2028 жылы Қазақстан Республикасының жаңа Еңбек кодексінде қандай өзгерістер болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+231,TEST_UNANS_0050,Әлі күшіне енбеген заң жобасы бойынша азамат қандай құқықтарға ие болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+232,TEST_UNANS_0052,2030 жылы қабылданатын жаңа салық мөлшерлемелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+233,TEST_UNANS_0051,2028 жылы Қазақстан Республикасының жаңа Еңбек кодексінде қандай өзгерістер болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+234,TEST_UNANS_0053,Келесі жылы әлі қабылданбаған заң бойынша айыппұл мөлшері қандай болады?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+235,TEST_UNANS_0054,Болашақта енгізілетін жаңа көші-қон ережелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+236,TEST_UNANS_0056,2028 жылы Қазақстан Республикасының жаңа Еңбек кодексінде қандай өзгерістер болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+237,TEST_UNANS_0055,Әлі күшіне енбеген заң жобасы бойынша азамат қандай құқықтарға ие болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+238,TEST_UNANS_0057,2030 жылы қабылданатын жаңа салық мөлшерлемелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
+239,TEST_UNANS_0058,Келесі жылы әлі қабылданбаған заң бойынша айыппұл мөлшері қандай болады?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+240,TEST_UNANS_0059,Болашақта енгізілетін жаңа көші-қон ережелері қандай?,unanswerable,complex,unanswerable,out_of_corpus,unanswerable_risk,complex,unanswerable_risk,1
+241,TEST_UNANS_0060,Әлі күшіне енбеген заң жобасы бойынша азамат қандай құқықтарға ие болады?,unanswerable,complex,unanswerable,out_of_corpus,moderate_lookup,moderate,moderate_lookup,0
