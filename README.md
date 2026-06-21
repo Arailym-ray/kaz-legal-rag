@@ -3,7 +3,7 @@
 This repository contains the data, code, and configuration for the paper
 **"Complexity-Aware Adaptive Retrieval-Augmented Generation for Grounded
 Kazakh Legal Question Answering"** (Tleubayeva et al., 2026).
-![Uploading image.png…]()
+<img width="524" height="294" alt="image" src="https://github.com/user-attachments/assets/83bc20d7-6034-4181-80c5-65745116809e" />
 
 ## Overview
 
