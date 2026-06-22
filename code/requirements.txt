@@ -1,0 +1,35 @@
+# Core
+numpy>=1.24,<2.0
+pandas>=2.0
+scipy>=1.11
+scikit-learn>=1.3
+pyyaml>=6.0
+tqdm>=4.66
+
+# Retrieval
+rank-bm25>=0.2.2
+faiss-cpu>=1.7.4            # use faiss-gpu if building the index on GPU
+FlagEmbedding>=1.2.10       # BGE-M3 + BGE-reranker-v2-m3
+sentence-transformers>=2.7
+transformers>=4.40
+torch>=2.1                  # match your CUDA build for A100
+
+# Generation / judging (proprietary)
+openai>=1.30                # GPT-4.1 generator, GPT-5 judge, GPT-4o cross-check
+
+# Local generators (HF backends)
+accelerate>=0.30
+bitsandbytes>=0.43          # optional, for 8-bit local inference
+
+# Metrics
+sacrebleu>=2.4              # chrF / chrF++
+rouge-score>=0.1.2
+statsmodels>=0.14           # Holm correction, bootstrap helpers
+
+# Data
+datasets>=2.19              # load LegalRAG from Hugging Face
+huggingface-hub>=0.23
+
+# Notebooks
+jupyter>=1.0
+matplotlib>=3.8

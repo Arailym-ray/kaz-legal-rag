@@ -1,0 +1,76 @@
+# =====================================================================
+# Experiment configuration — Complexity-Aware Adaptive RAG (Kazakh Legal QA)
+# Single source of truth. Values here must match the paper (Tables 9, 10).
+# =====================================================================
+
+seed: 42
+
+paths:
+  corpus_hf: "Arailym-tleubayeva/LegalRAG"   # Hugging Face dataset
+  benchmark: "data/benchmark/benchmark_242.jsonl"
+  results_dir: "results/"
+
+corpus:
+  n_chunks: 56916
+  n_documents: 5603
+  min_chunk_words: 30
+  max_chunk_words: 450
+
+retrieval:
+  sparse: "bm25"                     # Okapi BM25
+  dense_backbone: "BAAI/bge-m3"
+  dense_candidates:                  # evaluated in the backbone comparison (Table 16)
+    - "BAAI/bge-m3"
+    - "intfloat/multilingual-e5-large"
+    - "Qwen/Qwen3-Embedding-0.6B"
+    - "sentence-transformers/LaBSE"
+  fusion: "rrf"
+  rrf_kappa: 60                      # reciprocal rank fusion smoothing constant
+  faiss_index: "IndexFlatIP"
+  normalize_embeddings: true
+  max_seq_length: 512
+  batch_size: 128
+  character_folding: true            # Kazakh Cyrillic folding (Table 18)
+
+reranker:                            # ablation only — NOT in default pipeline
+  model: "BAAI/bge-reranker-v2-m3"
+  candidate_pools: [20, 50, 100]
+  final_top_k: 10
+
+depth:                               # Table 9
+  naive_k: 5
+  static_k: 10
+  adaptive:
+    simple: 5
+    moderate: 10
+    complex: 15
+
+generation:
+  selected_generator: "gpt-4.1"      # chosen via backbone comparison (Table 23)
+  candidates:
+    - {name: "KazLLM-1.0-8B",         id: "issai/LLama-3.1-KazLLM-1.0-8B",      backend: "hf"}
+    - {name: "Hermes-3-Llama-3.1-8B", id: "NousResearch/Hermes-3-Llama-3.1-8B", backend: "hf"}
+    - {name: "Qwen2.5-7B",            id: "Qwen/Qwen2.5-7B-Instruct",           backend: "hf"}
+    - {name: "GPT-4.1",               id: "gpt-4.1",                            backend: "openai"}
+  temperature: 0
+  max_new_tokens: 512
+  eval_subset_n: 50                  # stratified by complexity for generation eval
+
+judge:
+  primary: "gpt-5"                   # 6 criteria, 0–2 ordinal
+  secondary: "gpt-4o"                # cross-check (Section 4.10.4)
+  temperature: 0
+  criteria: [legal_correctness, evidence_support, citation_accuracy,
+             completeness, clarity, hallucination]
+
+abstention:
+  detector: "rule_based"
+  languages: [kz, rus]               # refusal markers; set to [kz, rus, en] only if English was used
+  positive_class: "unanswerable"
+
+stats:
+  significance_test: "wilcoxon"
+  correction: "holm"
+  alpha: 0.05
+  bootstrap_iters: 10000
+  ci: 0.95
